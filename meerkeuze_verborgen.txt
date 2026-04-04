@@ -1,0 +1,123 @@
+Wijsbegeerte
+Pieter Vanderschueren
+Academiejaar 2022-2023
+1 Meerkeuzevragen
+1. Denken dat filosofie niet nuttig is, is een vorm van:
+⃝ Wetenschappelijk denken
+⃝ Eerste-ordedenken
+⃝ Tweede-ordedenken
+⃝ Derde-ordedenken
+⃝ Ik weet het niet
+2. De uitvinding van het nevelvat leidde ertoe dat
+⃝ de grens tussen het observeerbare en het niet-observeerbare opschoof richting het tweede.
+⃝ de grens tussen het detecteerbare en het niet-detecteerbare opschoof richting het tweede.
+⃝ de grens tussen het observeerbare en het slechts detecteerbare opschoof richting het tweede.
+⃝ de grens tussen het slechts detecteerbare en het observeerbare opschoof richting het tweede.
+⃝ Ik weet het niet
+3. Je moet hoesten, je hebt koorts, je bent kortademig en je bent tijdens de krokusvakantie gaan ski¨en in
+de Italiaanse Alpen. De huisarts vermoedt dat je besmet bent met het SARS-CoV-2 virus, dat de ziekte
+COVID-19 bij jou veroorzaakt heeft. Dit type van inferentie is:
+⃝ Deductief
+⃝ Inductief
+⃝ Abductief
+⃝ Intelligent
+4. ”Er is een onzichtbaar, onhoorbaar, geurloos, onaanraakbaar wezen dat jeuk veroorzaakt bij alle stu-
+denten die filosofieles krijgen.” Deze uitspraak is
+⃝ verifieerbaar en falsifieerbaar.
+⃝ verififieerbaar, maar niet-falsifieerbaar.
+⃝ niet-verifieerbaar, maar wel falsifieerbaar.
+⃝ niet-verifieerbaar en niet-falsifieerbaar.
+5. Hypothese: ”Ten minste ´e´en man op de Vliegende Hollander heeft een baard.”
+Observatiezinnen:
+• Jan heeft geen baard
+• Pieter heeft geen baard
+• Corneel heeft geen baard
+Hulphypothese: alleen Jan, Pieter en Corneel zijn mannen op de Vliegende Hollander
+Wat zou een voorbeeld van een ad-hoc-hypothese kunnen zijn?
+⃝ Geen enkele man op de Vliegende Hollander heeft een baard.
+⃝ Jan, Pieter of Corneel hebben toch een baard.
+⃝ Anne is een vrouw op de Vliegende Hollander.
+⃝ Er is nog een andere man aan boord.
+⃝ Ik weet het niet.
+6. Er zijn afgerond 17 miljoen Nederlanders, waarvan ongeveer 8,5 miljoen mannen en ongeveer 60 000
+mannen langer dan twee meter. Volgens het eindig frequentisme is de waarschijnlijkheid van ’Er zijn
+Nederlandse mannen langer dan twee meter’ relatief ten opzichte van de referentieklasse van Nederlandse
+mannen (ongeveer) gelijk aan:
+⃝ 1
+⃝ 3/425
+⃝ 0
+⃝ onbepaald
+⃝ Ik weet het niet.
+7. Wat is de juiste conclusie uit het gedachtenexperiment met de kubusfabriek?
+⃝ Het principe van onvoldoende reden is inconsistent, tenzij je een keuze maakt uit de verschil-
+lende manieren om de mogelijkheden te beschrijven.
+⃝ Het principe van onvoldoende reden is inconsistent, als je een keuze maakt uit de verschillende
+manieren om de mogelijkheden te beschrijven.
+⃝ De waarschijnlijkheid dat een kubus met een zijlengte tussen 0m en 1/2m van de band rolt, is
+gelijk aan 1/2 en is verschillend van 1/2.
+⃝ Singuliere beschrijvingen van mogelijkheden leiden in combinatie met het principe van onvol-
+doende reden tot inconsistentie.
+⃝ Ik weet het niet.
+8. Het probleem van statistische hypotheses voor de hypothetisch-deductieve theorie van confirmatie toe-
+gepast op:
+• ”Hondeigenaren hebben een hogere kans op allergie voor kattenharen.”
+• ”In ons onderzoek hadden meer hondeigenaren dan mensen zonder hond een allergie voor katten-
+haren
+Het probleem is dat
+⃝ de eerste uitspraak consistent is met de tweede.
+⃝ de eerste uitspraak consistent is met de negatie van de tweede.
+⃝ de eerste uitspraak inconsistent is met de tweede.
+⃝ de eerste uitspraak inconsistent is met de negatie van de tweede.
+⃝ Ik weet het niet.
+Page 2
+9. Welke uitspraak is geen premisse in het argument van Hume?
+⃝ Als iets mogelijk is, is er geen conclusief bewijs voor het tegenovergestelde.
+⃝ Geen (tentatief) bewijs dat haar conclusie veronderstelt, is een (echt) bewijs voor die conclusie.
+⃝ Tenzij er een conclusief bewijs is voor een bewering of er een empirisch bewijs is voor die
+bewering, is er geen bewijs voor die bewering.
+⃝ Tenzij er een conclusief bewijs is voor de uniformiteit van de natuur, is er geen reden om geloof
+te hechten aan de conclusies van inductieve redeneringen.
+⃝ Ik weet het niet.
+10. Over welke theoretische deugd beschikt de theorie van Ptolemaeus in hogere mate dan de theorie van
+Copernicus?
+⃝ Empirische adequaatheid
+⃝ Reikwijdte
+⃝ Externe coherentie
+⃝ Eenvoud
+⃝ Ik weet het niet.
+11. Het probleem van symmetrie wordt opgelost door ...
+⃝ de deductief-nomologische theorie.
+⃝ probabilistische relevantie.
+⃝ causale afhankelijkheid.
+⃝ backtracking tegenfeitelijk voorwaardelijke zinnen.
+⃝ Ik weet het niet.
+12. Halley en anderen berekenden voor het eerst op basis van de theorie van Newton en de aanname dat
+een bepaalde komeet rond de zon draait en eerdere verschijningen van die komeet dat diezelfde komeet
+in 1759 opnieuw zou verschijnen. In 1758 is dit
+⃝ theoretische vooruitgang en empirische vooruitgang.
+⃝ theoretische vooruitgang, maar geen empirische vooruitgang.
+⃝ empirische vooruitgang, maar geen theoretische vooruitgang.
+⃝ noch theoretische vooruitgang, noch empirische vooruitgang.
+⃝ Ik weet het niet.
+13. Wat was volgens Popper het probleem met de theorie van Marx?
+⃝ Er volgde geen voorspellingen uit die misschien niet zouden uitkomen.
+⃝ De socialistische revoluties vonden plaats in landen die nog niet of weinig ge¨ındustrialiseerd
+waren.
+⃝ De theorie werd gefalsifieerd.
+⃝ De marxisten probeerden met ad-hoc-hypotheses hun theorie van falsificatie af te schermen.
+⃝ Ik weet het niet.
+Page 3
+14. De toepassing van het biologische soortconcept leidt in vergelijking met de toepassing van het fylogene-
+tische soortconcept vaak tot een erkenning van
+⃝ Minder soorten
+⃝ Even veel soorten
+⃝ Meer soorten
+⃝ Taxonomische wanorde
+⃝ Ik weet het niet.
+15. Sceptici ten overstaan van de hypothese van antropogene klimaatopwarming stellen dat deze
+⃝ probabilistisch gefalsifieerd werd.
+⃝ gefalsifieerd werd.
+⃝ niet probabilistisch falsifieerbaar is
+⃝ niet falsifieerbaar is.
+⃝ Ik weet het niet.
+Page 4

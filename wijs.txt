@@ -1,0 +1,946 @@
+Wat is het onderscheid tussen eerste-orde denken en tweede-orde denken, en wat
+is het verband met (wetenschaps)filosofie?
+Eerste-orde denken = denken over de wereld of delen daarvan
+Tweede-orde denken = denken over denken over de wereld of delen daarvan
+Verband met wetenschapsfilosofie = wetenschap probeert vaak natuurlijke
+verschijnselen of delen van de wereld te verklaren, hier kan eerste-orde/tweede-
+orde denken voor gebruikt worden
+Wat is epistemologie? Wat is het verband met wetenschapsfilosofie?
+Epistemologie = tak van filosofie met volgende vragen:
+Wat is kennis
+Wat is rechtvaardiging
+Wat is de structuur van kennis en rechtvaardiging
+Wat zijn de bronnen van kennis en rechtvaardiging
+Wat zijn de limieten van kennis en rechtvaardiging
+Het verband met wetenschapsfilosofie is dat epistemologie toegepast kan worden
+op wetenschappelijke kennis.
+Wat is ethiek? Wat heeft het te maken met wetenschapsfilosofie?
+Ethiek is de leer van goed, slecht of beter handelen in het leven. Het verband met
+wetenschapsfilosofie is dat er in de wetenschap steeds moet nagedacht of bv. een
+nieuwe uitvinding ethisch verantwoord is of niet.
+Wat is metafysica? Wat is het verband met wetenschapsfilosofie?
+Metafysica is een tak van de filosofie waarin vragen zoals de volgende aan bod
+komen:
+- Wat zijn mogelijkheden
+- Wat zijn ruimte en tijd
+- Wat is causaliteit
+- Wat is de relatie tussen het mentale en het fysieke
+- ...
+Waarom is het nuttig om wetenschapsfilosofie te studeren?
+Inzicht verwerven in de natuur, veronderstellingen en de beperkingen van
+wetenschap. Daarmee kan je ook vooroordelen en misverstanden over wetenschap
+uit de weg ruimen,
+Wetenschapsfilosofie is nuttig omdat we zo kunnen vermijden dat we foute ideeën
+hebben over hoe de wetenschap werkt. Dit is een negatieve rol. Kan
+wetenschapsfilosofie ook een positieve rol spelen? Welke?
+Ja, meer inzicht verwerven in wat wetenschap is en hoe ze zich onderscheidt van
+pseudowetenschap (niet-wetenschap die zich voordoet als wetenschap)
+Bv:
+1. effectieve gezondheidszorg gebaseerd op echt wetenschappelijk onderzoek
+onderscheiden van ineffectieve gezondheidszorg gebaseerd op pseudowetenschap
+2. ervoor zorgen dat burgers en pers onderscheid kunnen maken tussen echte
+wetenschappelijk controverse en pseudowetenschappelijke ruis
+Hoe illustreert het geval van antibiotica dat er een nauwe relatie is tussen
+wetenschap en maatschappij is?
+De boeren geven antibiotica aan de varkens niet alleen om ze gezond te houden,
+maar ook om ze dikker te maken. Dit heeft te maken met de toenemende
+vleesconsumptie in China. Dus doordat mensen meer vlees eten (maatschappij),
+wordt antibiotica meer gebruikt (wetenschap). Op welke manier beïnvloedt de
+wetenschap de maatschappij in het geval van antibiotica?
+Wanneer een nieuwe antibiotica gemaakt wordt, zal de doorsnee persoon die altijd
+gebruiken om zo snel mogelijk te genezen, zelfs als het niet echt nodig is. Op welke
+manier beïnvloedt de maatschappij de wetenschap in het geval van antibiotica?
+Door antibiotica te veel te gebruiken, gaan de bacteriën evolueren en zal de
+antibiotica niet meer werken, waardoor wetenschappers een nieuwe antibiotica
+moeten maken.
+Waarom is het fout om te zeggen dat het doel van de wetenschap simpelweg is om
+ons toe te laten te handelen en in te grijpen in de wereld?
+Omdat wetenschap meer is dan alleen ingrijpen in de wereld. Het gaat ook over het
+vinden van waarheden voor belangrijke (of significante) vragen. Wat moeilijk is, is
+te bepalen welke vragen belangrijk zijn, aangezien individuen en groepen
+verschillende doelen kunnen hebben.
+Wat bedoelt Kitcher met 'significante waarheden'?
+Waarheden die wij willen weten, of waarheden die significante vragen
+beantwoorden. Deze waarheden zullen ons inzicht in de natuur vergroten en
+stellen ons in staat bepaalde gebeurtenissen te voorspellen of de natuur te
+manipuleren op een manier die wij willen. Waarom is het moeilijk om precies te
+zeggen welke waarheden er significant zijn?
+Mensen en groepen van mensen hebben doelstellingen, maar niet elke persoon en
+elke groep zal dezelfde doelstellingen hebben. Dus voor sommige groepen of
+personen zal een bepaalde waarheid meer significant zijn dan voor andere.
+Een wetenschapper wil nagaan hoeveel zandkorrels er precies lagen tussen
+Oostduinkerke en Oostende op 1 januari 2021. Dit is geen significant onderzoek
+volgens Kitcher omdat...
+de resultaten wellicht noch nuttig, noch interessant zullen zijn.
+"Het is intuïtief aantrekkelijk om te denken dat wetenschappers zelf het best
+kunnen beslissen wat te onderzoeken. Toch is dit volgens Kitcher en Barker geen
+goed idee. Waarom?
+Omdat wetenschappers niet in staat zijn om de doelstellingen van wetenschappelijk
+onderzoek te kiezen. De versie van wetenschappelijke autonomie waarin
+wetenschappers vrij zijn om ""de waarheid te volgen"" erft de gebreken van het
+waardevrije ideaal."
+Wat is het verband tussen Kitcher's argument tegen de autonomie van de
+wetenschap, en zijn claim dat significante waarheid het doel van de wetenschap is?
+Als wetenschappers te veel autonomie krijgen, zullen meer niet-significante
+waarheden onderzocht worden.
+Wat bedoelt Kitcher met 'goed geordende wetenschap'?
+Wetenschappelijk onderzoek wordt enkel gedaan onder bepaalde voorwaarden.
+Deze voorwaarden gebruiken het concept van een ideaal deliberatie, waarbij
+representatieven naar elkaar moeten luisteren en rekening moeten houden met
+elkaar. De voorwaarden zijn:
+1. De na te streven onderzoekslijnen zijn die welke de ideale deliberatie zou
+onderschrijven.
+2. De wijze waarop deze onderzoeken worden uitgevoerd, is in overeenstemming
+met de normen die de ideale deliberatie zou aanvaarden.
+3. De oordelen over welke bevindingen opgenomen moeten worden in het
+evoluerende bestand van aanvaarde wetenschappelijke beweringen, stemmen
+overeen met normen die de ideale deliberatie zou aanvaarden.
+4. De toepassingen die van wetenschappelijke kennis worden gemaakt, zouden
+door de ideale deliberatie worden onderschreven.
+Wat bedoelt Kitcher met 'ideale deliberatie'?
+Een discussie waarbij representatieven met verschillende perspectieven met elkaar
+rekening houden en verschillende dingen kunnen suggereren.
+Wat is het verschil tussen ideal deliberatie en de peer review panels die nu
+beslissen welke onderzoeksonderwerpen we onderzoeken?
+Een ideale deliberatie houdt rekening met alle mogelijke verschillende standpunten
+terwijl peer review panels uit een aantal reviewers bestaan.
+Waarom is Kitcher's voorstel van ideale deliberatie beter dan een 'vulgar
+democracy'?
+Omdat het een complex probleem kan reduceren tot een simpele
+meerderheidsstemming, waarbij iedereen volledig kan negeren hoe anderen
+denken.
+Eerder haalden Kitcher en Barker aan dat het moeilijk is te bepalen wat significant
+is aangezien je altijd moet zeggen voor wie iets significant is, en het onduidelijk is
+wie die 'wie' is. Hoe lost de oplossing van Kitcher en Barker dit probleem op?
+Door de vraag te stellen aan alle mogelijke partijen, zodat de groep als geheel kan
+bepalen hoe significant het probleem is.
+Op welke twee manieren is de huidige wetenschap wellicht niet goed geordend?
+- Op dit moment wordt wetenschappelijk onderzoek niet verdeeld in proportie met
+de hoeveelheid dodelijke ziektes die bestaan. Veel ziektes in arme landen, waarvan
+meer mensen sterven dan minder bekende ziektes in rijkere landen, worden toch
+minder onderzocht dan de minder bekende ziektes.
+- Kennis van wetenschappers wordt niet altijd vertaald in kennis voor allen. Niet
+iedereen krijgt toegang tot dezelfde kennis als de wetenschappers. "
+VRAAG: Wetenschap is juist geordend als...
+ANTWOORD: Geen van de drie opties. Antwoorden A en B ('Als alle burgers
+kunnen meebeslissen wat er onderzocht wordt' en 'Als de democratisch gekozen
+overheid financiering geeft aan onderzoekers die het algemeen belang nastreven')
+is fout omdat die veronderstellen dat het 'goed geordend zijn' van de wetenschap
+afhangt van de effectieve manier waarop de middelen verdeeld worden. Het punt
+van Kitcher en Barker is dat wetenschap die onderwerpen moet onderzoeken die
+gekozen zouden worden door zo'n ideaal comité. Hoe de middelen effectief
+verdeeld worden, maakt dus niet uit -- het is de verdeling zelf die van belang is.
+Antwoord C ('Als wetenschappers het onderzoek zouden doen dat door toekomstige
+generaties zou gekozen worden') gaat wel uit van zo'n ideaal comité, maar laat
+hierbij zonder goede reden de huidige generatie burgers buiten dat comité. "
+Hoe toont de biomedische wetenschap dat wetenschap wellicht niet goed-geordend
+is?
+De meest dodelijke en gevaarlijke ziektes krijgen vaak toch minder geld dan
+minder dodelijke ziektes.
+Hoe komt het dat de biomedische wetenschap niet goed geordend is?
+Bedrijven focussen zich liever op het onderzoeken van medicijnen die ze kunnen
+verkopen om winst te maken. Meestal is dit niet mogelijk in arme landen.
+Wat is inductie?
+Inductie: vertrekt meestal van een groot aantal gevallen of van slechts 1 geval
+2. Socrates is een mens.
+3. Socrates is sterfelijk.
+1. Dus alle mensen zijn sterfelijk.
+Argument wordt sterker naarmate er meer gevallen zijn
+Wat is abductie?
+Abductie: (er wordt gebruik gemaakt van een premisse die meestal impliciet is)
+3. Socrates is sterfelijk.
+1. Alle mensen zijn sterfelijk.
+2. Dus Socrates is een mens.
+Wat is deductie?
+Deductie: (een goed deductief argument is een geldig argument)
+1. Alle mensen zijn sterfelijk.
+2. Socrates is een mens.
+3. Dus Socrates is sterfelijk.
+Wat is het verschil tussen een geldig argument en een correct argument?
+Een argument is geldig als en slechts als zijn formalisatie in de taal van zinslogica
+geldig is.
+Een argument is correct als en slechts als het argument geldig is en de premissen
+waar zijn. Dus een argument kan geldig zijn en incorrect zijn als de premissen
+onwaar zijn.
+Zijn inductieve redeneringen geldig? Zijn abductieve redeneringen geldig? Waarom
+(niet)?
+Inductieve en abductieve redeneringen zijn niet geldig, omdat het perfect mogelijk
+is dat de premissen waar zijn en dat de conclusie onwaar is. Ze kunnen dus ook
+niet geldig zijn.
+De studenten die les 3 van het wetenschapsfilosofie hebben afgelegd zien er
+slaperig uit en lezen af en toe berichten op hun gsm. Het vak moet dus wel saai
+zijn.
+Deze redenering is abductief.
+Alle studenten die vorig jaar les 3 goed hadden begrepen, scoorden ook goed voor
+hun examen. Aangezien ik les 3 goed begrijp, zal ik dus ook wel een goede score
+halen.
+Deze redenering is inductief.
+Als de docent een onwaarheid vertelt, is hij een leugenaar. De tekst over
+observaties stond niet in de eerste uitgave van het boek, dus les 3 is nieuw. De
+redenering in de vorige vraag was dus onwaar. De docent is dus een leugenaar.
+Deze redenering is deductief.
+De vorige vragen hadden telkens een ander antwoord, zodat alle vormen van
+inferentie nu ondervraagd zijn. De vierde vraag is er wellicht om de moeilijkste
+vorm nog eens te testen. Wellicht zal de laatste vraag dus ‘abductie’ als antwoord
+hebben.
+Deze redenering is abductief.
+Is een deductief argument met een onware premisse geldig? Is het correct?
+Geldig: ja
+Correct: nee
+Popper beweert dat wetenschappelijke observatie eerder als een zoeklicht dan als
+een emmer werkt. Op welke manier vormt dit een probleem voor het idee dat
+theorieën afgeleid worden uit feiten die onafhankelijk zijn van theorieën of
+aannames?
+Theorieën creëren verwachtingen en op basis van die verwachtingen worden
+observaties geselecteerd. Als de theorie verkeerd is door een ongeldige inductieve
+redenering, dan zullen verkeerde observaties geselecteerd worden en kan het zijn
+dat er nieuwe theorieën gemaakt worden die verkeerd ongeldig zijn. (is dit juist?)
+Op welke manier vormt de rol van instrumenten in wetenschappelijke observatie
+(of detectie) een probleem voor het idee dat theorieën afgeleid worden uit feiten
+die onafhankelijk zijn van theorieën of aannames?
+Wat observeerbaar is ligt vrij vast: het zijn dingen die observeerbaar zijn door
+hedendaagse mensen. Maar de detecteerbaarheid van iets kan veranderen als
+instrumenten meer nauwkeurig worden.
+Hoe toont de large hadron collider/x-ray crystallografie dat observaties vaak rusten
+op theoretische veronderstellingen?
+Omdat er instrumenten worden gebruikt om het fenomeen te observeren, en in dit
+geval kunnen de instrumenten uit duizenden verschillende componenten bestaan.
+De observaties hangen dus af van de theoretische veronderstellingen van al deze
+componenten samen.
+Wat is er problematisch aan het idee dat wetenschappelijke observatie passief en
+privaat zijn?
+Aangezien twee waarnemers geen toegang hebben tot elkaars waarnemingen,
+kunnen zij op geen enkele manier een dialoog aangaan over de geldigheid van de
+feiten die zij verondersteld worden vast te stellen.
+Wat bedoelt Chalmers met de uitspraak dat observaties 'objectief' kunnen zijn?
+Zij kunnen door middel van eenvoudige procedures door iedereen worden getest.
+Waarom zegt Chalmers dat observaties 'objectief maar feilbaar' zijn?
+Omdat er in de toekomst misschien andere middelen zullen zijn om mee te
+observeren die andere resultaten leveren.
+Goede wetenschappelijke observaties zijn passief en privé: het is belangrijk dat de
+wetenschapper geen inbreng heeft (passief), en dat zij zich enkel laat beïnvloeden
+door haar eigen zintuigen (privé).
+Is dit juist of fout?
+Fout: Goede observaties zijn observaties die bevestigd worden door andere
+wetenschappers. Goede observaties zijn ook actief, in twee betekenissen: ten
+eerste, omdat de observator zelf aannames en theorieën meeneemt naar de
+observatie; en ten tweede, omdat de kwaliteit van een observatie door allerlei
+acties verbeterd en gecontroleerd kan worden.
+Een deductieve redenering met ware premissen geeft steeds een ware conclusie.
+Waar
+‘Ik hoor iets bewegen in de kast, en er liggen uitwerpselen van muizen onder de
+kast, dus er zit een muis in de kast.’ Dit is inductief.
+Niet waar
+Wanneer observaties beïnvloed zijn door theoretische assumpties, kunnen we die
+observaties niet vertrouwen.
+Niet waar
+Omdat observatie-zinnen theorie-geladen zijn, gebruiken goede wetenschappers
+enkel observaties om hun theorieën te onderbouwen.
+Niet waar
+Wat is verificatie? Wat voor hypotheses kunnen door verificatie en deductief
+redeneren bewezen worden?
+Stel dat een bepaalde existentieel gekwantificeerde (er bestaat) zin een ware
+observatiezin is, met andere woorden dat die zin gebruikt kan worden om een
+feitelijke observatie te beschrijven. Als de premisse waar is, dan is de conclusie ook
+waar (modus ponens). Dit betekent dat de zin geverifieerd is.
+Eenvoudige universeel gekwantificeerde zinnen zijn niet direct verifieerbaar.
+Voorbeeld 8.1 p162 - directe verificatie en existentiële kwantificatie
+Op het einde van de achttiende eeuw observeerden Europeanen voor het eerst een
+vogelbekdier, een zoogdier dat eieren legt.
+1. Dit is een zoogdier dat eieren legt.
+2. Bijgevolg is er ten minste 1 zoogdier dat eieren legt.
+Wat is falsificatie? Wat voor hypotheses kunnen door falsificatie en deductief
+redeneren bewezen worden?
+Stel dat de negatie van een bepaalde universeel gekwantificeerde (voor alle) zin
+een ware observatiezin is, met andere woorden dat die zin gebruikt kan worden om
+een feitelijke observatie te beschrijven. Als de premisse waar is, dan is de conclusie
+ook waar (modus tollens). Maar dan is de originele zin onwaar (want we hebben de
+negatie genomen). De zin is dus gefalsifieerd.
+Voorbeeld p163
+1. Dit is geen witte zwaan
+2. Bijgevolg zijn niet alle zwanen wit
+Eenvoudige universeel gekwantificeerde zinnen zijn niet direct verifieerbaar.
+Eenvoudige existentieel gekwantificeerde zinnen zijn doorgaans niet falsifieerbaar.
+Wat is het verschil tussen een hypothese die verifieerbaar/valsifieerbaar is, en een
+hypothese die geverifieerd/gevalsifieerd is?
+Verifieerbaar/valsifieerbaar: de hyptothese (logische zin) heeft de structuur van een
+zijn die geverifieerd kan worden (met een existentiele kwantor) of gevalsifieerd kan
+worden (met een universele kwantor)
+Geverifieerd/gevalsifieerd: de observatiezin is waar/onwaar, dus de hypothese is
+geverifieerd/gevalsifieerd
+Hoe maken hulphypothesen indirecte verificatie of falsificatie van een hypothese
+mogelijk?
+Een zin is een hulphypothese relatief ten opzichte van een gegeven hypothese (ook
+wel ‘hoofdhypothese’ genoemd) en een eindige, consistente verzameling van
+observatiezinnen als en slechts als
+1. die zin gebruikt wordt om de (negatie van de) hoofdhypothese logisch af te
+leiden uit die verzameling observatiezinnen, of
+2. die zin gebruikt wordt om een (negatie van de) observatiezin uit de hypothese af
+te leiden, en
+3. die zin onmisbaar is in die logische afleidingen
+Als de hulphypothese gebruikt kan worden om de hoofdhypothese logisch af te
+leiden, wordt het eigenlijk gebruikt om de hypothese te verifiëren/falsifiëren. Op
+welke manier bieden hulphypothesen wetenschappers de mogelijkheid om bij een
+falsificatie van een hypothese toch vast te houden aan die hypothese?
+Het is mogelijk om een hulphypothese in twijfel te brengen om de hoofdhypothese
+af te schermen van falsificatie. Zie Quine-Duhem probleem.
+Hoe tonen de voorbeelden van de trajecten van Mercurius en Uranus dat het niet
+altijd meteen duidelijk is of we, bij een falsificatie, de fout bij de hoofdhypothese of
+de hulphypothese moeten leggen?
+Het was niet duidelijk of Newton’s wet niet geldig was (hoofdhypothese), of er
+misschien een andere kracht was (hulphypothese) die voor de traject van
+Mercurius zorgde.
+Wat is het Quine-Duhem probleem? Waarom vormt dit een probleem voor het
+gebruik van deductief redeneren in de wetenschap?
+Bij indirecte falsificatie kunnen we niet logisch afleiden dat de hoofdhypothese
+onwaar is.
+Een theorie kan dus gered worden van falsificatie door een hulphypothese te
+verwerpen. Stricte falsificatie is onmogelijk.
+Hoe kunnen wetenschappers bij een falsificatie hun theorie 'redden' door gebruik
+te maken van een ad hoc hypothese?
+Een ad-hoc-hypothese is een hypothese die enkel en aleen naar voren geschoven
+wordt om bij de indirectie falsificatie van een hoofdhypothese te kunnen
+concluderen dat minstens 1 hulphypothese fout is. Dus als er een ad-hoc-hypothese
+wordt toegevoegd aan een groep van hypotheses, kan er voorkomen worden dat de
+theorie gefalsifieerd wordt.
+Waarom kunnen wetenschappers niet enkel gebruik maken van deductie?
+Omdat je ergens een beginpunt moet hebben, dus je moet een beetje inductie
+gebruiken om iets te kunnen doen.
+Het verschil tussen directe en indirecte falsificatie is dat hulphypothesen geen rol
+spelen bij directe falsificatie.
+Waar
+Wetenschappers kunnen geldige deductieve redeneringen maken in de vorm van
+verificatie van universele zinnen en falsificatie van existentiële zinnen.
+Niet waar
+Wanneer een theorie gefalsifieerd wordt, kunnen we toch aan de juistheid van die
+theorie vasthouden door onze hulphypothesen aan te passen.
+Waar
+Wat is de moeilijkheid met directe verificatie van een universele zin? Wat is de
+moeilijkheid met directe falsificatie van een existentieel gekwantificeerde zin?
+Het kan zijn dat het maximum aantal elementein in het domein van kwantificatie
+onbekend is. Let op: dit is niet altijd het geval. Soms zal het aantal elementen wel
+gekend zijn.
+Wat is Hume's vork, en hoe is deze verbonden met deductie en inductie?
+Er zijn 2 types van redeneringen die reden kunnen geven om geloof te hechten aan
+een bewerende zin:
+- conclusieve bewijzen
+- 'waarschijnlijke redeneringen' of empirische 'bewijzen'
+Conclusieve bewijzen: argumenten die onomstotelijk hun conclucise aantonen (bv.
+wiskundige bewijzen)
+Waarschijnlijke redeneringen: argumenten die hun conclucise slechts
+waarschijnlijk maken, zoals empirische bewijzen (redeneringen op basis van
+observaties uit het verleden), hieronder valt enumeratieve inductie
+Wat bedoelt Hume met de premisse dat het denkbaar is dat de natuur niet uniform
+is?
+De uniformiteit van de natuur is het principe dat de loop van de natuur uniform
+doorgaat
+hetzelfde is, b.v. als X de oorzaak is van Y, dan zal Y noodzakelijkerwijs bestaan
+wanneer X bestaat. Hume zegt dat het mogelijk is om te denken dat dit niet het
+geval is.
+Waarom sluit Hume circulaire argumenten uit? Welke rol speelt dit in Hume's
+argument?
+“Geen argument toont haar conclusie aan, indien dat argument die conclusie reeds
+veronderstelt. Dit houdt een verbod in op circulaire conclusieve bewijzen.”
+Een empirisch bewijs voor de uniformiteit van de natuur veronderstelt de
+uniformiteit van de natuur. Dit is een gevolg van de visie van Hume, die inhoudt dat
+alle empirische bewijzen steunen op observaties uit het verleden. Dus: het
+argument is circulair en niet correct.
+Waarom vormt Goodman's 'nieuw raadsel' een probleem voor inductie?
+Hij introduceert een nieuw predicaat met 2 conclusies die logisch incompatibel
+zijn.
+Waarom is het moeilijk te verdedigen dat 'grauw' geen legitiem predikaat is, en
+'groen' wel?
+Omdat je het predikaat van ‘groen’ kan herschrijven in een vorm met ‘grauw’.
+Is dit een probleem dat zich enkel voordoet in hypothetische voorbeelden met
+bizarre predikaten zoals grauw? Indien niet, geef een voorbeeld.
+Neen, bijvoorbeeld curve-fitting: je zoekt het verband tussen grootheden x en y. Je
+kan de exacte waarde van y meten voor een eindig aantal x. Als je de waarden op
+een curve zet, zijn er telkens andere hypotheses (voor de curvevergelijkingen die
+overeenstemmen met alle gemeten waarden.)
+Leg uit: Goodman's probleem toont dat we, om een inductief argument te
+evalueren, niet enkel naar de vorm van het argument moeten kijken, maar ook naar
+de inhoud. Hoe verschilt dit van deductieve redeneringen?
+?
+Wat zou Hume antwoorden op de rechtvaardiging die Dawkins geeft?
+Het werkt op dit moment, maar dat betekent niet dat het voor altijd zal werken.
+Goodman's nieuwe raadsel over inductie toont dat we niet kunnen aannemen dat
+de natuur uniform is.
+Niet waar
+Hume's vork houdt een onderscheid in tussen inductie en abductie.
+Niet waar
+Hume's probleem van inductie toont dat zelfs indien de natuur uniform is, we niet
+op inductie kunnen vertrouwen.
+Niet waar
+Feynman verdedigt een fallibilistische visie op de wetenschap. Wat betekent dit?
+fallibilistische visie op de wetenschap: We moeten niet zoeken naar een zekere
+fundatie voor de wetenschap (zoals een sluitende logica van inductie), maar
+accepteren dat alle claims die we maken misschien wel fout zijn. Dit wil zeggen dat
+onzekerheid een fundamentele eigenschap is van de wetenschap.
+Wat wordt er bedoeld met de 'greenhouse gamble'?
+Er zijn verschillende mogelijkheden met verschillende kansen voor
+temperatuurverandering in de toekomst. Met klimaatbeleid zijn er minder
+mogelijkheden en is dus de kans voor een mogelijkheid ook groter (= meer
+zekerheid).
+Bij de bespreking van het argument dat onzekerheid een goede reden is om geen
+actie te ondernemen, zegt de spreker dat dit niet zo is, want 'uncertainty cuts both
+ways'. Wat bedoelt hij?
+Realiteit zou erger of beter kunnen zijn dat de voorspelling.
+Moeten wetenschappers zich enkel bezighouden met theorieën en vragen waarbij
+onzekerheid klein is?
+Neen. Zelfs onzekere theorieën kunnen een algemeen beeld geven van een bepaald
+probleem, waardoor er misschien iets aan dat probleem gedaan zou kunnen
+worden.
+Wat is het verschil tussen sterke en zwakke onderdeterminatie?
+Twee onderling inconsistente hypotheses zijn consistent met alle
+observatierapporten tot nu toe = zwakke onderdeterminatie
+Twee onderling inconsistente hypotheses zijn consistent met alle
+observatierapporten die we zullen of zelfs kunnen hebben = sterkte determinatie
+Wat is het verband tussen Hume's probleem en onderdeterminatie?
+Dat het weinig zin heeft om geloof te hechten aan de conclusies van inductieve
+redeneringen.
+Wat is het verband tussen 'curve fitting' (cf. Goodman's probleem) en
+onderdeterminatie?
+Stel, je voert enkele experimenten uit.
+Experiment 1: gasdruk is 1 hPa, volume is 1 m^3
+Experiment 2: gasdruk is 2 hPa, volume is 1/2 m^3
+Experiment 3: gasdruk is 3 hPa, volume is 1/3 m^3
+Je zet de experimentele bevindingen uit op een grafiek. Er zijn oneindig veel curves
+waar die punten op liggen. Elk van die curves correspondeert met een hypothese
+en elk van die hypotheses wordt door elk van die experimenten geconfirmeerd.
+Welke rol spelen theoretische deugden in theoriekeuze?
+Je kan de theorie kiezen op basis van hoeveel theoretische deugden ze aan voldoen.
+Welke zijn volgens Kuhn de belangrijkste theoretische deugden? Leg deze kort uit.
+- empirische adequaatheid en accuraatheid:
+hoe nauw de overstemming is tussen de voorspellingen enerzijds en de reeds
+uitgevoerde experimenten en gedane observaties anderzijds
+- reikwijdte (waaronder empirische kracht);
+hoeveelheid van feiten die met behulp van de theorie verklaard kunnen worden
+- vruchtbaarheid;
+hoeveelheid nieuwe feiten die de theorie voorspelt
+- (interne en externe) consistentie;
+interne: logische consistentie van de theorie
+externe: gaat over de vraag of die theorie logisch consistent is met andere
+theorieën
+- eenvoud
+Vormen theoretische deugden een oplossing voor het probleem van
+onderdeterminatie? In welke zin wel, en in welke zin niet?
+?
+Wat is het verband tussen incommensurabiliteit en theoretische deugden?
+incommensurabiliteit = onvergelijkbaarheid: er is geen compleet objectieve
+theoriekeuze mogelijk omdat de voorstanders van de ene theorie andere
+maatstaven voor theoriekeuze zwaarder laten doorwegen dan de voorstanders van
+de andere theorie, terwijl het criterium van empirische accuraatheid niet
+beslissend is
+Leg van Fraassen's onderscheid tussen epistemische deugden en pragmatische
+deugden uit.
+epistemische deugden: duidelijk empirische adequaatheid, accuraatheid en kracht,
+dus de voorspellingen van een theorie stemmen overeen met de waarnemingen, ze
+stemmen er nauw mee overeen en er kunnen veel voorspellingen uit afgeleid
+worden
+pragmatische deugden: maken het gemakkelijker om te werken met een theorie
+"Hoe geven onzekerheid en onderdeterminatie factoren zoals genderverschillen
+ruimte om een rol te spelen in wetenschap?
+“Bad or sloppy science may be tolerated if it leads to comfortable conclusions.
+Further, scientists may make uncritical use of concepts carrying substantial
+background assumptions (.e.g, the concepts of gender and race). An important type
+of bias results from differences in what scientists who differ in their social position
+(including gender) tend to notice. In the late twentieth century, a cadre of women
+entered primatology and began to observe all sorts of things their male colleagues
+had overlooked."""
+Meteen na dit stukje tekst schrijft Kitcher: 'In the absence of diversity, research
+may be biased by casual acceptance of unjustified assumptions, and consequently
+blinkered'. Leg uit hoe diversiteit belangrijk is om dergelijke bias tegen te gaan.
+“De keuzes van wetenschappers over wat zij onderzoeken en welke methoden en
+normen zij daarbij hanteren, worden bepaald door de specifieke constellaties van
+waardenconcepten en achtergrondovertuigingen die zij bij hun werk meebrengen.”
+Dus als er meer diversiteit is, worden er misschien dingen onderzocht of
+geobserveerd die anders niet onderzocht zouden worden.
+Leg uit, aan de hand van het voorbeeld van primatologie dat Kitcher bespreekt,
+waarom diversiteit een theoretische deugd is.
+?
+De keuze tussen twee theorieën is ondergedetermineerd indien beide theorieën
+even goed ondersteund worden door de beschikbare empirische evidentie
+Waar
+Theoretische deugden mogen geen rol spelen bij de keuze tussen twee
+wetenschappelijke theorieën. Enkel empirische evidentie mag die keuze
+beïnvloeden
+Niet waar
+Omdat wetenschappelijke resultaten altijd onzeker zijn, moeten we een
+infallibilistische kijk op de wetenschap aannemen
+Niet waar
+Zolang er voldoende empirisch bewijs verzameld wordt, moeten theoretische
+deugden zoals diversiteit geen rol spelen
+Niet waar
+Beleidskeuzes mogen enkel bouwen op zekere wetenschappelijke kennis
+Niet waar
+Welke rol speelden niet-epistemische waarden (zoals politieke waarden) in het
+wetenschappelijk onderzoek van Lysenko, en in de keuze van Sovjet-machthebbers
+voor Lysenko's werk?
+De politieke waarden van Lysenko hebben ervoor gezorgd dat Lysenko’s onderzoek
+meer praktisch gericht was. Dit stelden de leiders van de Sovjet-Unie tevreden,
+waardoor Lysenko’s onderzoek meer en meer steun kreeg van de Sovjet-Unie.
+Op welke manier stonden niet-epistemische waarden in de weg van goede
+wetenschap in het biologisch onderzoek in de Sovjet Unie ten tijde van Vavilov?
+De niet-epistemische waarden hebben er uiteindelijk voor gezorgd dat veel
+wetenschappers het werk van Lysenko niet durfden bekritiseren, en dat de
+onderzoeken van Lysenko steeds meer steun kregen de Sovjet-Unie terwijl andere
+wetenschappers gearresteerd of zelfs vermoord werden omdat ze iets
+onderzochten of resultaten kregen dat de Sovjet-Unie niet wouden.
+Toont het verhaal van Colborn dat er toch manieren zijn waarop waarden
+wetenschappelijk onderzoek mogen of moeten beïnvloeden? Zoja, welke?
+Ja:
+- als de waarden een rechtstreeks verband hebben met iets belangrijk zoals volks-
+en milieugezondheid
+- als de manier waarop de waarden het onderzoek beïnvloeden er niet voor zorgen
+dat andere wetenschappers moeten stoppen met hun onderzoeken of de huidige
+onderzoeken niet mag bekritiseren
+Wat was er mis met het Tuskegee-experiment?
+Het was niet ethisch: de deelnemers van de studie kregen niet wat ze werden
+beloofd en de wetenschappers hebben de deelnemers laten lijden zodat ze konden
+onderzoeken wat er zou gebeuren als de ziekte niet behandeld werd.
+Waarom is het moeilijk voor wetenschappers om te beslissen of, en hoe, ze moeten
+communiceren met een breed publiek? Illustreer dit aan de hand van een van de
+voorbeelden die Elliott bespreekt (klimaatverandering, Colborn, Kangas).
+Een klimaatwetenschapper bij NASA vond dat hij de plicht had om zijn
+onderzoeken ivm klimaatverandering te delen met het publiek en Congress, ook al
+waren de resultaten van het onderzoek niet altijd even duidelijk en conclusief.
+Andere klimaatwetenschappers gingen daar niet mee eens en zouden eerst meer
+concrete resultaten vinden.
+Elliott bespreekt een 'clean-hands-science' aanpak, een 'advocacy' aanpak en een
+'modified clean-hands-science' aanpak. Wat houden deze in, en wat is het verschil
+tussen de drie?
+Clean-hands-science: de beschikbare informatie voorzichtig interpreteren,
+controversiële interpretatie (volledig) vermijden
+Advocacy: concluderen dat het beter is de conclusie te trekken die volgens hen het
+best wordt ondersteund door het beschikbare bewijsmateriaal, en die conclusie zo
+duidelijk en krachtig mogelijk over te brengen (zoals bij klimaatverandering)
+Modified clean-hands-science: tussen de twee
+Wat zijn de voor- en nadelen van wetenschapscommunicatie die zich zoveel
+mogelijk beperkt tot data en zo weinig mogelijk interpretatie geeft?
+Voordeel: het stelt wetenschappers in staat hun reputatie hoog te houden dat zij
+betrouwbare informatie verstrekken
+Nadeel: het kan besluitvormers in verwarring brengen en niet in staat stellen
+weloverwogen keuzes te maken
+Wat zijn de voor- en nadelen van wetenschapscommunicatie die, ondanks
+onzekerheid, een duidelijke interpretatie van de resultaten en theorieën voorziet?
+Mensen kunnen op tijd ingrijpen, maar als de resultaten verkeerd zijn zal het de
+reputatie van de wetenschappers beschadigen.
+Wat zijn de interne en externe delen van de wetenschap?
+Externe delen: delen die eerder te maken lijken te hebben met alles wat aan het
+onderzoek vooraf gaat, of wat op het onderzoek volgt
+waarden zoals
+- Ethische beperkingen op wetenschappelijk onderzoek (cf. Tuskegee)
+- Het kiezen van onderzoeksonderwerpen (cf. Kitcher)
+- De motivatie van onderzoek (cf. Colborn)
+- Het toepassen van, en communiceren over, resultaten (cf. de 'clean-hands-science'
+aanpak etc.)
+Interne delen: analyse en interpretatie van de data en het maken van inferenties,
+vrij van woorden
+Wat is het gesofisticeerde ideaal van waardevrije wetenschap?
+Het ideaal dat enkel de interne delen, dus interpretatie en analyse van data,
+waardenvrij moet zijn
+De problemen met dit experiment tonen dat waarden toch een waardevolle rol
+kunnen spelen in wetenschappelijk onderzoek. Welke?
+Dat menselijke levens belangrijker zijn dan wetenschappelijk onderzoek.
+"Het 'argument van inductief risico' toont dat waarden een rol moeten spelen in de
+interne delen van de wetenschap. Leg uit hoe het argument dit doet.
+Wanneer wetenschappers het risico lopen onjuiste conclusies te trekken, spelen
+waarden een rol bij de keuze van de hoeveelheid bewijsmateriaal die zij moeten
+eisen. Ze moeten dus zelf inschatten hoeveel bewijsmateriaal voldoende is en ze
+moeten ook een ""statistical significance level"" kiezen (meestal 95%)."
+Wat is het belang van de verantwoordelijkheid van wetenschappers voor het
+argument van inductief risico?
+Helaas lopen wetenschappers altijd het risico onjuiste conclusies te trekken.
+Daarom hebben wetenschappers de ethische verantwoordelijkheid om de mogelijke
+gevolgen van een vergissing te overwegen wanneer zij beslissen hoeveel bewijs zij
+moeten eisen om conclusies te kunnen trekken.
+Leg het verband uit tussen het argument van inductief risico, en de keuze van een
+waarde voor statistische significantie.
+Hoe hoger de statistische significantie, hoe minder het resultaat van het onderzoek
+wordt beïnvloed door random factoren en dus hoe minder inductief risico.
+Wetenschappers moeten zelf bepalen welke conclusies zij redelijkerwijs kunnen
+trekken met hun hoeveelheid bewijsmateriaal en hun normen. Maar
+wetenschappers maken hun normen voor bewijs vaak niet expliciet; in plaats
+daarvan worden zij vaak onbewust beïnvloed door hun waarden en neigingen.
+Leg het verband uit tussen het argument van inductief risico, en de hoeveelheid
+studies die een resultaat ondersteunen.
+?
+Wat is het verschil tussen een directe en indirecte rol voor waarden in wetenschap?
+Wat is het verband met het argument van inductief risico?
+?
+Het argument van inductief risico toont dat waarden geen rol mogen spelen in de
+externe delen van de wetenschap: false
+Als wetenschappelijke kennis altijd volledig zeker zou zijn, zou het argument van
+inductief risico niet opgaan: true
+Volgens het gesofisticeerde ideaal van waardevrije wetenschap mogen waarden
+geen enkele rol spelen in de wetenschap: false
+Een verbod op experimenten op mensen is deel van de interne delen van de
+wetenschap: false
+Wat zijn volgens Bacon de drie fasen van wetenschappelijk onderzoek?
+De wetenschappelijke methode van Bacon:
+1. Eerst observaties en experimenten
+2. Vervolgens veralgemenen we onze bevindingen door middel van inductie
+3. Afleiden van voorspellingen en opzetten van cruciale experimenten
+Welke algemene kenmerken hebben het werk van Lavoisier, Newton, Galilei,
+Copernicus en Kepler gemeenschappelijk? In welke mate zijn deze in lijn van
+Bacon's methodologie, en wat voegen ze er eventueel nog aan toe?
+(?? Weet het antwoord op deze vraag eigenlijk niet)
+De inductieve methode van Bacon vormt samen met principes in verband met
+causale verklaringen het tweeluik van Newtons ‘experimental philosophy’. Newton
+gebruikte ook deductie en de axiomatische methode.
+Door het werk van Galilei en en Newton vond er een mathematisering van de
+studie van de natuur plaats.
+Galilei en Kepler namen realistische posities in tegenover de heliocentrische
+theorie van Copernicus.
+Galilei, Descartes en Leibniz verwierpen het bestaan van een zwaartekracht omdat
+ze niet paste in het mechanistische wereldbeeld, terwijl Kepler en Newton wel
+bereid waren om het bestaan van zwaartekracht te aanvaarden.
+Hoewel Copernicus een heliocentristisch systeem verdedigde, kon zijn werk
+volgens Osiander toch in overeenstemming met de kerk en bijbel gezien worden.
+Hoe? Tip: verbind dit met het debat over realisme uit lesmodule 6.
+Hij schreef in het voorwoord dat men er niet vanuit moet gaan dat de hypothese
+waar of zelfs maar waarschijnlijk is, maar dat het volstaat dat de voorspellingen
+overeenstemmen met de waarnemingen. Het systeem was enkel een instrument om
+de beweging van hemellichamen in het verleden en de toekomst te berekenen door
+middel van meetkunde. Indien men de heliocentrische theorie van Copernicus
+istrumentalistisch opvat, hoeft er geen conflict met de Bijbel te zijn.
+Wat is het belang van de wiskunde in de wetenschappelijke revolutie? Bespreek
+aan de hand van Newton's werk.
+Newton ontwikkelde de differentiaal- en integraalrekening, waarmee de mechanica
+wiskundig een grote sprong voorwaarts maakte. Hij formuleerde ook drie
+natuurkundige wetten voor kracht en beweging. De prestaties van Newton worden
+algemeen gezien als het hoogtepunt van de wetenschappelijke revolutie.
+Op welke manier breken de 'wetenschappers' uit de wetenschappelijke revolutie
+met het Aristotelische wereldbeeld?
+Door de inductieve methode te gebruiken in plaats van de deductieve methode van
+Aristoteles. En ook bij experimenten zoveel mogelijk factoren proberen te isoleren.
+Op welke manier breken deze 'wetenschappers' met het werk van middeleeuwse
+'wetenschappers', waarin geldige (deductieve) redeneringen met zekere conclusies
+een belangrijke rol speelden?
+Aanvaard geen hypotheses, bijvoorbeeld met betrekking tot de fundamentele
+chemische elementen, wanneer er geen experimenten of procedures zijn om die te
+onderbouwen.
+Dus: alle hypotheses moeten gesteund worden door experimenten.
+Wat was de rol van instrumenten en observaties in het werk van deze
+'wetenschappers'? Bespreek aan de hand van het werk van Kepler.
+Hij nam observaties zeer ernstig en toetste hypotheses aan de hand van
+verschillende observaties. Hij wou dat de observaties perfect overeenkwamen met
+de hypotheses. Hij wilde geen instrumentalistische positie innemen, wel een
+realistische.
+In welke zin wijkt Fara's overzicht af van het beeld van de ontwikkelingen in de
+astronomie dat we hebben gezien in het handboek?
+Het beeld in het handboek spreekt eigenlijk over wat de ontwikkelingen waren en
+deze ontwikkelingen gebeurden, terwijl Fara meer over de culturele, sociale en
+zelfs politieke aspecten praat.
+Hoe is de chemische revolutie verbonden met de bredere economische en sociale
+context in die tijd?
+Antoine Lavoisier, de protagonist van de chemische revolutie, heeft een boek met
+zijn revolutionaire chemische theorieën gepubliceerd in hetzelfde jaar dat de
+Franse Revolutie uitbrak (1789).
+In welke mate waren de 'chemici' uit die tijd gelijk aan wat wij nu wetenschappers
+noemen?
+De chemici toen noemden chemie geen wetenschap maar eerder een kunst.
+Chemie wordt nu natuurlijk wel als een wetenschap beschouwd, dus chemici zijn
+dan ook wetenschappers.
+Welke elementen die we met de wetenschappelijke revolutie associeerden in het
+handboek komen duidelijk terug in de podcast?
+?
+Er wordt soms gezegd dat Lavoisier de grondlegger is van de chemie omdat hij a)
+als eerste dacht in termen van elementen en b) hij zuurstof en de rol ervan heeft
+ontdekt. In welke zin is dit niet waar? Leg uit hoe het een anachronisme is om
+Lavoisier's elementen gelijk te stellen met hoe we er nu over denken.
+De engelse chemicus Priestley had zuurstof ook eigenlijk ontdekt, maar hij had het
+een andere label gegeven.
+In welke zin is Lavoisier een janus-figuur, die zowel bij de hedendaagse chemie
+past als bij de chemie van voor de wetenschappelijke revolutie?
+?
+In welke mate is 'revolutie' de gepaste term om het werk van Lavoisier en Priestly
+te beschrijven?
+Het is een revolutie in die zin dat ze beide iets nieuws hebben uitgevonden
+waardoor hun vakgebied ingrijpend is veranderd. Maar de verandering was niet
+plotseling, het heeft tijd gekost. Het hangt ervan af hoe je over het verleden wilt
+denken. Maar aan de andere kant, Max Planck stond erop dat verandering
+langzaam gebeurt, niet in plotselinge flitsen.
+Leg uit: Lavoisier is er mee zelf verantwoordelijk voor dat hij als vader van de
+moderne chemie gezien wordt.
+Hij heeft vrij veel werk in zijn publiciteit gestoken: hij overtuigde invloedrijke
+mensen ervan dat hij gelijk had en hij voerde een uitgebreide
+publiciteitscampagne, produceerde boeken, lezingen en toneelstukken om de
+oppositie te verslaan.
+Op welke manier zijn alchemie en wetenschap verbonden? Zijn er goede redenen
+om grote alchemisten, net als Newton en Kepler, in de wetenschapsgeschiedenis op
+te nemen?
+?
+Wat leert het geval van 'animal magnetism' ons over de demarcatievraag?
+?
+Wat leren alchemie en animal magnetism ons over het reconstrueren van de
+geschiedenis van de wetenschap?
+?
+Wat leert de geschiedenis van het woord 'scientist' ons?
+Dat mensen soms dezelfde woorden gebruiken om verschillende dingen
+beschrijven en dat het in dit geval bijna een eeuw duurde voordat het woord
+conventie werd en door de meeste mensen gebruikt werd. Het woord betekende
+ook veranderingen in sociale klassen, geld en status. Dit waren sociale
+veranderingen op lange termijn die voor de bevoorrechte klassen moeilijk te
+aanvaarden waren.
+In welke mate is het gepast om de periode van 1500 tot 1750 de
+'wetenschappelijke revolutie' te noemen? Waarom wel, en waarom niet?
+Wel: er waren drastische veranderingen op verschillende wetenschappelijke
+vlakken, er waren nieuwe uitvindingen
+Niet: is het wel een revolutie als de veranderingen over een periode van 150 jaar
+gebeuren? En is het wel een revolutie als bepaalde oude methoden nog steeds
+gebruikt worden, zoals de wetten van Newton?
+De wetenschappelijke revolutie was het begin van de wetenschap zoals we die nu
+kennen.
+Niet waar
+Een belangrijke verklaring van het succes van de wetenschappelijke revolutie is
+dat wetenschappers dan niet langer gemotiveerd werden door religieuze
+overtuigingen.
+Niet waar
+Lavoisier en Newton staan in veel opzichten even dicht bij hedendaagse
+wetenschappers als bij alchemisten en magiërs uit de renaissance.
+Waar
+Wat is Popper's demarcatiecriterium? Leg uit aan de hand van Semmelweis'
+onderzoek.
+Als een theorie falsifieerbaar is, dan is het wetenschappelijk. Falsifieerbaarheid is
+het vermogen om aan te toten dat een theorie of hypothese onjuist is.
+Semmelweis begon steeds met een hypothese die getest kon worden (=
+falsifieerbaarheid) en eens de experimenten uitgevoerd werden, kon hij bepalen of
+de hypotheses waar of onwaar was.
+Waarom zijn Marx' en Freud's theorieën/onderzoeksprogramma's niet
+wetenschappelijk volgens Popper?
+De theorie van Marx was initieel wel wetenschappelijk, maar eens de theorie
+onwaar bleek te zijn (de voorspellingen kwamen niet uit) zouden Marxists de
+hypotheses steeds wijzigen om de theorie toch compatibel te maken met de
+gebeurtenissen en feiten, wat onwetenschappelijk was.
+Freud’s theorieën waren steeds gebaseerd op gebeurtenissen in het verleden en
+hield geen rekening met wat er in de toekomst zou kunnen gebeuren.
+Volgens sommigen wordt wetenschap gekarakteriseerd door de inductieve
+methode. Waarom vindt Popper dit geen goed demarcatiecriterium?
+Omdat de methode van inductie is gedreven door observaties terwijl wetenschap
+theoriegedreven is. Er zijn veel wetenschappelijk theorieën die niet zijn verkregen
+door inductie uit experimenten.
+Leg uit, aan de hand van voorbeelden, waarom Darwin's evolutietheorie wel
+wetenschappelijk is volgens Popper. Waarin verschilt deze theorie van Freud's en
+Marx' theorieën?
+De theorie van natuurlijke selectie is testbaar. Er zijn vele confirmaties en het is
+theoretisch mogelijk om de theorie te falsifiëren.
+Wat is het Quine-Duhem probleem? Waarom vormt dit een probleem voor Popper's
+demarcatiecriterium?
+?
+Wat bedoelt Lakatos met een onderzoeksprogramma? Wat is de kern van zo'n
+programma? Welke rol spelen hulphypothesen in zo'n onderzoeksprogramma?
+Een onderzoeksprogramma bestaat uit een reeks van theorieën die gekenmerkt
+worden door een zekere mate van continuïteit. De continuiteit in een
+onderzoeksprogramma valt terug te voeren tot een soort van harde kern van
+hypotheses. Deze kern wordt metaforisch omgeven door een gordel van
+hulphypotheses, die een dubbele functie hebben. Enerzijds dienen ze om de harde
+kern toetsbaar te maken. Anderzijds dienen ze om de harde kern te beschermen
+tegen empirische weerleggingen. Aangezien de hulphypotheses makkelijk
+aangepast kunnen worden, kunnen er vele theorievarianten geproduceerd worden.
+Wanneer is het volgens Lakatos rationeel voor een wetenschapper om van
+onderzoeksprogramma te veranderen?
+Wanneer er een alternatief onderzoeksprogramma is dat dezelfde empirische
+gegevens kan verklaren en er meteen ook nieuwe voorspellingen aan kan
+vastkoppelen dat druk op het originele onderzoeksprogramma zet.
+Wat is het verschil tussen een progressief en regressief onderzoeksprogramma?
+Progressief = theoretische progressie is groter dan empirische progressie,
+aantrekkelijker voor wetenschappers
+Regressief = theoretische progressie is lager dan empirische progressie, men is
+meer bezig met het geven van post-hocverklaringen voor feiten die eerst door een
+ander onderzoeksprogramma werden voorspeld, het kan gebeuren dat een
+regressief programma volledig stilvalt omdat geen enkele wetenschapper er nog
+aan bijdraagt
+Zijn ad hoc hypotheses altijd een kenmerk van slechte wetenschap volgens
+Lakatos?
+nee
+Sommige pseudowetenschappen zijn wel falsifieerbaar. Dit vormt een probleem
+voor Popper's criterium. Hoe kan hij dit oplossen?
+2 nieuwe eigenschappen:
+- voorstanders van een theorie proberen falsificatie niet te ontlopen (bv Marxisme)
+- hoe voorstanders omgaan met kritiek en critici
+Waarom is Popper's demarcatiecriterium te nauw en simpel? Welke elementen,
+onder meer van Lakatos' theorie, moeten we er eventueel aan toevoegen?
+?
+Hoe illustreert deze gevalstudie de complexiteit van de demarcatievraag, en de
+praktische moeilijkheden met Popper's criterium?
+Theorieën zijn niet altijd zwart-wit. Bijvoorbeeld, in het geval van
+klimaatopwarming spreekt men wel eens over een anomalie. Dit is iets “tijdelijk”.
+Maar tijdelijk is een vage term en open voor veel interpretatie, waardoor het
+strikte falsificatiecriterium verlaten moet worden.
+Wat is de band tussen de theorie-geladenheid van data, het quine-duhem probleem,
+en de problemen met Popper's criterium?
+?
+Lakatos beweert dat falsificatie geen rol speelt in de wetenschap, aangezien je toch
+altijd kan vasthouden aan gefalsifieerde theorieën.
+Niet waar
+Uit het falen van Lakatos' en Popper's theorieën kunnen we afleiden dat er geen
+verschil is tussen wetenschap en pseudo-wetenschap.
+Niet waar
+Marx' theorie is volgens Popper niet wetenschappelijk omdat de theorie wel
+geverifieerd kan worden, maar niet gefalsifieerd.
+Waar
+"Wat bedoelt Merton met 'universalism', 'communism', 'disinterestedness', en
+'organized skepticism’?
+Dit waren de ""normen"" van de wetenschap, een reeks basiswaarden die de
+wetenschappelijke gemeenschappen beheersen.
+Universalisme is het idee dat de persoonlijke eigenschappen en de sociale
+achtergrond van een persoon niet relevant zijn voor de wetenschappelijke waarde
+van de ideeën van die persoon.
+Communisme houdt in dat wetenschappelijke ideeën en resultaten
+gemeenschappelijk eigendom zijn. Iedereen kan in zijn of haar werk gebruik maken
+van elk wetenschappelijk idee.
+Het basisidee van disinterestedness is dat wetenschappers geacht worden te
+handelen in het belang van een gemeenschappelijke wetenschappelijke
+onderneming, en niet in het belang van persoonlijk gewin.
+Organized skepticism is een gemeenschapsbreed patroon om ideeën ter
+discussie te stellen en te toetsen in plaats van ze op vertrouwen te aanvaarden.
+Kan je voorbeelden bedenken van 'organized skepticism'? Waarom is dit deel van
+de sociale structuur van de wetenschap.
+Bijvoorbeeld, een wetenschapper die een onderzoeksmethode wilt gebruiken die
+niet ethisch is, of zelfs niet wetenschappelijk.
+Het is deel van de sociale structuur van de wetenschap omdat wetenschappers
+anders bijvoorbeeld veel dingen zouden kunnen verzinnen zonder voldoende bewijs
+te geven.
+Waarom is 'prioriteit' (de eerste zijn die een ontdekking of resultaten publiceert)
+belangrijk? Hoe is dit deel van de sociale structuur van de wetenschap?
+Omdat mensen graag erkenning krijgen, en als je de eerste bent die met een idee
+komt, word je in het beste geval beloond door het idee naar je te laten vernoemen.
+Het maakt deel uit van de sociale structuur omdat het origineel denken
+aanmoedigt. Maar het kan ook mislopen, vooral wanneer het verlangen naar
+beloning al het andere in het hoofd van een wetenschapper overwint.
+Er lijkt spanning te zijn tussen Merton's ideaal van 'disinterestedness' en de rol van
+prioriteit als motor van innovatie. Zie je welke spanning?
+Disinterestedness houdt in dat je het niet voor eigen belang doet, maar ender in
+het belang van een gemeenschap. Maar prioriteit is iets dat wel met eigen belang
+heeft te maken: erkenning krijgen voor een idee omdat je de eerste bent die het
+bedacht heeft. Deze twee ideeën lijken met elkaar in tegenspraak te zijn.
+Waarom is het volgens Kitcher en Barker belangrijk dat er verschillende
+theorieën/paradigma's/antwoorden op een probleem worden onderzocht?
+Omdat zij andere perspectieven kunnen bieden die het onderzoek in nieuwe
+richtingen kunnen leiden.
+Waarom is dergelijke diversiteit van theorieën weinig waarschijnlijk als alle
+wetenschappers rationeel zijn, en geen rekening houden met andere
+wetenschappers (i.e. als we ons inbeelden dat ze geen deel zijn van een
+gemeenschap)?
+?
+'A community of reasonable people is not necessarily a reasonable community'.
+Waarom zeggen Kitcher en Barker dit?
+Omdat het vaak goed is om een debat te voeren over een bepaald onderwerp in
+plaats van dat iedereen 1 idee kiest en gelooft. Hij noemt het “premature
+uniformity”.
+Hoe zorgen competitie en de belongingsstructuur van de wetenschap er volgens
+Kitcher en Barker voor dat een optimale diversiteit aan theorieën onderzocht
+wordt?
+De kans om beloond te worden voor het werken aan een minder veelbelovend,
+moeilijker op te lossen probleem is groter dan de kans om beloond te worden voor
+een gemakkelijker probleem, aangezien er minder mensen aan het moeilijkere
+probleem zullen werken. Op deze manier is het aantal wetenschappers dat aan
+verschillende oplossingen werkt in evenwicht.
+Leg uit waarom het belangrijk is om de keuze van onderzoeksonderwerpen en
+methodes niet enkel op individueel niveau te bekijken, maar ook op
+populatieniveau.
+?
+Waarom is het belangrijk verschillende perspectieven te hebben in een
+wetenschappelijke gemeenschap?
+Door het verschil in onderlinge meningen tussen de wetenschappers, zullen
+verschillende gebreken opgemerkt en opgelost worden en zal de objectiviteit van
+het gemeenschap als een geheel toenemen.
+Wat Carrier hier 'assumptions' noemt, kan je ook (onbewuste) hulphypothesen
+noemen. Wat is het verband tussen deze hulphypothesen en het belang van
+verschillende perspectieven in de wetenschap?
+Onbewuste hulphypothesen worden best van buitenaf ontdekt, door een
+perspectief te nemen zonder de hulphypothese.
+Waarom noemt Carrier deze hulphypothesen 'blind spots'?
+Omdat deze hulphypothesen impliciet zijn, d.w.z. dat zij niet worden onderzocht en
+nooit aan een kritische toetsing worden onderworpen. Ze blijven onopgemerkt en
+daarom worden ze “blind spots” genoemd.
+Wat is de notie van 'sociale objectiviteit' die Carrier hier bespreekt?
+Sociale objectiviteit is gericht op het corrigeren van fouten of tekortkomingen van
+wetenschappers door een tegengesteld standpunt in te nemen. Dit vereist dus de
+uitwisseling van standpunten en argumenten onder wetenschappers.
+Leg uit: 'the objectivity of science needs to be separated from the objectivity of
+scientists'.
+Wetenschappers hoeven niet neutraal en onpartijdig te zijn. Want als zij dat wel
+zijn, zullen zij waarschijnlijk niet een bepaalde hypothese weerleggen waarvan zij
+denken dat die onjuist is om hun reputatie te verbeteren. Het is het verschil in
+meningen en discussie dat juist bijdraagt tot de objectiviteit van de wetenschap.
+De video begint met een bespreking van onderzoek naar het voorspellen van de
+toekomst en de beslissing of een resultaat significant is. De spreker zegt dat de
+p-waarde van 0.05 arbitrair geselecteerd werden door Fischer. Hoe is dit
+verbonden met het argument van inductief risico in lesmodule 7?
+?
+Zelfs als iedereen p < 0.05 gebruikt, kunnen we verwachten dat meer dan 5% van
+alle gepubliceerde resultaten fout zijn. Waarom? Meer bepaald: welke rol spelen
+het onderscheidend vermogen ('statistical power') van de studie, de p-waarde en
+vals positieven, en de ratio tussen negatieve en positieve resultaten in publicaties?
+We verwachten bij een statistical power van 80% dat bijna een derde van de
+studies verkeerd zijn. Hoe lager de statistical power, hoe meer studies verkeerd
+zijn. Hoe lager de p-waarde, hoe meer zeker we kunnen zijn dat de studie waar is.
+Hoe hoger de ratio tussen negative en positieve hypothesen, hoe groter de kans dat
+de studie onwaar is.
+In de video wordt er uitgelegd waarom we kunnen verwachten dat veel
+gepubliceerde resultaten fout zijn. Hoe kunnen we dit testen? Wat zijn de
+resultaten van die testen?
+Door replicatiestudies uit te voeren en te publiceren. Vaak zal de p-waarde hoger
+zijn dan in de originele studie.
+Wat is p-hacking? Hoe kunnen onderzoekers hun onderzoek zo opstellen dat vals
+positieven waarschijnlijker worden?
+De p-waarde is alleen geldig voor een enkele variabele of factor. Zodra je een hele
+reeks variabelen vergelijkt, wordt de kans dat ten minste één ervan je een vals-
+positief geeft veel groter. Het is ook mogelijk dat de onderzoekers hun aantal
+datapunten precies zo kiezen dat hun p-waarde geldig is.
+Is p-hacking enkel een probleem voor de 'zachte' wetenschappen, die relatief hoge
+p-waardes gebruiken?
+Neen. Het kan ook gebeuren voor wetenschappen zoals fysica. Neem het voorbeeld
+met de pentaquark, waarbij het niet mogelijk was om deze delen te vinden met een
+hoge statistical power.
+Is p-hacking altijd het gevolg van fraude en slechte intenties? Hoe kan p-hacking
+voortkomen uit bona fide onderzoek?
+Neen. Data moet steeds geïnterpreteerd worden en er moeten legitieme
+beslissingen worden genomen over de wijze waarop gegevens worden verzameld,
+geanalyseerd en gerapporteerd, en deze beslissingen zijn van invloed op de
+statistische significantie van de resultaten.
+Welke rol speelt de beloningsstructuur ('incentive-structure') van de wetenschap in
+de vaststelling dat veel gepubliceerde resultaten fout zijn?
+Veel studies zullen uiteindelijk niet in wetenschappelijke tijdschriften worden
+gepubliceerd indien zij geen gebruik maken van p-hacking. En als de
+wetenschappers geen studies kunnen publiceren, kunnen zij ook geen geld
+verdienen of hun job kwijtspelen.
+Wat kunnen we doen om de problemen besproken in deze video op te lossen?
+Tijdschriften moeten meer replicatiestudies publiceren. Het helpt ook de hypothese
+te laten toetsen door vakgenoten voor een studie en daarna te garanderen dat de
+studie wordt gepubliceerd.
+Waarom is creationisme geen wetenschap volgens Ruse? Zou het volgens Popper
+als wetenschap kunnen gelden?
+Creationisme heeft niet alle kenmerken van een wetenschap:
+- zoeken naar wetten
+- verklaren van empirische gegevens op basis van de wetten + voorspellen van
+empirische fenomenen op basis van wetten
+- je moet er voorspellingen uit kunnen afleiden en minstens sommige van die
+voorspellingen moet geconfirmeerd zijn (terwijl de theorie toch falsifieerbaar moet
+zijn)
+- wetenschap is tentatief: wetenschappers moeten bereid zijn om een theorie te
+verwerpen op basis van empirische gegevens
+Creationisme laat gebeurtenissen toe die moet onderworpen zijn aan wetten. Er
+zijn gewoon geen natuurwetten.
+Het is gefalsifieerd en de voorstanders voeren geen nieuwe experimenten uit.
+De voorstanders geven nooit hun positie op.
+Wat is het voordeel van meervoudige criteria tegenover een enkelvoudig criterium?
+?
+Geven meervoudige criteria een volledige en sluitende definitie van de
+wetenschap? Kunnen we hiermee duidelijk beslissen wat een wetenschap is, en wat
+niet?
+?
+Welke criteria kunnen we eventueel nog toevoegen aan de criteria van Ruse, op
+basis van wat we de afgelopen 11 lessen gezien hebben?
+?
+De wetenschap kan enkel rationeel zijn als alle wetenschappers ook rationeel zijn
+Niet waar
+Peer review is een van de sociale processen die kenmerkend zijn voor de
+wetenschap.
+Waar
+Een sociale kijk op objectiviteit ziet objectiviteit in de eerste plaats als een
+eigenschap op het niveau van een groep wetenschappers, en niet op het niveau van
+individuen.
+Waar

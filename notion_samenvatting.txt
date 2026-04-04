@@ -1,0 +1,1692 @@
+# Samenvatting wijsbegeerte
+
+# Hoofdstuk 1: inleiding
+
+## 1.1 Filosofie als denken over denken
+
+- **Mythisch denken**: mensen hebben altijd verklaringen gezocht over hoe zaken in elkaar zitten, dit deden ze aan de hand van mythes (zie H5)
+- Hierna vond de **Griekse natuurfilosofische revolutie** plaats,
+    - Goddelijke wezens werden vervangen door fysische verklaringen
+    - Er werd beroep gedaan op rationele argumenten, waarover er gedebatteerd werd
+    - **Aristoteles** stond hierin centraal, zijn wereldbeeld zou later geadopteerd worden door de Katholieke kerk en zeer lang het denken over de natuur en hemel domineren
+- Daarna vond de **wetenschappelijke revolutie** plaats, hoewel deze een aantal eeuwen geduurd heeft
+    - Het aristotelische wereldbeeld werd verlaten
+    - Natuurfilosofie werd vervangen door natuurwetenschap, waar wiskunde en experimenten centraal stonden
+- De grote filosofen en wetenschappers beperkten zich niet tot het nadenken over de wereld of delen ervan (**eerste-orde denken**), ze dachten na over “denken over de wereld en delen ervan” (**tweede-orde denken/meta-denken**)
+- Hedendaagse filosofie (en filosofie in het algemeen) valt onder tweede-orde denken
+- Definitie Quinton:*“A more detailed, but still uncontroversially comprehensive definition is that philosophy is rationally critical thinking, of a more or less systematic kind about the general nature of the world (**metaphysics**), the justification of belief **(epistemology)** and the conduct of life (**ethics**)”*
+    
+    <aside>
+    📔 Metafysica:
+    
+    De filosofische studie die zich bezighoudt met de fundamentele aard van de realiteit, waarin vragen zoals “Wat zijn ruimte en tijd?”, “Wat is causaliteit, bestaat vrije wil?” etc voorkomen
+    
+    </aside>
+    
+    <aside>
+    📔 Epistemologie:
+    
+    De leer van het weten, waarin vragen zoals “Wat is kennis?”, “Wat is rechtvaardiging?” etc voorkomen
+    
+    </aside>
+    
+    <aside>
+    📔 Ethiek:
+    
+    De leer van goed, slecht of beter handelen in het leven. Je zou bv kunnen vragen “Heb ik een reden om dit verdrinkende kind te redden?”
+    
+    </aside>
+    
+
+## 1.2 Waarom denken over wetenschappelijk denken?
+
+Dit is derde-orde denken.
+
+- Filosofen zijn te danken voor de ontwikkeling van logica: Zo had je de syllogistiek, eerste-ordelogica en modale logica
+- Logica wordt toegepast in wiskunde en CW, hiermee kan je nl. wiskundige redeneringen en bewijzen controleren op hun geldigheid
+- De studie van formele logica leidt dus tot kennis van technieken waarmee argument correct geëvalueerd kunnen worden
+- De studie van wetenschapsfilosofie kan je ook helpen om te snappen hoe wetenschap degelijk in elkaar zit, hiermee vermijd je vooroordelen en en misverstanden. 
+Enkele voordelen zijn:
+    - Wetenschapsfilosofie helpt je wetenschap onderscheiden van pseudowetenschap
+    - Wetenschapsfilosofie helpt je goede wetenschap onderscheiden van slechte wetenschap
+    - Inzicht in wetenschappelijk denken helpt bij het debatteren met wetenschapssceptici
+    - Overdreven optimisme met betrekking tot wetenschap kan vermeden worden
+
+# Hoofdstuk 2: Verzamelingen, relaties, functies
+
+## 2.1 Verzamelingen
+
+- Verzameling: wordt genoteerd als {}
+- a, een element van verzameling A: genoteerd als $a \in A$
+
+<aside>
+📔 Lege verzameling:
+
+Wordt genoteerd als {} of $\varnothing$, voor alle  $x, x \notin \varnothing$
+
+</aside>
+
+<aside>
+📔 Identieke verzameling:
+
+Twee verzamelingen A en B zijn identiek a.s.a. A en B dezelfde elementen bevatten (volgorde maakt niet uit).
+
+</aside>
+
+<aside>
+📔 Deelverzameling:
+
+Verzameling A is een deelverzameling van verzameling B, genoteerd $A \subseteq B$ a.s.a, voor alle x, indien ze $x \in a$ en $x \in b$
+
+- Elke verzameling is een deelverzameling van zichzelf
+- Wanneer A een deelverzameling is van B maar verschilt van B, dan spreken we over een eigenlijke deelverzameling, genoteerd $A \subset B$.
+</aside>
+
+<aside>
+📔 Vereniging van verzamelingen:
+
+Genoteerd $A  \cup B$, $\{ x \mid x \in A \cup x \in B \}$
+
+</aside>
+
+<aside>
+📔 Doorsnede van verzamelingen:
+
+Genoteerd $A \cap B$, $\{ x \mid x \in A \cap x \in B \}$
+
+</aside>
+
+## 2.2 Binaire relaties
+
+<aside>
+📔 Eenplaatsig predicaat:
+
+Uitdrukking die met 1 naam gecombineerd moet worden om een zin te vormen: “… is een stad”
+
+</aside>
+
+<aside>
+📔 Tweeplaatsig predicaat:
+
+Uitdrukking die met 2 namen gecombineerd moet worden om een zin te vormen: “… is een een grotere stad dan …”
+
+- Wordt gebruikt om verzamelingen van *geordende paren* te beschrijven: $\lang a, b \rang$
+- Deze zijn min of meer hetzelfde  als verzamelingen, alleen is de volgorde hier wel belangrijk, dus de geordende paren $\lang a,b\rang$ en $\lang b,a \rang$ zijn niet hetzelfde
+- Binaire relaties: Een verzameling is een binaire relatie a.s.a. ze geordende paren bevat.
+</aside>
+
+## 2.3 Functies
+
+- Voorbeeld van een functie: {$\lang x, y \rang$ | de hoofdstad van $x$ is $y$}
+{(Frankrijk, Parijs), (Nederland, Amsterdam),…}
+
+<aside>
+📔 Domein van een functie:
+
+Verzameling van de x-waarden van een functie, dus toegepast op de voorbeeld hierboven: {Frankrijk, Nederland,…}
+
+</aside>
+
+<aside>
+📔 Bereik van een functie:
+
+Verzameling van de y-waarden van een functie, dus toegepast op de voorbeeld hierboven: {Parijs, Amsterdam,…}
+
+</aside>
+
+<aside>
+📔 Codomein van een functie:
+
+Verzameling die het bereik van $f$ als deelverzameling heeft.
+
+</aside>
+
+## 2.4 Niet-binaire relaties
+
+<aside>
+📔 Drieplaatsig predicaat:
+
+Uitdrukking die met 3 namen gecombineerd moet worden om een zin te vormen: “… is een een grotere stad dan …”
+
+hieruit volgt dan ook:
+
+- Geordende drietallen: idem geordende paren, maar met 3 elementen
+- Ternaire relatie: idem binaire relatie, maar met geordende drietallen
+</aside>
+
+# Hoofdstuk 3: Zinslogica
+
+## 3.1 Syntaxis
+
+<aside>
+📔 Zinsletters:
+
+(P, Q, R en $P_n$, $Q_n$, $R_n$) zijn zinsletters.
+
+- Voorbeeld→ P: ‘Het regent in Leuven’
+</aside>
+
+<aside>
+📔 Operatoren:
+
+∧ Conjunctie → En
+∨ Disjunctie → Of
+¬ Negatie → Niet
+⇒ Implicatie → “Als P waar is, dan is Q ook waar” (niet altijd wederzijds geldig)
+⇔ Equivalentie → “P is (on)waar als en slechts als Q (on)waar is”
+
+</aside>
+
+<aside>
+📔 Zinnen:
+
+Combinaties van zinnen adhv operatoren.
+
+</aside>
+
+<aside>
+📔 $L_{ZL}$:
+
+De taal van de zinslogica met $\phi$ , $\psi$ en $\theta$ als metavariabelen, die zelf niet behoren tot de taal van de zinslogica maar wel tot de metataal, die gebruikt wordt om de taal vd zinslogica te beschrijven
+
+</aside>
+
+<aside>
+📔 Hoofdoperator:
+
+Meest beduidende operator in een zin, voor stappenplan zie p.31 in handboek
+
+</aside>
+
+<aside>
+📔 Deelzinnen van een zin $\phi$:
+
+De zin $\phi$ zelf en alle delen gesplitst door de operator(en), voor stappenplan zie p.33 in handboek
+
+</aside>
+
+<aside>
+📔 Graad van een zin: Het aantal operatoren dat in die zin voorkomt
+
+</aside>
+
+## 3.2 Semantiek
+
+<aside>
+📔 $L_{ZL}$-structuur:
+
+Een functie $A$ die aan elke zinsletter 0 of 1 toekent, genoteerd als $|\phi|_A=1$ of $0$
+
+</aside>
+
+<aside>
+📔 Logische waarheid:
+
+Een zin $\phi$ is logisch waar a.s.a. het waar is in alle mogelijke structuren ($|\phi|_A=1$), genoteerd als $\models \phi$
+
+</aside>
+
+<aside>
+📔 Contradictie:
+
+Een zin $\phi$ is een contradictie a.sa. het onwaar is in alle mogelijke structuren ($|\phi|_A=0$) genoteerd als $\not \models \phi$
+
+- Een zin $\phi$ van $L_{ZL}$ is een contradictie a.s.a. $\neg \phi$ een logische waarheid is.
+</aside>
+
+<aside>
+📔 Logische equivalentie:
+
+Zinnen $\phi$ en $\psi$ van $L_{ZL}$ zijn logisch equivalent a.s.a. $|\phi|_A = |\psi|_A$ voor elke $L_{ZL}$-structuur.
+
+- m.a.w. zinnen $\phi$ en $\psi$ van $L_{ZL}$ zijn logisch equivalent a.s.a $(\phi \leftrightarrow \psi)$ een logische waarheid is.
+</aside>
+
+<aside>
+📔 Consistentie:
+
+Een verzameling zinnen van $L_{ZL}$ is consistent als er ten minste 1 structuur $A$ is zodanig dat $|\phi|_A=1$ voor alle zinnen $\phi$ die behoren tot de verzameling
+
+</aside>
+
+<aside>
+📔 Logische geldigheid:
+
+Stel dat $\Gamma$ een verzameling van zinnen van $L_{ZL}$ is en $\phi$ een zin van $L_{ZL}$ is. Een argument met de zinnen in $\Gamma$ als premissen en $\phi$ als conclusie is logisch geldig a.s.a. er geen $A$  bestaat zodanig dat $|\psi|_A=1$ voor elke $\psi \in \Gamma$ en $|\phi|_A=0$, genoteerd als $\Gamma \vDash \phi$ (Als het argument $\lang\Gamma,\phi\rang$ logisch ongeldig is, wordt dit genoteerd als $\Gamma \not\vDash \phi$)
+
+</aside>
+
+## 3.3 Waarheidstabellen
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/f0663e35-4a13-49a9-acea-dd3005e26965/Untitled.png)
+
+Reeds gezien in BRI, voor evtl. stappenplan zie p.49
+
+<aside>
+📔 Logische waarheid:
+
+- Een zin van $L_{ZL}$ is een logische waarheid a.s.a. in de waarheidstabel op elke rij onder de **hoofdoperator ****een 1 staat.
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/42d1d2d9-66e6-4cd4-a1fa-84e19b49d426/Untitled.png)
+    
+</aside>
+
+<aside>
+📔 Logische consistentie:
+
+- Een zin van $L_{ZL}$ is consistent a.s.a. in de waarheidstabel ten minste 1 rij is waarop onder alle hoofdoperatoren van de zinnen een 1 staat.
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/b9fc6053-3096-4090-9c23-e824c469cc39/Untitled.png)
+    
+</aside>
+
+<aside>
+📔 Logische geldigheid:
+
+- Een zin van $L_{ZL}$is logisch geldig a.s.a. als er bij **geen enkele rij** onder de premissen een 1 staat en onder de conclusie een 0 (als dat wel het geval is, is de zin logisch *ongeldig*).
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/2e84fef4-77d1-4a89-a4b8-15d5bae2032f/Untitled.png)
+    
+</aside>
+
+## 3.4 Bewijsbaarheid
+
+Dit is een keuzemodule (van de 3, de andere 2 zijn evolutie en klimaatopwarming), aangezien het kkr moeilijk is en ik te lui ben om de notaties te schrijven in latex-ese, sla ik deze module over.
+
+# Hoofdstuk 4: Predicatenlogica en EOL
+
+## 4.1 Predicatenlogica
+
+### Syntaxis
+
+<aside>
+📔 Predicaatletters:
+
+$P,Q,R,P_n,Q_n,R_n,P^k,Q^k,R^k,P^k_n,Q^k_n,R^k_n$ (voor alle $k,n \in \mathbb{N}^+$) zijn de predicaatletters. 
+
+- Een predicaatletter met bovengeschreven index $k$ wordt een $k$-plaatsige predicaatletter genoemd.
+</aside>
+
+<aside>
+📔 Constanten:
+
+$a,b,c,a_n,a,b_n,c_n$ (voor alle $n \in \mathbb{N}^+$) zijn constanten.
+
+</aside>
+
+- Predicaatletters en constanten worden gebruikt om predicaten en namen uit het Nederlands te formaliseren. Enkele voorbeelden:
+    - $P^1_1$: ‘… is mannelijk’
+    - $P_5^2$: ‘… houdt van …’
+    - $P^3_2$: ‘… wordt meer aangetrokken door … dan door …’
+    - $a$: Jan
+    - $b$: Pieter
+    - $c$: Corneel
+- De bovengeschreven index $k$ geeft aan hoeveel namen er ingevuld moeten worden bij je predicaat zodat je een fatsoenlijke (geformaliseerde) zin hebt
+
+<aside>
+📔 De taal van de predicatenlogica:
+
+Wordt genoteerd als $L_{PL}$ met $\Phi$ en $t_i$ als metavariabelen die respectievelijk predicaatletters en constanten beschrijven.
+
+</aside>
+
+<aside>
+📔 Atomaire zinnen:
+
+- Als $\Phi$ een zinsletter is, dan is $\Phi$ een atomaire zin van $L_{PL}$
+- Als $\Phi^n$ een n-plaatsige predicaatletter is en als $t_1,...,t_n$constanten zijn, dan is $\Phi^nt_1...t_n$ een atomaire zin van $L_{PL}$.
+- Niets anders is een atomaire zin van $L_{PL}$.
+</aside>
+
+<aside>
+📔 Zinnen van $L_{PL}$:
+
+Combinaties van atomaire zinnen adhv operatoren
+
+</aside>
+
+### Semantiek
+
+<aside>
+📔 $L_{PL}$-structuur:
+
+- Een geordend paar $\lang D, I\rang$ waarbij $D$ (domein) een niet-lege verzameling is en $I$ (interpretatiefunctie) een functie is die:
+    - $0,1$ toekent aan zinsletters;
+    - Verzamelingen van elementen van $D$ toekent aan eenplaatsige predicaatletters;
+    - Verzamelingen van geordende n-tallen toekent van elementen van $D$ toekent aan $n$-plaatsig predicaatletters;
+    - elementeb van $D$  toekent aan constanten.
+    - Voorbeelden:
+        - $D$ = {Jan, Pieter, Corneel, Ellen, Kaatje}
+        - $I(P^1_1)$ = {Jan, Pieter, Corneel}
+        - $I(P_5^2)$ = {(Jan, Ellen), (Ellen, Jan), …}
+        - $I(a)=$ Jan, $I(b)$= Pieter, … $I(b_1)$= Kaatje
+            
+            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/ac2a0ce3-1131-476f-8df8-455a5c76eb06/Untitled.png)
+            
+</aside>
+
+<aside>
+📔 Waarheid in een $L_{PL}$-structuur:
+
+Stel dat $A$ een $L_{PL}$-structuur is waarbij $A=\lang D, I\rang$. Dan is $|...|_A$ een functie van zinnen $\phi$ van $L_{PL}$ naar {1,0} waarbij de functie aan de volgende voorwaarden voldoet:
+
+- Als $\phi$ een zinsletter is, dan $|\phi|_A=I(\phi)$
+- Als $\phi=\Phi^nt_1...t_n$ waarbij $\Phi^n$ een $n$-plaatsige predicaatletter is en $t_1,...,t_n$ constanten zijn, dan $|\phi|_A = 1$ a.s.a. $(I(t_1),...,I(t_n)\in I(\Phi^n))$
+- Als $\phi$ = $\neg\psi$, dan $|\phi|_A= 1$ a.s.a. $|\psi|_A=0$
+- … pas verder de regels toe van de zinsoperatoren
+</aside>
+
+## 4.2 Eerste-orde logica
+
+### Syntaxis
+
+<aside>
+📔 $L_{EOL}$:
+
+De taal van de eerste-ordelogica.
+
+</aside>
+
+<aside>
+📔 Variabelen:
+
+$x,y,z,x_n,y_n,z_n$ zijn variabelen.
+
+</aside>
+
+<aside>
+📔 Termen:
+
+Als $t$ een constante/variabele is, dan is $t$ een term van $L_{EOL}$
+
+</aside>
+
+<aside>
+📔 Kwantoren:
+
+- $\forall$ = voor alle
+- $\exists$ = er bestaat
+</aside>
+
+- Atomaire formules: idem $L_{PL}$
+- Formules van $L_{EOL}$: idem $L_{PL}$
+
+<aside>
+📔 Vrij en gebonden variabelen:
+
+- Alle variabelen die voorkomen in een atomaire formule zijn vrij
+- Alle variabelen die vrij voorkomen in formules $\phi, \psi$ komen ook vrij voor in $\neg\psi,(\phi\wedge\psi),(\phi\vee\psi),(\phi\rightarrow\psi),(\phi\leftrightarrow\psi)$
+- In een formule van de vorm $\forall v \phi$ of $\exists v \phi$ komt de variabele $v$ gebonden voor, maar alle andere variebelen die vrij voorkomen in $\phi$ komen ook vrij voor in $\forall v \phi$ of $\exists v \phi$ .
+
+Voorbeelden:
+
+- $R^2xx,P^1x$: de variabele $x$ komt overal vrij voor
+- $\forall x_1(P^1x_1 \rightarrow Q^1x_1)$: de variabele $x_1$ komt overal gebonden voor.
+- $\neg(Q^1z\wedge \exists zR^2zz)$: de variabele $z$ komt vrij voor in $Q^1z$, maar gebonden in $\exists zR^2zz$.
+</aside>
+
+<aside>
+📔 Zinnen van $L_{EOL}$:
+
+Een formule van $L_{EOL}$ is een zin van $L_{EOL}$ a.s.a. er geen variabele vrij voorkomt in de formule.
+
+</aside>
+
+<aside>
+📔 Taal van $L_{EOL}$ met identiteit:
+
+Als $t, s$ termen van $L_{EOL}$ zijn , dan is $t=s$ een atomaire formule van $L_{EOL}$.
+
+</aside>
+
+<aside>
+📔 Substitutie van termen in termen van $L_{EOL=}$:
+
+- Stel dat $t, t'$  termen van $L_{EOL=}$ zijn en dat $v$ een variabele is. Dan is $t'[t/v]$ een term die aan volgende voorwaarden voldoet:
+    - als $t'$ een constante is, dan $t'[t/v]=t'$;
+    - als $t'=v,$  dan $t'[t/v]=t$;
+    - als $t' \not = v$, dan $t'[t/v]=t'$
+
+Voorbeelden: 
+
+- $a[b/x]=a$
+- $x[b/x]=b$
+- $y[b/x]=y$
+- $P^1x[b/x] =P^1b$
+- $(P^2xy\wedge R^3 abc)[b/x] = (P^2by \wedge R^3abc)$
+</aside>
+
+### Semantiek
+
+*Zie predicatenlogica*
+
+### Bewijsbaarheid
+
+*Keuzemodule, zie 3.4*
+**Wel belangrijk:**
+
+<aside>
+📔 Stelling van Church:
+
+De verzameling van logisch ware zinnen uit de taal van $L_{EOL}$ is niet beslisbaar.
+
+</aside>
+
+# Hoofdstuk 5: Natuurfilosofie bij de Grieken
+
+Moet niet echt gekend zijn, lees gwn boekje and ur good
+
+# Hoofdstuk 6: De wetenschappelijke revolutie
+
+idem H5, lees boekje
+
+# Hoofdstuk 7: Inferenties, theorieën en observaties
+
+## 7.1 Inferenties: deductie, inductie, abductie
+
+<aside>
+📔 Bewerende zin:
+
+Zinnen die waar of onwaar zijn
+
+</aside>
+
+<aside>
+📔 Argument:
+
+- Een verzameling van bewerende zinnen (de premissen) en een bewerende zin die aangeduid wordt als de conclusie
+- Er is een gevolgtrekking of inferentie van de conclusie uit de premissen
+</aside>
+
+- Voorbeeld:
+    - (1) Alle mensen zijn sterfelijk
+    - (2) Socrates is een mens
+    - (3) Socrates is sterfelijk
+- Er zijn 3 types van wetenschappelijk redeneren:
+
+<aside>
+📔 Deductie:
+
+- Je begint met een algemene regel en pas je die toe op een specifiek geval om een conclusie te trekken
+    - (1) Alle mensen zijn sterfelijk.
+    - (2) Socrates is een mens.
+    - (3) Dus Socrates is sterfelijk.
+</aside>
+
+<aside>
+📔 Inductie:
+
+Je begint met specifieke observaties en generaliseert naar een algemene regel
+
+- (2) Socrates is een mens.
+- (3) Socrates is sterfelijk.
+- (1) Dus alle mensen zijn sterfelijk.
+
+Een argument is inductief goed a.s.a. de conclusie meer waarschijnlijk is gegeven de premissen, dan op zichzelf.
+
+</aside>
+
+<aside>
+📔 Abductie:
+
+Je zoekt de beste verklaring, die dan als correct wordt aangenomen
+
+- (3) Socrates is sterfelijk.
+- (1) Alle mensen zijn sterfelijk.
+- (2) Dus Socrates is een mens.
+
+Een argument is abductief goed a.s.a. de conclusie de beste verklaring biedt voor (sommige) premissen (gegeven de andere premissen)
+
+</aside>
+
+- Voorbeeld enumeratieve inductie (zie 10.1.1 voor meer info):
+    - Socrates is een mens. Socrates is sterfelijk. Plato is een mens. Plato is sterfelijk. … Dus alle mensen zijn sterfelijk
+    - Hoe meer gevallen er onderzocht zijn, hoe sterker de conclusie van een inductief argument
+    - De conclusie dat alle mensen sterfelijk zijn, is beter op basis van een groot aantal gevallen dan op basis van 1 geval.
+    - Hierbij wordt aangenomen dat er geen tegenvoorbeelden zijn, zo wel (bijvoorbeeld als er ergens toch wel een onsterfelijk mens is), is het argument incorrect.
+
+<aside>
+📔 Abductie met impliciete premisse:
+
+- Argument waar er gebruik wordt gemaakt van een premisse die meestal impliciet blijft (bijvoorbeeld hierboven: de aanname dat alle mensen sterfelijk zijn)
+- Dat alle mensen sterfelijk zijn kan gezien worden als de *beste* verklaring, maar het is niet de *enige* verklaring.
+- Opnieuw: een argument is abductief goed a.s.a. de conclusie de beste verklaring biedt voor (sommige) premissen (gegeven de andere premissen)
+</aside>
+
+- Inductieve en abductieve argumenten zijn dus niet-deductief (niet logisch geldig)
+- Geldig argument in het Nederlands: Een argument in het Nederlands is logisch **geldig** a.s.a. zijn formalisatie correct is, dit is **correct** a.s.a. het argument geldig is en de premissen waar zijn.
+
+## 7.2 Theorieën
+
+<aside>
+📔 Theorie:
+
+Een theorie $T$ is een verzameling zinnen die voldoet aan volgende voorwaarden:
+
+- $\forall \phi: T \vdash \phi \Leftrightarrow \phi \in T$ (Dit betekent dat $\phi$ formeel bewijsbaar is vanuit de axioma's en regels van de theorie $T$)
+- $\forall \phi: T \vDash \phi \Leftrightarrow \phi \in T$ (Dit betekent dat $\phi$ een logische consequentie is van de theorie $T$, oftewel, $\phi$ is waar in alle modellen waarin de zinnen van $T$ waar zijn.
+
+Voorbeeld: De mechanica van Newton is een theorie, waartoe niet alleen zijn 3 wetten behoren, maar ook alle gevolgtrekkingen daaruit.
+
+</aside>
+
+<aside>
+📔 Axioma:
+
+Elke zin die behoort tot de verzameling van zinnen waaruit de rest van de theorie bewijsbaar is of logisch afgeleid kan worden, is een axioma.
+
+</aside>
+
+<aside>
+📔 Axiomatiseerbare theorie:
+
+Stel dat $T$ een theorie is. Dan is $T$  axiomatiseerbaar a.s.a. er een deelverzameling $\Delta$ van $T$ is zodanig dat het beslisbaar is of een zin behoort tot $\Delta$ en:
+
+- $T = \left\{\phi \ | \ \Delta \vDash \phi\right\}$ (m.a.w. $T$ bestaat uit alle uitspraken die waar zijn op basis van de axioma’s in $\Delta$)
+</aside>
+
+<aside>
+📔 Model van een theorie:
+
+- Een structuur waarin elke zin die behoort tot die theorie waar is.
+    - Een theorie is waar als ze een model heeft dat overeenkomt (een gedeelte van) de werkelijkheid.
+</aside>
+
+## 7.3 Observaties en experimenten
+
+<aside>
+📔 Observatie:
+
+Wat je waarneemt aan de hand van enkel je zintuigen.
+
+</aside>
+
+<aside>
+📔 Detectie:
+
+Effecten en eigenschappen die waargenomen worden aan de hand van instrumenten
+
+</aside>
+
+<aside>
+📔 Theoriegeladenheid van observaties:
+
+- Observaties worden mee gestuurd door theoretische verwachtingen en experimenteel onderzoek wordt opgezet om een theorie te testen
+- Bij het uitvoeren van dit empirisch onderzoek worden vaak instrumenten gebruikt om hun eigenschappen te detecteren, waarbij die instrumenten ontworpen zijn op basis van theorieën.
+- Bij de beschrijving en de interpretatie van de observationele gegevens wordt vaak theorie gebruikt, waarbij het die beschrijvingen zijn die gebruikt worden in wetenschappelijke redeneringen
+</aside>
+
+### 7.3.1. De prioriteit van theorie
+
+- Inductieve redeneringen vertrekken vaak van observationele vaststellingen en leiden tot theoretische conclusies
+- Wetenschappelijke redeneringen daarentegen zijn theoriegedreven, men vertrekt van een theorie
+- Popper (5.2) ging niet akkoord met Bacon’s prioriteit op pure observaties, volgens hem hebben theorieën de prioriteit
+- Theorieën creëren verwachtingen en op basis van die verwachtingen worden observaties geselecteerd
+    - Volgens het beeld van de geest als een emmer wordt onze geest passief gevuld door perceptie, zoals de emmer door water
+    - Volgens het beeld van de geest als een zoeklicht verwerft onze geest kennis door zich tijdens perceptie actief op iets te richten
+- De opzet van een experiment is verbonden met het wiskundige denken in termen van variabelen:
+    - Controlevariabelen (waarvan de waarden zo constant mogelijk gehouden worden)
+    - Onafhankelijke variabelen (waarvan men de waarden zal manipuleren)
+    - Afhankelijke variabelen (waarvan de waarden gemeten zullen worden)
+    
+    De bepaling van de variabelen in een experiment wordt bepaald door onze theoretische interesses.
+    
+
+### 7.3.2. Detectie
+
+- Historisch gezien is de grens opgeschoven tussen wat detecteerbaar is en wat niet detecteerbaar is (bv. nevelvat)
+- De onderscheid tussen wat observeerbaar en detecteerbaar is, zou in de toekomst kunnen opschuiven (mutaties of cybernetics)
+- Observeerbaarheid kan begrepen worden als ‘observeerbaar door hedendaagse mensen’ (we zeggen niet dat iets observeerbaar is omdat een cyborg in de toekomst in staat is om het waar te nemen)
+- Het is moeilijk om een strikt onderscheid te maken tussen observeerbaarheid en detecteerbaarheid
+
+### 7.3.3. Observatiezinnen
+
+- Observaties zijn een soort van gebeurtenissen waarin zintuigelijke gewaarwording plaatsvindt, het zijn dus geen zinnen, en kunnen dus bijgevolg geen directe rol spelen in wetenschappelijke redeneringen
+
+<aside>
+📔 Observatiezinnen:
+
+Een observatiezin is een zin waarmee een mogelijke observatie beschreven kan worden.
+
+</aside>
+
+# Hoofdstuk 8: Verificatie en falsificatie
+
+## 8.1 Directe verificatie en falsificatie
+
+### 8.1.1. Basisnoties
+
+<aside>
+📔 Directe verificatie van een hypothese:
+
+Stel dat $\Gamma$ een niet-lege, eindige, consistente verzameling van observatiezinnen is **en dat $\phi$ geen logische waarheid is. Dan wordt $\phi$ direct geverifieerd door $\Gamma$ a.s.a. $\Gamma \vDash \phi$.** 
+
+Voorbeeld van directe verificatie en existentiële kwantificatie:
+
+1. Dit is een zoogdier dat eieren legt.
+2. Bijgevolg is er ten minste 1 zoogdier dat eieren legt.
+</aside>
+
+<aside>
+📔 Directe falsificatie van een hypothese:
+
+Stel dat $\Gamma$ een niet-lege, eindige, consistente verzameling van observatiezinnen is en dat $\phi$ geen contradictie is. **Dan wordt $\phi$ direct gefalsifieerd door $\Gamma$ als en slechts als $\Gamma \vDash \neg\phi$**
+
+Voorbeeld van directe falsificatie en universele kwantificatie:
+
+1. Dit is geen witte zwaan.
+2. Bijgevolg zijn niet alle zwanen wit.
+</aside>
+
+<aside>
+📔 Direct verifieerbare hypotheses:
+
+De hypothese $\phi$ is direct verifieerbaar a.s.a. er een niet-lege, eindige, consistente verzameling $\Gamma$ van observatiezinnen is, **$\phi$ geen logische waarheid is** en $\Gamma \vDash \phi$ 
+
+</aside>
+
+<aside>
+📔 Direct falsifieerbare hypotheses:
+
+De hypothese $\phi$ is direct falsifieerbaar a.s.a. er een niet-lege, eindige, consistente verzameling $\Gamma$ van observatiezinnen is, **$\phi$ geen contradictie is en $\Gamma \vDash \neg\phi$.**
+
+</aside>
+
+- Let op: omdat een zin direct verifieerbaar is, betekent niet dat die zin waar is, en dat een zin direct falsifieerbaar is, betekent niet dat die zin onwaar is.
+- Een verzameling van observatiezinnen is niet per se een verzameling van ware zinnen, want observatiezinnen beschrijven slechts *mogelijke* observaties
+
+### 8.1.2. Grenzen aan directe verificatie en falsificatie
+
+- Universeel gekwantificeerde zinnen zijn in het algemeen niet verifieerbaar:
+    - Jan, Pieter en Corneel zijn mannen met baarden, hieruit zou je kunnen afleiden dat alle mannen baarden hebben maar er is nog een structuur waarin het waar is dat Jan, Pieter en Corneel mannen met baarden zijn en Adam een man *zonder* baard.
+- Existentieel gekwantificeerde zinnen zijn in het algemeen niet direct falsifieerbaar:
+    - Jan, Pieter en Corneel zijn mannen zonder baarden, hieruit zou je kunnen afleiden dat er geen enkele man een baard heeft maar er is nog een structuur waarin het waar is dat Jan, Pieter en Corneel mannen zijn zonder baarden en Adam een man is *met* een baard.
+- Bij zinnen met afwisselende kwantoren kan je geen beroep doen op verificatie of falsificatie.
+    - Wanneer het prefix van afwisselende kwantoren begint met een $\forall$-kwantor, veronderstelt falsificatie dat de waarheid van een negatief existentieel gekwantificeerde zin logisch volgt uit een eindig aantal instantiaties, wat niet kan.
+    - Wanneer het prefix van afwisselende kwantoren begint met een $\exists$-kwantor, veronderstelt verificatie dat een universeel gekwantificeerde zin logisch volgt uit een eindig aantal instantiaties, wat ook niet kan.
+
+Kort samengevat:
+
+|  | Directe verificatie | Directe falsificatie |
+| --- | --- | --- |
+| $\forall v\phi *$ | 0 | 1 |
+| $\exist v \phi *$ | 1 | 0 |
+| $\forall v\exist v' \phi*$ | 0 | 0 |
+| $\exist v\forall v'\phi*$ | 0 | 0 |
+
+## 8.2 Indirecte verificatie en falsificatie
+
+### 8.2.1. De basisnoties
+
+<aside>
+📔 Hulphypotheses:
+
+Een zin is een hulphypothese als deze gebruikt wordt om de (negatie van de) hoofdhypothese logisch af te leiden uit die verzameling observatiezinnen; of die zin gebruikt wordt om een negatie van de observatiezin uit de hypothese af te leiden; en die zin onmisbaar is in die logische afleidingen.
+
+</aside>
+
+<aside>
+📔 Indirecte verificatie van een hypothese:
+
+Stel dat $\Gamma$ een niet-lege, eindige, consistente verzameling van observatiezinnen is, $\Delta$ een verzameling van hulphypotheses is, $\Delta \cup \Gamma$ een consistente verzameling is en $\Delta \not\vDash \phi$, dan wordt $\phi$ indirect geverifieerd door $\Gamma$ relatief t.o.v. $\Delta$ a.s.a. $\Gamma \cup \Delta \vDash \phi$
+
+</aside>
+
+<aside>
+📔 Indirecte falsificatie van een hypothese:
+
+Stel dat $\Gamma$ een niet-lege, eindige, consistente verzameling van observatiezinnen is, $\Delta$ een verzameling van hulphypotheses is, $\Delta \cup \Gamma$ een consistente verzameling is en $\Delta \not\vDash \neg\phi$, dan wordt $\phi$ indirect gefalsifieerd door $\Gamma$ relatief t.o.v. $\Delta$ a.s.a. $\Gamma \cup \Delta \vDash \neg\phi$
+
+</aside>
+
+Met indirecte verificatie en falsificatie is het mogelijk om de beperkingen van directe verificatie en falsificatie te overkomen, met de juiste hulphypotheses is het mogelijk om universeel/existentieel gekwantificeerde zinnen waarin slechts 1 kwantor voorkomt en waarin geen namen vermeld worden, toch indirect verifieerbaar of falsifieerbaar.
+
+<aside>
+📔 Ad-hoc-hypotheses:
+
+Een hypothese is ad-hoc wanneer deze gebruikt wordt om bij de indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat minstens 1 hulphypothese fout is
+
+</aside>
+
+<aside>
+📔 Het Quine-Duhem-probleem:
+
+Stelt zich voor bij indirecte falsificatie, het is niet mogelijk om logisch af te leiden of de hoofdhypothese of minstens 1 van de hulphypotheses onwaar is, dus voorstanders van een hypothese die indirect gefalsifieerd wordt, hebben manoeuvreerruimte om die hypothese af te schermen van falsificatie, ze geven dus de schuld aan 1 of meerdere hulphypotheses
+
+</aside>
+
+## 8.3 Het verificationisme en falsificationisme
+
+<aside>
+📔 Methodologisch verificationisme:
+
+Werk alleen met verifieerbare hypotheses, ga op zoek naar verificatie van deze hypotheses.
+
+</aside>
+
+<aside>
+📔 Methodologisch falsificationisme:
+
+- Werk alleen met falsifieerbare hypotheses, ga op zoek naar falsificatie van deze hypotheses.
+- Popper is de grote voorstander hiervan. De volgende procedure is een goede beschrijving:
+    1. Stel een wetenschappelijke hypothese $H$ op.
+    2. Deduceer een empirische voorspelling $E$ uit $H$.
+    3. Test de waarheid van $E$ door middel van observaties of experimenten.
+    4. Indien $E$  klopt, dan is $H$ *gecorroboreerd*: ze heeft een falsificatiepoging overleefd. 
+    5. Indien $E$ niet klopt, dan is $H$ gefalsifieerd.
+</aside>
+
+# Hoofdstuk 9: Waarschijnlijkheid
+
+## 9.1 De waarschijnlijkheidstheorie
+
+### 9.1.1. De waarschijnlijkheid van verzamelingen
+
+<aside>
+📔 Kolmogorov-Theorie: $\lang\Omega,F,p\rang$
+
+- $\Omega$ is een niet-lege verzameling
+- $F$ is een veld of algebra over $\Omega$ (De verzameling gebeurtenissen waarop we waarschijnlijkheid definiëren), een verzamelingen van deelverzamelingen van $\Omega$ zodat:
+    - $\Omega\in F$ (De zekere gebeurtenis behoort tot $F$)
+    - Voor elke verzameling $X \in F$ geldt dat $X^c \in F$ (Complementen van gebeurtenissen behoren tot $F$)
+    - Voor alle verzamelingen $X_1, X_2 \in F, X_1 \cup X_2 \in F$ (De unie van gebeurtenissen behoort tot $F$)
+- $p$ is een waarschijnlijkheidsfunctie $p:F \rightarrow \R$ die aan volgende voorwaarden voldoet:
+    - Niet-negativiteit: $p(X)\geq 0$ voor alle $X \in F$ (kan geen negatieve waarschijnlijkheid hebben)
+    - Normalisatie: $p(\Omega)=1$ (de waarschijnlijkheid van de zekere gebeurtenis is 1)
+    - Eindige additiviteit: $p(X_1 \cup X_2) = p(X_1)+p(X_2)$ voor alle $X_1,X_2 \in F$ zodanig dat $X_1 \cap X_2 = \empty$ (De waarschijnlijkheid van de vereniging van disjuncte gebeurtenissen is de som van hun waarschijnlijkheden)
+</aside>
+
+- Enkele belangrijke stellingen:
+    
+    <aside>
+    📔 Maximale waarschijnlijkheid van een verzameling:
+    
+    $p(X)\leq 1$
+    
+    </aside>
+    
+    <aside>
+    📔 Waarschijnlijkheid complement:
+    
+    $p(X^c) = 1-p(X)$ 
+    
+    voorbeeld: $p(A^c)= 1-p(A)= 0.875$
+    
+    </aside>
+    
+    <aside>
+    📔 Waarschijnlijkheid lege verzameling:
+    
+    $p(\empty) = 0$
+    
+    </aside>
+    
+    <aside>
+    📔 Waarschijnlijkheid van deelverzamelingen:
+    
+    Voor alle $X,Y \in F$, als $X \subseteq Y$, dan $p(X)\leq p(Y)$. 
+    
+    voorbeeld: $B \subset A,\ p(B)=0.125,\ p(A)=0.25,\ p(B)<p(A)$
+    
+    </aside>
+    
+    <aside>
+    📔 Waarschijnlijkheid van verenigingen en doorsnedes:
+    
+    $p(X \cup Y)=p(X)+p(Y) - p(X\cap Y)$ 
+    
+    voorbeeld: $p(C \cup D)= 0.10 +0.10 -0.05= 0.15$
+    
+    </aside>
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/4d8473cf-b8ee-4587-9e1b-af75aada4e92/Untitled.png)
+    
+- De waarschijnlijkheid van een verzameling $X,\ p(X)$ wordt ook wel de **onvoorwaardelijke** waarschijnlijkheid genoemd.
+
+<aside>
+📔 Voorwaardelijke waarschijnlijkheid:
+
+ $p(X\ |\ Y) = \frac{p(X\cap Y)}{p(Y)}$
+
+- Gelezen als: waarschijnlijkheid van verzameling $X$, gegeven verzameling $Y$.
+- Voorbeeld: $p(C\ | \ D)$ = $\frac{0,05}{0.10}=0.5$
+</aside>
+
+<aside>
+📔 Voorwaardelijke waarschijnlijkheid complement:
+
+$p(X^c\ |\ Y)=1-p(X \ |\ Y)$
+
+</aside>
+
+<aside>
+📔 Bayes’s stelling ivm verzamelingen:
+
+$p(X\ |\ Y)=p(Y\ |\ X) *\frac{p(X)}{p(Y)}$
+
+Voorbeeld: $p(A\ |\ B)=p(B\ |\ A) *\frac{p(A)}{p(B)}$
+
+- $p(A\ |\ B) = \frac{0,125}{0,125}=1$
+- $p(B\ |\ A)*\frac{p(A)}{p(B)} = \frac{0,125}{0,25}*\frac{0.25}{0.125}=0.5*2=1$
+</aside>
+
+- 
+
+<aside>
+📔 Totale waarschijnlijkheid:
+
+$p(Y)= (p(Y\ |\ X_1)*p(X_1))+...+(p*(Y\ |\ X_n)*p(X_n))$ als $p(X_1 \cup ... \cup X_n)=1$ en $p(X_i \cap X_j)=0$ met $i \neq j$ en $p(X_i)>0$
+
+Voorbeeld:
+
+$p(A)= p(A\ |\ B)*p(B)+p(A\ |\ C)*p(C)+p(C\ |\ D)*p(D)$
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/9de997bc-a83b-4144-ab77-a2879a2f663f/Untitled.png)
+
+- Bijzonder geval:  $p(Y)=(p(Y\ |\ X)\cdot p(X))+(p(Y\ |\ X^c)*p(X^c))$
+- Daaruit volgt dan: $p(X\ |\ Y)=p(Y\ |\ X)\cdot\frac{p(X)}{(p(Y\ |\ X)\cdot p(X))+(p(Y\ |\ X^c)*p(X^c))}$
+</aside>
+
+### 9.1.2. De waarschijnlijkheid van zinnen
+
+- Men kan naast verzamelingen ook waarschijnlijkheid toekennen aan zinnen
+- Enkele gelijkenissen met de definities bij verzamelingen:
+    - Complement $(X^c)$ = negatie (¬)
+    - Doorsnede ($\cap$) = conjunctie ($\wedge$)
+    - Vereniging/unie ($\cup$) = disjunctie ($\vee$)
+
+<aside>
+📔 3 belangrijke axioma’s:
+
+1. Niet-negativiteit: $p(\phi) \in \R$ en $0 \leq p(\phi)$
+2. Normalisatie: Als $\vDash \phi$, dan $p(\phi)=1$
+3. Eindige addiviteit: Als $\phi$ en $\psi$  een logisch consistente verzameling vormen (denk bv aan verzamelingen dat er geen overlap is), dan is $p(\phi\vee\psi)=p(\phi)+p(\psi)$
+</aside>
+
+<aside>
+📔 Kolmogorov-theorie van waarschijnlijkheid van zinnen:
+
+De verzameling van alle zinnen die logisch afleidbaar zijn uit de 3 axioma’s hierboven
+
+</aside>
+
+Enkele belangrijke stellingen:
+
+<aside>
+📔 Waarschijnlijkheid negatie:
+
+ $p(\neg\phi)=1-p(\phi)$
+
+</aside>
+
+<aside>
+📔 Waarschijnlijkheid contradictie:
+
+Als $\vDash \neg\phi$, dan is $p(\phi)=0$
+
+</aside>
+
+<aside>
+📔 Waarschijnlijkheid en geldigheid:
+
+Als $\phi \vDash \psi$ , dan $p(\phi)\leq p(\psi)$
+
+</aside>
+
+<aside>
+📔 Waarschijnlijkheid van conjunctie en conjuncten:
+
+ $p(\phi\wedge\psi)\leq p(\phi)$
+
+</aside>
+
+<aside>
+📔 Waarschijnlijkheid van disjunctie en disjuncten:
+
+$p(\phi)\leq p(\phi\vee\psi)$
+
+</aside>
+
+<aside>
+📔 Voorwaardelijke waarschijnlijkheid:
+
+$p(\phi \ |\ \psi)=\frac{p(\phi \wedge\psi)}{p(\psi)}$
+
+</aside>
+
+<aside>
+📔 Voorwaardelijke waarschijnlijkheid van negatie:
+
+ $p(\neg\phi\ |\ \psi)=1-p(\phi\ | \ \psi)$
+
+</aside>
+
+<aside>
+📔 Stelling van Bayes voor zinnen:
+
+$p(\phi\ |\ \psi)=p(\psi\ |\ \phi)\cdot \frac{p(\phi)}{p(\psi)}$
+
+</aside>
+
+<aside>
+📔 Conditionele waarschijnlijkheid en geldigheid:
+
+Als $\phi \vDash \psi$  en $p(\phi)>0$ , dan $p(\psi\ |\ \phi)=1$
+
+</aside>
+
+<aside>
+📔 Totale waarschijnlijkheid van zinnen:
+
+Idem totale waarschijnlijkheid bij verzamelingen, $p(\psi)=(p(\psi\ |\ \phi_1)*p(\phi_1)+...+p(\psi\ |\ \phi_n)*p(\phi_n))$
+
+- Bijzonder geval: $p(\psi)=(p(\psi\ |\ \phi)\cdotp(\phi))+(p(\psi\ |\ \neg\phi)*p(\neg\phi))$
+- Daaruit volgt dan: $p(\phi\ |\ \psi)=\frac{p(\psi\ |\ \phi)\cdot p(\phi)}{(p(\psi\ |\ \phi)\cdotp(\phi))+(p(\psi\ |\ \neg\phi)*p(\neg\phi))}$
+</aside>
+
+<aside>
+📔 Maximale waarschijnlijkheid van een zin:
+
+$p(\phi)\leq 1$
+
+</aside>
+
+## 9.2 Interpretaties van waarschijnlijkheid
+
+De axiomatische theorie van waarschijnlijkheid zegt niet expliciet wat waarschijnlijkheid is, alleen aan welke condities het moet voldoen. Er worden hieronder enkele interpretaties besproken.
+
+### 9.2.1. Het eindig frequentisme
+
+<aside>
+📔 Het eindig frequentisme :
+
+- Stel dat $A$ een deelverzameling van B is, dat er $m$ elementen in $A$ zijn en dat er $n$ elementen in $B$ zijn, waarbij $m,n\in \N$ en $n \geq 1$. Dan is de waarschijnlijkheid van $A,\ p(A)$, relatief tov $B$ gelijk aan $\frac mn$.
+    
+    Voorbeeld:
+    
+    1. {x | x is een raaf}
+    2. Er zijn $10^6$ raven ($A$)
+    3. Er zijn $10^{11}$ vogels ($B$)
+    4. De waarschijnlijkheid dat $x$ een raaf is, dus $A$ relatief tov van $B$  is gelijk aan $\frac{1}{100000}$($10^5$).
+- De waarschijnlijkheid van $A$ ten opzichte van $B$ is een reëel getal dat minstens gelijk is aan 0 en hoogstens gelijk aan 1.
+</aside>
+
+<aside>
+📔 Eindig frequentisme en zinnen:
+
+- Als $\phi$ een formule is met 1 gebonden variabele $x$ (dus een zin) en als $B$ de referentieklasse is, dan is $A$ gelijk aan:
+$\{x\ |\ x \in B \wedge \phi (x)\}$
+- Dus $x$ zit in $A$ als en slechts als $x \in B$ en $\phi$  waar is. Daarom is $A=B$ of $A=\empty$
+- $p(A)$ kan dus oftewel 1 of 0 zijn.
+</aside>
+
+### 9.2.2. De klassieke interpretatie
+
+<aside>
+📔 Principe van onvoldoende reden:
+
+- Stel dat er $n>1$ (met $n \in \N$) mogelijk ware zinnen zijn en:
+    - De zinnen niet tegelijkertijd waar kunnen zijn (=ze zijn exclusief)
+    - Minstens 1 van de zinnen waar moet zijn (=ze zijn exhaustief)
+    - We vooraf geen reden hebben om de waarheid van een zin boven een andere zin te vermoeden
+    
+    Dan is de waarschijnlijk van elk van die zinnen gelijk aan $\frac 1n$.
+    
+    - Voorbeeld: Bij een eerlijke dobbelsteen is elke uitkomst niet meer waarschijnlijk dan een ander, dus is $\frac 16$.
+</aside>
+
+<aside>
+📔 Veralgemeend principe van onvoldoende reden:
+
+- Stel dat er $n>1$ (met $n \in \N$) mogelijk ware zinnen zijn en:
+    - De zinnen niet tegelijkertijd waar kunnen zijn (=ze zijn exclusief)
+    - We weten dat de waarschijnlijkheid van de disjunctie van de zinnen gelijk is aan $x$
+    - We vooraf geen reden hebben om de waarheid van 1 van de gegeven zinnen boven enige andere gegeven zin te vermoeden
+    
+    Dan is de waarschijnlijkheid van elke van die zinnen gelijk aan $\frac xn$
+    
+    - Voorbeeld: bij een dobbelsteen waar de kans dat je 3 gooit $\frac 15$is (ipv $\frac 16$), de resterende waarschijnlijkheid, $\frac 45$ =$x$ wordt verdeeld over de andere mogelijkheden. dus$\frac{\frac 45}5$= 0.16
+</aside>
+
+- Het principe van onvoldoende reden koppelt de notie van waarschijnlijkheid aan epistemische noties, dus redenen om de waarheid van zinnen te vermoeden en weten dat een disjunctie een bepaalde waarschijnlijkheid heeft.
+- Het probleem met het principe van onvoldoende reden is dat we de waarheid van geen enkele zin boven een andere vermoeden. We kunnen situaties op meerdere manieren beschrijven, dus singulier of algemeen. De algemene beschrijving zal minder zinnen hebben en een hogere waarschijnlijkheid toekennen aan de zinnen dan de singuliere beschrijving.
+- In tegenstelling tot het eindig frequentisme is het mogelijk om niet alleen extreme waarden zoals 0 en 1 toe te kennen aan zinnen.
+
+### 9.3.3. De subjectieve interpretatie
+
+<aside>
+📔 Overtuigingsfunctie:
+
+- Stel dat $s$ een persoon of subject is en $t$ een tijdstip. Dan is $c_{s,t}$ een funcite van $s,t$ en zinnen naar [0, 1].
+    
+    Enkele voorbeelden:
+    
+    - $c_{s,t}(\phi)=1$: volledig overtuigd van de waarheid van $\phi$.
+    - $c_{s,t}(\phi)=0$: helemaal niet overtuigd van de waarheid van
+    - $0.5 < c_{s,t}(\phi)\leq 1$: meer overtuigd van de waarheid van $\phi$ dan niet
+    - …
+</aside>
+
+<aside>
+📔 De subjectieve interpretatie van waarschijnlijkheid:
+
+- Voor elke waarschijnlijkheidsfunctie $p$ is er ten minste 1 persoon of subject $s$, tijdstip $t$ en een overtuigingsfunctie $c$ relatief ten opzichte van $s$ en $t$ waarvoor geldt dat
+    
+    $$
+    \forall \phi:p(\phi)=c_{s,t}(\phi)
+    $$
+    
+- Dit is geen toelaatbare interpretatie voor de volgende 3 redenen:
+    1. Het is niet duidelijk of personen ten opzichte van *alle* zinnen een zeer precieze graden van overtuiging hebben (misschien hebben ze geen overtuiging bij zeer complexe zinnen of een overtuiging die in een interval ligt);
+    2. Personen kunnen logische fouten maken;
+    3. Personen kunnen bij de toekenning van waarschijnlijkheden aan conjuncties afwijken van de Kolmogorov-theorie van waarschijnlijkheid (de $p$-waarde van een conjunctie mag niet hoger zijn dan de conjuncten, maar dit is soms wel het geval, zie voorbeeld 9.4 op p. 259, Linda de bankbediende).
+- De subjecten moeten niet alleen logisch consistent maar ook probabilistisch coherent (het moet voldoen aan de axioma’s van Kolmogorov) zijn.
+</aside>
+
+<aside>
+📔 De consistentienorm voor volle overtuigingen:
+
+- Zij $s$ een persoon of subject, $t$ een tijdstip en $c_{st}$ een overtuigingsfunctie, waarbij het bereik van $c_{s,t}=\{1,0\}$. Dan is het rationeel verplicht dat er ten minste 1 structuur $A$ bestaat waarvoor geldt dat:
+    
+    $$
+    \forall\phi:c_{s,t}(\phi)=|\phi|_A
+    $$
+    
+    - In het Nederlands: er is ten minste 1 structuur waarin alle zinnen waar zijn waarvan het (rationeel) subject volledig overtuigd is dat ze waar zijn.
+</aside>
+
+<aside>
+📔 Het principe van synchrone probabilistisch coherentie:
+
+- Zij $s$ een persoon of subject, $t$ een tijdstip en $c_{st}$ een overtuigingsfunctie. Dan is het rationeel verplicht dat er ten minste 1 waarschijnlijkheidsfunctie $p$ bestaat waarvoor geldt dat:
+    
+    $$
+    \forall\phi:c_{s,t}(\phi)=p(\phi)
+    $$
+    
+    In het Nederlands. Er is ten minste 1 waarheidsfunctie waarvoor geldt dat de overtuigingsfunctie $c$ van een persoon $s$  op tijdstip $t$ gelijk is aan de $p$-waarde van $\phi$.
+    
+</aside>
+
+# Hoofdstuk 10: Inductie en confirmatie
+
+## 10.1 Twee problemen in verband met inductie
+
+### 10.1.1. Humes probleem
+
+<aside>
+📔 Vork van Hume:
+
+- Hume zegt dat er 2 types van redeneringen zijn:
+    - Conclusieve bewijzen
+        - Argumenten die hun conclusie onomstotelijk aantonen zoals wiskundige en logische bewijzen
+    - Waarschijnlijke argumenten of empirische bewijzen (waaronder enumeratieve inductie)
+        - Argumenten die hun conclusie niet onomstotelijk aantonen maar slechts waarschijnlijk maken zoals empirische bewijzen (redeneringen op basis van observaties in het verleden). Enumeratieve inductie (valt ook hieronder.
+        - Volgens Hume vertrekken empirische bewijzen van de aanname dat de natuur uniform is.
+</aside>
+
+- Enumeratieve inductie en de uniformiteit van de natuur:
+    1. Alle geobserveerde $P$’s zijn $Q$’s. (premisse)
+    2. De natuur is uniform (premisse)
+    3. Dus alle niet-geobserveerde $P$’s zijn $Q$’s. (uit 1 en 2)
+    4. Dus alle $P$’s zijn $Q$’s. (uit 1 en 3)
+        
+        Mogelijke toepassing: Raven ($P$) die zwart zijn ($Q$)
+        
+
+- Hume over inductieve redeneringen:
+    1. Als iets mogelijk is, is er geen *conclusief* bewijs voor het tegenovergestelde.
+    2. Het is denkbaar dat de natuur niet uniform is 
+    3. Als iets denkbaar is, is het mogelijk. 
+    4. Het is mogelijk dat de natuur niet uniform is. 
+    5. Er is geen conclusief bewijs voor de uniformiteit van de natuur 
+    6. Geen tentatief (proberend) bewijs dat haar conclusie veronderstelt, is een (echt) bewijs voor die conclusie 
+    7. Alle empirische bewijzen veronderstellen de uniformiteit van de natuur 
+    8. Een empirisch bewijs voor de uniformiteit van de natuur veronderstelt de uniformiteit van de natuur. 
+    9. Er is geen empirisch bewijs voor de uniformiteit van de natuur 
+    10. Tenzij er een *conclusief* bewijs is voor een bewering of er een empirisch bewijs is voor die bewering, is er **geen** bewijs voor die bewering.
+    11. Dus er is geen bewijs voor de uniformiteit van de natuur.
+
+(premisse)
+
+(premisse)
+
+(premisse)
+
+(uit 2, 3)
+
+(uit 1, 4)
+
+(premisse)
+
+(premisse)
+
+(uit 7)
+
+(uit 6, 8)
+
+(premisse)
+
+(uit 5, 9, 10)
+
+- Russell illustreert Hume’s punt als volgt:
+    - *“The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken.”*
+
+## 10.2 De hypothetisch-deductieve confirmatietheorie
+
+### 10.2.1. De theorie
+
+<aside>
+📔 Hypothetisch-deductieve confirmatietheorie:
+
+- Stel dat $\Gamma$ een niet-lege, eindige, consistente verzameling $\Gamma$ van observatiezinnen is, $\Delta$ een consistente verzameling van hulphypotheses en $\phi$ een zin: Dan geldt dat:
+    1. wordt $\phi$ geconfirmeerd door $\Gamma$ relatief ten opzichte van $\Delta$ als en slechts als: 
+        
+        $$
+        \psi \in\ \Gamma:\{\phi\} \cup \Delta \vDash \psi 
+        $$
+        
+    2. wordt $\phi$ gedisconfirmeerd door $\Gamma$ relatief ten opzichte van $\Delta$ als en slechts als:
+    
+    $$
+    \Gamma \cup \Delta \vDash \neg \phi
+    $$
+    
+    In het Nederlands:
+    
+    1. $\phi$ wordt ondersteund door de observaties in $\Gamma$ wanneer deze samen met $\Delta$ een bepaalde observatiezin logisch doet volgen.
+    2. $\phi$ wordt weerlegd door de observaties in $\Gamma$ wanneer deze samen met $\Delta$ logisch tegenspreken dat $\phi$ waar is.
+</aside>
+
+- Problemen met de hypothetisch-deductieve confirmatietheorie:
+    - Aangezien hypothetisch-deductieve disconfirmatie equivalent is aan indirecte falsificatie, het Quine-Duhem-probleem zich voorstelt bij indirecte falsificatie (zie 8.2.1), stelt het Quine-Duhem-probleem zich ook voor bij hypothetisch-deductieve disconfirmatie.
+    - Aangezien confirmatie min of meer equivalent is aan inductie, stellen de problemen met inductie zich ook voor deze confirmatie theorie; Popper stelt corroboratie voor, die geen reden geeft om in een theorie meer te geloven :
+        - Popper achtte Humes probleem van inductie onoplosbaar, namelijk het is logisch mogelijk dat zelfs een sterk geconfirmeerde theorie onwaar is en dat de voorspellingen die we tot nu toe uit die theorie afgeleid hebben en getoetst hebben toch waar zijn.
+        - Confirmatie wordt gezien als een reden om in een hypothese te geloven;
+        - Corroboratie betekent dat een falsificatiepoging overleefd werd.
+    - 3 problemen met betrekking tot de onvolledigheid van de theorie:
+        - De theorie is niet in staat om de disconfirmatie van existentieel gekwantificeerde zinnen te vatten, dit komt omdat hypothetisch-deductieve disconfirmatie equivalent is aan falsificatie, en existentieel gekwantificeerde zinnen niet direct falsifieerbaar zijn (zie 8.2.1).
+        - De theorie is niet in staat om de confirmatie van probabilistische hypotheses te vatten, nochtans zijn er wetenschappelijke hypotheses met de noties van kans/waarschijnlijkheid (halveringstijd van nucleaire elementen etc.)
+        - Het is een kwalitatieve theorie die stelt wanneer een hypothese ge(dis)confirmeerd is, maar geen kwantitatieve theorie die stelt in welke mate een hypothese ge(dis)confirmeerd is.
+
+## 10.3 De bayesiaanse confirmatietheorie
+
+<aside>
+📔 2 kernprincipes:
+
+De bayesiaanse confirmatietheorie heeft nu een aanvullend, tweede kernprincipe:
+
+1. Een rationeel subject moet op elk tijdstip voldoen aan de 3 axioma’s van Kolmogorov.
+2. Een rationeel persoon herziet zijn graden van overtuigingen in de loop van de tijd door middel van bayesiaanse updates.
+</aside>
+
+<aside>
+📔 Bayesiaans updaten:
+
+ Stel dat $p$ een waarschijnlijkheidsfunctie is voor zinnen. Dan is de bayesiaanse update van $p$ met zin $\psi$ gelijk aan de waarschijnlijkheidsfunctie $p'$, waarbij voor alle zinnen $\phi$ geldt dat: 
+
+$$
+p'(\phi)=p(\phi|\psi)
+$$
+
+In het Nederlands: De geüpdatete onvoorwaardelijke waarschijnlijkheidsfunctie $p'$  voor de zin $\phi$ is de voorwaardelijke waarschijnlijkheidsfunctie $p$ van $\phi$ gegeven $\psi$.
+
+</aside>
+
+<aside>
+📔 Diachrone probabilistische coherentie: 
+Zij $s$ een persoon of of subject, $t_i$ een tijdstip en $c_{s,t_i}$ een overtuigingsfunctie relatief ten opzichte van $s$  en $t_i$. Stel verder dat het subject op tijdstip $t_{i+1}$, zijn of haar graad van overtuiging $E$ verandert naar 1. (de rest van de definitie spreekt voor zichzelf) Dan is het rationeel verplicht voor alle zinnen $H$ dat:
+
+$$
+c_{s,t_{i+1}}(H)=c_{s,t_i}(H|E)=c_{s,t_i}(E|H)*\frac{c_{s,t_i}(H)}{c_{s,t_i}(E)}
+$$
+
+In het Nederlands: De nieuwe graad van overtuiging voor een zin $H$ op tijdstip $t_{i+1}$, aangeduid als $c_{s,t_{i+1}}(H)$, moet gelijk zijn aan de voorwaardelijke graad van overtuiging voor $H$ gegeven $E$ op tijdstip $t_i$, aangeduid als $c_{s,t_i}(H|E)$.
+
+</aside>
+
+<aside>
+✍️ *Uitgewerkte voorbeeld omdat er ik er anders de ballen van snap:*
+
+- Stel volgende hypotheses die gezamenlijk exhaustief en onderling exclusief zijn en we geen reden hebben om de waarheid vd ene zin boven de andere te vermoeden:
+    1. $H_1$: Jan, Pieter en Corneel hebben een baard. $(Pa\wedge Pb\wedge Pc)$;
+    2. … (pas gwn alle mogelijke voorbeelden toe zoals in het boek, check om even zeker te zijn p.285)
+    3. $H_8$: Jan, Pieter en Corneel hebben geen baard $(\neg Pa\wedge\neg Pb\wedge\neg Pc)$
+- De principe van onvoldoende reden wordt toegepast: $c_{s,t_0}(H_{1\ t.e.m\ 8})$= $\frac 18$
+- Op basis van de stelling over conditionele waarschijnlijkheid en voorwaardelijke waarschijnlijkheid van negatie kunnen we afleiden dat: $c_{s,t_o}(Pa\ |\ H_{1,\ 2,\ 3,\ 4 })= 1$ en $c_{s,t_o}(Pa\ |\ H_{5,\ 6,\ 7,\ 8})= 0$
+- Daaruit volgt dan volgens de stelling van de totale waarschijnlijkheid van zinnen dat: $c_{s,t_o}(Pa)=(c_{s,t_o}(Pa\ |\ H_1)\cdot c_{s,t_o}(H_1))+...+(c_{s,t_o}(Pa\ |\ H_8)\cdot c_{s,t_o}(H_8))$=
+$(1\cdot\frac 18)+(1\cdot\frac 18)+(1\cdot\frac 18)+(1\cdot\frac 18)+(0\cdot\frac 18)+(0\cdot\frac 18)+(0\cdot\frac 18)+(0\cdot\frac 18)= \frac 12$
+- Stel dat op tijdstip $t_1$ persoon $s$ empirisch onderzoek heeft gedaan en volledig is overtuigd dat Jan$(Pa)$ een baard heeft. De is de nieuwe graad van overtuiging van $s$ op tijdstip $t_1$:
+
+$c_{s,t_{1}}(H_1)=c_{s,t_0}(H_1|Pa)=c_{s,t_0}(Pa|H_1)*\frac{c_{s,t_0}(H_1)}{c_{s,t_0}(Pa)} = 1\cdot\frac{\frac 18}{\frac 12}=\frac 14$
+
+… idem t.e.m. $c_{s,t_{1}}(H_4)$, voor $c_{s,t_{1}}(H_5)$ t.e.m. $c_{s,t_{1}}(H_8)$  geldt het volgende: 
+
+$c_{s,t_{1}}(H_5)=c_{s,t_0}(H_5|Pa)=c_{s,t_0}(Pa|H_5)*\frac{c_{s,t_0}(H_5)}{c_{s,t_0}(Pa)} = 0\cdot\frac{\frac 18}{\frac 12}=0$
+- Op basis van de stelling over conditionele waarschijnlijkheid en voorwaardelijke waarschijnlijkheid van negatie kunnen we afleiden dat: 
+$c_{s,t_1}(Pb\ |\ H_{1,\ 2})= 1$; 
+$c_{s,t_1}(Pb\ |\ H_{3,\ 4})= 0$
+- Daaruit volgt dan volgens de stelling van de totale waarschijnlijkheid van zinnen dat: $c_{s,t_1}(Pb)=(c_{s,t_1}(Pb\ |\ H_1)\cdot c_{s,t_1}(H_1))+...+(c_{s,t_1}(Pb\ |\ H_4)\cdot c_{s,t_1}(H_4))$=
+$(1\cdot\frac 14)+(1\cdot\frac 14)+(0\cdot\frac 14)+(0\cdot\frac 14)=\frac 12$
+- Stel nu dat persoon $s$ op tijdstip $t_2$ door empirisch onderzoek volledig overtuigd is dat pieter een baard heeft$(Pb)$, dan is de nieuwe graad van overtuiging van $s$ op tijdstip $t_2$:
+
+$c_{s,t_{2}}(H_{1,2})=c_{s,t_1}(H_{1,2}|Pb)=c_{s,t_1}(Pb|H_{1,2})*\frac{c_{s,t_1}(H_{1,2})}{c_{s,t_1}(Pb)} = 1\cdot\frac{\frac 14}{\frac 12}=\frac 12$
+$c_{s,t_{2}}(H_{3,4})=c_{s,t_1}(H_{3,4}|Pb)=c_{s,t_1}(Pb|H_{3,4})*\frac{c_{s,t_1}(H_{3,4})}{c_{s,t_1}(Pb)} = 0\cdot\frac{\frac 14}{\frac 12}=0$
+- Op basis van de stelling over conditionele waarschijnlijkheid en voorwaardelijke waarschijnlijkheid van negatie kunnen we afleiden dat: 
+$c_{s,t_1}(Pc\ |\ H_{1})= 1$;
+$c_{s,t_2}(Pc\ |\ H_{2})= 0$
+
+- Daaruit volgt dan volgens de stelling van de totale waarschijnlijkheid van zinnen dat: $c_{s,t_2}(Pc)=(c_{s,t_2}(Pc\ |\ H_1)\cdot c_{s,t_2}(H_1))+(c_{s,t_2}(Pc\ |\ H_2)\cdot c_{s,t_2}(H_2)$=
+$(1\cdot\frac 12)+(0\cdot\frac12)=\frac 12$
+- Stel nu dat persoon $s$ op tijdstip $t_3$ door empirisch onderzoek volledig overtuigd is dat Corneel een baard heeft$(Pc)$, dan is de nieuwe graad van overtuiging van $s$ op tijdstip $t_3$:
+$c_{s,t_{3}}(H_{1})=c_{s,t_2}(H_{1}|Pc)=c_{s,t_2}(Pc|H_1)*\frac{c_{s,t_2}(H_1)}{c_{s,t_2}(Pc)} = 1\cdot\frac{\frac 12}{\frac 12}=1$
+$c_{s,t_{3}}(H_{2})=c_{s,t_2}(H_{2}|Pc)=c_{s,t_2}(Pc|H_2)*\frac{c_{s,t_2}(H_2)}{c_{s,t_2}(Pc)} = 1\cdot\frac{\frac 14}{\frac 12}=0$
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac25335b-62f6-4091-80b9-33ded53ee300/3adfdd8b-d848-4268-9d33-eff1593ca59a/Untitled.png)
+
+</aside>
+
+### 10.3.2. Probabilistische confirmatie
+
+<aside>
+📔 **Probabilistische confirmatie en disconfirmatie:
+Stel dat $p(E)>0$. Dan geldt dat:**
+
+1. $E$ confirmeert $H$ op een tijdstip $t_i \Leftrightarrow c_{s,t_{i-i}}(E|H)\cdot\frac{c_{s,t_{i-1}}(H)}{c_{s,t_{i-1}}(E)}>c_{s,t_{i-1}}(H)$
+2. $E$ disconfirmeert $H$ op een tijdstip $t_i \Leftrightarrow c_{s,t_{i-i}}(E|H)\cdot\frac{c_{s,t_{i-1}}(H)}{c_{s,t_{i-1}}(E)}<c_{s,t_{i-1}}(H)$
+
+Met volgende verbanden:
+
+- Hoe hoger de initiële geloofwaardigheid van een hypothese, genoteerd als $c_{s,t_{i-1}}(H)$, hoe hoger de geloofwaardigheid van de hypothese achteraf, genoteerd als $c_{s,t_{i}}(H|E)$.
+- Hoe hoger de subjectieve inschatting van hoe goed empirisch bewijsmaterial $E$ past bij de hypothese $H$, genoteerd als $c_{s,t_{i-1}}(E|H)$, hoe hoger de geloofwaardigheid van de hypothese $c_{s,t_{i}}(H|E)$ achteraf.
+- Hoe meer empirisch bewijsmateriaal $E$ subjectief wordt ingeschat als verrassend, genoteerd als $c_{s,t_{i-1}}(E)$ hoe hoger de geloofwaardigheid van de hypothese achteraf, genoteerd als $c_{s,t_{i}}(H|E)$.
+</aside>
+
+<aside>
+✍️ Uitgewerkte voorbeeld (HMST):
+
+- Stel er is een diagnostische test die slechts  1/1000 treft. We stellen de *prior* (initiële geloofwaardigheid) $H$ gelijk aan $p(H=0,001)$, daaruit volgt dat $p(\neg H=0,999)$.
+- De waarschijnlijkheid van een valse negatieve resultaat is $p(\neg E|H)=0$. Uit de stelling van voorwaardelijke waarschijnlijkheid van negatie volgt dat $p(E|H)=1$
+- De waarschijnlijkheid van een valse positieve resultaat is 5%, dus $p(E|¬H)=0,05$.
+- De kans dat een willekeurig persoon de test neemt en de test aantoont dat die persoon de ziekte heeft, wat is de kans dat die persoon de ziekte heeft?
+- Neem $H$ de hypothese dat de persoon de ziekte heeft en $E$ voor de vaststelling dat de test positief was. Dan:
+$p(H|E)=p(E|H)\cdot\frac{p(H)}{p(E)}$= $\frac{p(E|H)\cdot p(H)}{p(E|H)*p(H)+p(E|¬H)\cdot p(¬H)}$= $\frac{1\cdot0,001}{1\cdot 0,001+0,05*0,999}\sim 0,0196$
+</aside>
+
+<aside>
+📔 De H-D theorie is een bijzonder geval van BCT:
+
+Als $H\models E$ en $0<p(E),p(H) < 1$ dan $p(H\ | \ E) > p(H)$ en $p(H \ | \ \neg E)<p(H)$.
+
+m.a.w. het zien van een verwachte observatie verhoogt ons vertrouwen in de hypothese, terwijl het niet zien van die observatie ons vertrouwen in de hypothese verlaagt.
+
+</aside>
+
+<aside>
+📔 Coördinatieprincipe:
+
+Coördinatieprincipe: Als een hypothese $H$  impliceert dat  $p(E)=x (p_H(E)=x)$, dan moet $c_{s,t}(E\ | \ H)=x$. We zeggen dan dat de ***physical likelihood*** $p_H(E)$ en de ***subjectieve likelihood $c_{s,t}(E\ | \ H)$***  gecoördineerd zijn.
+
+</aside>
+
+<aside>
+📔 Keynes:
+
+Stel dat $p(E\ | \ H)=p(E\ | \ H')$, dan is $\frac{p(H\ | \ E)}{p(H'\ | \ E)}=\frac{p(H)}{p(H')}$.
+m.a.w. Als het even waarschijnlijk is om $E$ te observeren, of $H$ nu waar is of $H'$ waar is, dan blijft de verhouding van onze geloof in $H$ ten opzichte van $H'$ hetzelfde, zowel voor als na het zien van $E$.
+
+</aside>
+
+# Hoofdstuk 11: Abductie en verklaringen
+
+## 11.1 Verklaringen
+
+### 11.1.1. De deductief-nomologische theorie
+
+<aside>
+📔 Een verklaring is een argument, waarbij de premissen het *explanans* (hetgeen dat verklaart) vormen en de conclusie het *explanandum* (hetgeen dat verklaard wordt), dat aan de volgende voorwaarden voldoet:
+
+- Het argument is geldig met ware premissen, dus **correct**.
+- Ten minste 1 premisse moet **een algemene wet** zijn die essentieel is voor het argument.
+
+De volgende 2 verklaringen behoren niet tot de D-N theorie:
+
+- Elliptische verklaring: verklaringen waarin geen/niet alle relevante wetten aangehaald worden of bepaalde feiten weggelaten worden.
+bv. ”Athene wordt bedekt met smog omdat auto’s luchtvervuiling veroorzaken”
+- Partiële verklaring: verklaringen van een breder fenomeen.
+bv. ”Athene wordt bedekt met smog omdat het een stad is en steden zijn centra van menselijke activiteiten, die vervuilend zijn.”
+</aside>
+
+<aside>
+📔 Identiteitsthesis: De structuur van een voorspelling is dezelfde als die van verklaringen, beide zijn deductieve argumenten, het verschil heeft te maken met tijd.
+
+- ex post factum (na de feiten)
+- ex ante factum (voor de feiten)
+</aside>
+
+### 11.1.2. Wetten
+
+<aside>
+📔 Beste systeem-analyse van wetten: Wetten zijn universeel gekwantificeerde zin die een stelling is in een theorie die aan volgende voorwaarden voldoet:
+
+- Alle stellingen van de theorie zijn waar;
+- De theorie biedt een optimale combinatie van eenvoud en kracht, waarbij
+    - Een eenvoudige theorie begrepen wordt als een axiomatiseerbare theorie met een zo klein mogelijke axiomaverzameling.
+    - Een krachtige theorie begrepen wordt als een theorie waaruit veel empirische uitspraken deductief afgeleid kunnen worden.
+    
+    Voorbeeld: $e=mc^2$
+    
+
+In een beste systeem zijn **Accidentele generalisaties** (empirisch waargenomen regelmatigheden waar nog nooit een uitzondering op waargenomen zijn) en **ceteris paribus-**wetten (wetten die geldig zijn in normale omstandigheden, tegenspraken worden aangeduid als abnormaliteiten, dus deze wetten zijn niet te disconfirmeren) geen stellingen.
+
+</aside>
+
+### 11.1.3. Problemen met de deductief-nomologische theorie
+
+<aside>
+📔 Er zijn 2 problemen in verband met de deductief-nomologische theorie:
+
+- Symmetrie: De theorie laat een soort van symmetrie in verklaringen toe, terwijl we intuïtief denken dat verklaringen niet symmetrisch zijn.
+- Irrelevantie: De theorie laat toe dat er irrelevante empirische generalisaties gebruikt worden in verklaringen.
+</aside>
+
+### 11.1.4 Probabilistische relevantie
+
+<aside>
+📔 Een zin $\theta$ is probabilistisch relevant voor een zin $\phi$  relatief ten opzichte van een zin $\psi$ a.s.a.
+
+$$
+p(\phi \ | \ (\psi \land \theta))\neq p(\phi \ | \ \psi)
+$$
+
+(symmetrisch voor $\phi$ en $\theta$), dus er geldt ook $p(\theta\ | \ (\psi \land \phi))\neq p(\theta \ | \ \psi)$.
+
+</aside>
+
+<aside>
+✍️ Voorbeeld:
+
+Z) J is zwanger
+
+M) J is een man
+
+V) J is een vrouw
+
+A) J neemt anticonceptiepillen.
+
+- $p(Z|(M\wedge A)) = p(Z|M)$; → probabilistisch irrelevant
+- $p(Z|(V\wedge A))\ne p(Z|V)$. → probabilistisch relevant
+</aside>
+
+### 11.1.5 Causaliteit
+
+<aside>
+📔 De regulariteitsanalyse van causaliteit:
+
+Gebeurtenis $x$ is een oorzaak van gebeurtenis $y$ als en slechts als:
+
+1. Gebeurtenis $x$ voorafgaat in de tijd aan gebeurtenis $y$ (**temporele prioriteit**)
+2. Alle gebeurtenissen van hetzelfde type als $x$ gevolgd worden door gebeurtenissen van hetzelfde type als $y$ (**regulariteit**).
+
+Causaliteit is geen symmetrische relatie:
+
+- Als $x$ voorafgaat in de tijd aan gebeurtenis $y$, dan gaat $y$ niet vooraf in de tijd aan $x$.
+- Als $x$ de oorzaak is van $y$, dan is $y$ niet de oorzaak van $x$
+- Er is temporele prioriteit in de voorbeelden van het probleem van relevantie
+
+De regulariteitsanalyse kan het probleem van irrelevantie niet oplossen (zie voorbeeld over zwangerschap)
+
+</aside>
+
+<aside>
+📔 De deductief-nomologische theorie van causale verklaringen:
+
+Een causale verklaring van het effect $C$ op basis van de oorzaken $E_1,...,E_n$ is een D-N verklaring die voldoet aan de volgende voorwaarden:
+
+- Een zin die $C$ is, is het explanandum
+- Zinnen die $E_1,...,E_n$  beschrijven, behoren tot het explanans en in het bijzonder tot de zinnen die particuliere feiten beschrijven
+- $E_1,...E_n$ gaan in de tijd vooraf aan $C$
+- Alle (fysische) wetten zijn opvolgingswetten (hoe toestanden van een fysisch system in de tijd overgaan in andere toestanden van het systeem)
+</aside>
+
+## Beste verklaringen
+
+### 11.2.1 Theoretische deugden
+
+<aside>
+📔 Empirische adequaatheid en accuraatheid:
+
+- Stel dat $T$ een theorie is en dat $Γ$  de verzameling van observatiezinnen is waarvoor geldt dat $T \vDash ϕ$, voor elke $ϕ ∈ Γ$. Dan is $T$ empirisch adequaat als en slechts als voor elke $ϕ ∈ Γ$ geldt dat $ϕ$ waar is
+- Empirische accuraatheid gaat over hoe nauw de overeenstemming is tussen de voorspellingen enerzijds en de uitgevoerde experimenten en gedane observaties anderzijds.
+</aside>
+
+<aside>
+📔 Reikwijdte en empirische kracht:
+
+- De reikwijdte van een theorie heeft betrekking op de hoeveelheid feiten die met behulp van die theorie voorspeld of verklaard kunnen worden.
+- Empirische kracht is reikwijdte met betrekking tot waarneembare feiten
+</aside>
+
+<aside>
+📔 Vruchtbaarheid:
+
+De vruchtbaarheid van een theorie wordt gemeten in termen van hoeveel nieuwe (algemene of particuliere) feiten die de theorie voorspelt.
+
+Voorbeeld: $E=mc^2$ → zeer veel (terechte) voorspellingen
+
+</aside>
+
+<aside>
+📔 Interne en externe consistentie:
+
+- De interne consistentie van een theorie gaat om de logische consistentie van de theorie
+- De externe consistentie van een theorie gaat om de vraag of die theorie logisch consistent is met andere theorieën.
+</aside>
+
+<aside>
+📔 Eenvoud:
+
+2 criteria:
+
+- Axiomatische theorieën die een kleinere axiomaverzameling hebben, zijn superieur aan axiomatische theorieën met dezelfde stelling maar met een grotere axiomaverzameling.
+- Scheermes van Ockham: Aanvaard niet meer oorzaken dan er nodig zijn voor de verklaring van fenomenen. (wordt vaak ingezet om aan te tonen dat existentieel gekwantificeerde hypotheses onwaar zijn)
+</aside>
+
+### 11.2.2. Incommensurabiliteit
+
+<aside>
+📔 Incommensurabiliteit:
+
+Theorieën zijn moeilijk vergelijkbaar, volgens Kuhn zijn er minstens 2 problemen:
+
+- De criteria zijn tot op zekere hoogte vaag, waardoor het soms moeilijk is om te bepalen hoe een theorie scoort op een criterium.
+- Een theorie, wanneer deze vergeleken wordt met een andere theorie, kan beter scoren op 1 criterium en slechter op een ander. De vraag is nu welke theorie beter is, Kuhn voegt toe dat empirische accuraatheid normaal het zwaarste doorweegt, mar dat criterium volstaat niet altijd om een keuze te forceren.
+</aside>
+
+### 11.2.3. Onderdeterminantie
+
+<aside>
+📔 Onderdeterminantie: Een hypothese wordt ondergedetermineerd door een consistente verzameling van observatiezinnen als en slechts als er minstens 1 andere hypothese is die logisch inconsistent is met de gegeven hypothese maar die net als de gegeven hypothese consistent is met de observatiezinnen (dus wanneer je 2 hypotheses hebt die sterk verschillen van elkaar maar toch beide een fenomeen correct verklaren).
+
+</aside>
+
+## 11.3 Abductie, deductie en inductie
+
+<aside>
+📔 Abductieve inferentie naar de waarheid:
+
+Gegeven explanandum $E$ en gegeven alternatieve verklaringen $V_1,...V_n$ voor $E$, concludeer dat de beste verklaring voor $E$ onder de kandidaat-verklaringen waar is.
+
+</aside>
+
+<aside>
+📔 Abductieve inferentie naar waarschijnlijkheid:
+
+Gegeven explanandum $E$ en gegeven alternatieve verklaringen $V_1,...V_n$ voor $E$, concludeer dat de beste verklaring voor $E$ onder de kandidaat-verklaringen waarschijnlijk is.
+
+</aside>
+
+<aside>
+📔 Abductieve inferentie naar relatief hogere waarschijnlijkheid:
+
+Gegeven explanandum $E$ en gegeven alternatieve verklaringen $V_1,...V_n$ voor $E$, concludeer dat de beste verklaring voor $E$ onder de kandidaat-verklaringen meer waarschijnlijk is dan de andere kandidaat-verklaringen.
+
+voorbeeld: 
+$H_1$ : Socrates is een Egyptenaar en alle Egyptenaren zijn sterfelijk.
+$H_2$: Socrates is een Chinees en alle Chinezen zijn sterfelijk
+
+$p(H_1)>p(H2)$
+
+</aside>
+
+## 11.4 Abductie en wetenschappelijk realisme
+
+<aside>
+📔 Wetenschappelijk realisme:
+
+1. De entiteiten die volgens onze beste wetenschappelijke theorieën bestaan, bestaan in de werkelijkheid.
+2. Onze beste wetenschappelijke theorieën zijn (bij benadering) waar.
+</aside>
+
+# Hoofdstuk 12: Demarcatie
+
+## 12.1 Demarcatie
+
+<aside>
+📔 Het demarcatieprobleem:
+
+Socratische vraag: Wat is $X$?
+
+Enkele voorbeelden:
+
+- Wat is waarheid?
+- Wat is kennis?
+- Wat is rechtvaardiging?
+- Wat is wetenschap?
+- Wat onderscheidt wetenschap van niet-wetenschap?
+
+De laatste 2 vragen wijzen op het demarcatieprobleem.
+
+</aside>
+
+<aside>
+📔 Pseudowetenschap:
+
+Een theorie is pseudowetenschappelijk als en slechts als
+
+1. het een niet-wetenschappelijke theorie is;
+2. die door de voorstanders als een wetenschappelijke theorie gepresenteerd wordt.
+</aside>
+
+## 12.2 Het falsifieerbaarheidscriterium
+
+<aside>
+📔 Het inductiecriterium:
+
+- Een theorie is wetenschappelijk als en slechts als ze verkregen werd door (enumeratieve) inductie uit observaties en experimenten.
+- Probleem: Popper stelt dat inductie gedreven is door observaties, terwijl wetenschap theoriegedreven is.
+</aside>
+
+<aside>
+📔 Het confirmatiecriterium:
+
+- Een theorie is wetenschappelijk als en slechts als ze in hoge mate geconfirmeerd wordt door observaties en experimenten.
+- Probleem: Popper vermeldt Bacon’s ‘drogbeeld van de stam’: Als een hoge confirmatiegraad toe te schrijven is aan het feit dat men alleen oog had voor zaken die de eigen opvattingen bevestigen, dan is deze niet voldoende voor de wetenschappelijkheid van een theorie.
+</aside>
+
+<aside>
+📔 Popper’s falsifieerbaarheidscriterium:
+
+- Een theorie is wetenschappelijk als en slechts als ze falsifieerbaar is.
+- Geïnspireerd door Popper’s negatieve waardering van Freud en Marx’ theorieën
+- Problemen:
+    - Er zijn falsifieerbare pseudo-wetenschappelijke theorieën (astrologie, spiegel laten vallen etc.)
+    - Er zijn onfalsifieerbare wetenschappelijke theorieën (zie Quine-Duhem-probleem)
+</aside>
+
+<aside>
+📔 Lakatos’ demarcatiecriterium:
+
+Lakatos gaf een oplossing voor het probleem met Popper’s criteria nl. dat er onfalsifieerbare wetenschappelijke theorieën zijn:
+
+Een onderzoeksprogramma bestaat uit
+
+- Een harde kern;
+- Een beschermende gordel van hulphypotheses;
+- Heuristieken (vuistregels) om problemen en anomalieen op te lossen;
+
+En is
+
+- Progressief: Ze voorspellen nieuwe feiten en die voorspellingen worden geconfirmeerd.
+- Degeneratief: Alleen reeds bekende feiten worden verklaard, er wordt geen poging gemaakt tot het voorspellen van die feiten (die dan uiteindelijk niet confirmeerd kunnen worden aangezien er geen voorspellingen zijn)
+
+Met een nieuwe methode voor falsificatie:
+
+- Een historische vorm van falsificatie, in plaats van een onmiddellijke vorm van falsificatie.
+- Een relationele vorm van falsificatie, in plaats van een vorm van falsificatie die hypotheses of theorieën in afzondering van hypotheses of theorieën beschouwt.
+
+Er ontbreken nog enkele elementen, deze worden later aangevuld door Ruse.
+
+</aside>
+
+## 12.3 Meervoudige demarcatiecriteria
+
+<aside>
+📔 De belangrijkste kenmerken van wetenschap volgens Ruse:
+
+1. Wetenschap zoekt naar wetten (regelmatigheden zonder uitzonderingen)
+2. Een belangrijk deel van de wetenschappelijke praktijk bestaat uit het verklaren van empirische gegevens op basis van wetten en het voorspellen van empirische fenomenen op basis van wetten.
+3. Wetenschappelijke theorieën moeten toetsbaar zijn: men moet er voorspellingen uit kunnen afleiden en minstens sommige van die voorspellingen moeten geconfirmeerd zijn, terwijl de theorie toch falsifieerbaar moet zijn.
+4. Wetenschappelijke theorieën worden aanvaard onder voorbehoud: wetenschappers moeten bereid zijn om een theorie te verwerpen op basis van empirische vaststellingen, hoewel men dat niet onmiddellijk moet doen.
+5. Wetenschappers moeten integer of intellectueel eerlijk zijn
+
+Ruse waarschuwt dat deze voorwaarden niet noodzakelijk zijn, maar als een theorie (en haar aanhangers) aan geen enkele van de kenmerken voldoet, gaat het zeker niet om wetenschap.
+
+</aside>
+
+# Keuzemodule: Antropogene klimaatopwarming
+
+- IPCC stelt in 2013 voor dat het extreem waarschijnlijk is dat de gemiddelde temperatuur op de aarde toeneemt door de mensen
+- De verhoogde concentratie van broeikasgassen in de atmosfeer leidt tot opwarming.
+- Er wordt gezwegen over de snelheid en mate van opwarming
+    - Er worden wiskundige modellen gebruikt, uit 25 modellen blijkt het dat tegen 2100 de gemiddelde temperatuur 1-12°C zal stijgen
+- Niet iedereen is overtuigd van deze hypothese:
+    - Sceptici beweren dat de theorie niet falsifieerbaar is
+    - Ontkenners stellen dat deze hypothese al gefalsifieerd werd
+- De bewering dat de hypothese gefalsifieerd werd, is gebaseerd op de vaststelling dat de gemiddelde temperatuur in 1998-2013 niet gestegen is, terwijl de uitstoot van broeikasgassen *wel* toenam.
+    - De repliek hierop is dat het niet stijgen (en zelfs het dalen) van de temperatuur nog steeds consistent is met de hypothese van antropogene klimaatopwarming, omdat deze slechts betrekking heeft op de lange termijn.
+    - Probleem: de notie van “lange termijn” is nogal vaag
+- Vandaar concluderen skeptici:
+    - De hypothese van antropogene klimaatopwarming werd gefalsifieerd door de temperatuuranomalie in 1998-2013
+    - De hypothese is niet falsifieerbaar vanwege de vaagheid van de notie van lange termijn
+- Er kan beroep gedaan worden op waarschijnlijkheid, de waarschijnlijkheid van de temperatuuranomalie gegeven de hypothese van antropogene klimaatopwarming in te schatten.
+
+<aside>
+📔 Likelihood en consistentie:
+
+Als $p(E|H)\ne0$, dan is $\{H,E\}$ consistent.
+
+</aside>
+
+- Het strikte criterium van falsifieerbaarheid wordt hiermee verlaten.
+- De waarschijnlijkheid van een periode zonder stijgende gemiddelde temperatuur, gegeven de hypothese van antropogene klimaatopwarming, is niet 0.
+- Er moeten volgens Popper afspraken gemaakt worden van hoe laag de *likelihood* mag zijn, meestal is dit 0,05.
+- Volgens Coady en Corry was de waarschijnlijkheid van een temperatuuranomalie gedurende 11 jaar minder dan 0,05 en gedurende 15 jaar minder dan 0,01. Er was dus blijkbaar zwakke falsificatie.
+- Het Quine-Duhem-probleem steekt opnieuw de kop op:
+    - Er werd aangenomen dat er geen andere natuurlijke processen waren die het broeikaseffect tegenwerken
+    - Die aanname werd verlaten en er kwam een hulphypothese dat oceanen een deel van de warmte geabsorbeerd hebben (de harde kern wordt beschermd door een nieuwe hulphypothese).
+    - Deze hypothese is niet ad-hoc, want er volgt een nieuwe *toetsbare* voorspelling uit, namelijk dat de temperatuur van de oceanen in de relevante periode toegenomen moet zijn
+    - Opnieuw Quine-Duhem, het onderzoek was gebaseerd op duizenden robotsondes op verschillende dieptes die data doorsturen.
+        - De ‘data’ is theoriegeladen, we moeten dus ervan uitgaan dat onze theorieen over hoe deze sondes werken en hoe ze metingen uitvoeren, kloppen
+        - Bij het inschatten van de gemiddelde oceaantemperatuur komt er ook heel wat theorie, ze zijn verdeeld over de oceanen en sommige sondes werken niet/gebrekkig. Er worden dus statistische aannames gemaakt.
+    - Er werden alternatieve statistische methoden toegepast op de data en tot de conclusie gekomen dat de temperatuur van de oceanen sinds 2003 *wel*  gestegen is.
+    - Theoretisch gezien zou men opnieuw de hoofdhypothese kunnen afschermen voor falsificatie door het zeer complexe web van hulphypotheses een en een ander te veranderen
+- Popper was bewust van de theoriegeladenheid van data, hij stelde voor dat wetenschappers afspraken zouden maken over wat ze als ‘data’ opvatten, aangezien wat ‘gegeven’ is voor de ene discipline, kan een voorwerp zijn van toetsing in de andere discipline
+- Confirmatie is niet mogelijk zolang de likelihood niet 1 is (net zoals strikte falsificatie bij 0)
+- Probabilistische confirmatie is wel mogelijk, de graad van overtuiging kan flink stijgen als er verrassende voorspellingen op basis van de hypothese blijken te kloppen
+- Men kan een goede abductieve verklaring geven:
+    - Empirische adequaatheid en accuraatheid: Er zijn duidelijke correlaties tussen de toename van broeikasgassen en stijgende temperaturen, klimaatmodellen voorspellen stijgingen die overeenkomen met wat we hedendaags observeren.
+    - Reikwijdte en empirische kracht: Toename van hittegolven/zware regenval/droogtes, het smelten van ijskappen, veranderingen in ecosystemen etc. is te verklaren door de hypothese.
+    - Vruchtbaarheid: Het genereert nieuwe onderzoeksrichtingen en voorspellingen, die verder kunnen worden getest en verfijnd, bv. het ontwikkelen van beleidsmaatregelen om emissies te verminderen
+    - Interne en externe consistentie: Het is in overeenstemming met waarneming en gegevens uit verschillende bronnen, zoals temperatuurmetingen en satellietgegevens. Het komt ook overeen met gevestigde kennis in andere wetenschapsgebieden zoals geologie en biologie.
+    - Eenvoud: De hypothese van antropogene klimaatopwarming is relatief eenvoudig: de complexe verschijnselen van klimaatverandering komen door toedoen van de mensen.

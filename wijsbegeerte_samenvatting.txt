@@ -1,0 +1,678 @@
+Wijsbegeerte
+Pieter Vanderschueren
+Academiejaar 2022-2023
+Introductie
+Deze samenvatting is gebaseerd op het vak ’Wijsbegeerte’ gedoceerd door prof Heylen en zijn boek ’Over
+Wetenschappelijk denken’. De hoofdstukken ’Inleiding’,’Verzamelingen, Relaties en functies’, ’Zinslogica’ en
+de keuzemodules zullen niet opgenomen worden in deze samenvatting en worden gekend verondersteld. Ook
+zal niet alle geziene leerstof (o.a. voorbeelden) hierin opgenomen worden, zie daarvoor de slides. Verder
+raad ik ten sterkste aan de bijlagen te bekijken die de prof beschikbaar stelt.
+Inhoudsopgave
+1 Inferenties, theorie¨en en observaties 3
+1.1 Inferenties: deductie, inductie, abductie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Theorie¨en . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.3 Observaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2 Deductie, Verificatie en falsificatie 6
+2.1 Directe verificatie en falsificatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Indirecte verificatie en falsificatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3 Waarschijnlijkheid 8
+3.1 Frequentistische interpretatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3.2 Klassieke interpretatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3.3 Subjectieve interpretatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4 Inductie en confirmatie 10
+4.1 Het probleem van Hume . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+4.2 Inductie en confirmatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+4.3 Bayesiaanse confirmatietheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+5 Abductie en verklaringen 13
+5.1 Verklaringen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.1.1 Wetten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.1.2 De deductief-nomologische theorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.1.3 Verschilmakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.2 Beste verklaringen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+5.2.1 Selectiecriteria voor beste verklaringen: theoretische deugden . . . . . . . . . . . . . . 15
+5.2.2 Incommensurabiliteit: problemen met de theoretische deugden . . . . . . . . . . . . . 16
+5.2.3 Onderdeterminatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+6 Wat is wetenschap? 17
+6.1 Demarcatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.2 Enkelvoudige demarcatiecriteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.3 Meervoudige demarcatiecriteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+7 Meerkeuzevragen 19
+8 Openvragen 25
+Page 2
+1 Inferenties, theorie¨en en observaties
+1.1 Inferenties: deductie, inductie, abductie
+Definitie 1.1: Bewerende zin
+Zinnen die waar of onwaar zijn, zijn bewerende zinnen.
+Definitie 1.2: Argument en inferentie
+Een argument bestaat uit een verzameling van bewerende zinnen (de premissen) en een bewerende
+zin (de conclusie). Er is een gevolgtrekking of inferentie van de conclusie uit de premissen.
+Voorbeeld 1.1: Argument
+1. Alle mensen zijn sterfelijk.
+2. Socrates is een mens.
+3. Socrates is sterfelijk.
+Definitie 1.3: Deductie
+Een type van wetenschappelijk redeneren waarin er gevolgtrekking gebeurt van het algemene naar het
+bijzondere. Toegepast op voorbeeld 1.1:
+1. Alle mensen zijn sterfelijk.
+2. Socrates is een mens.
+3. Dus Socrates is sterfelijk.
+Definitie 1.4: Inductie
+Een type van wetenschappelijk redeneren waarin er gevolgtrekking gebeurt van het bijzondere naar het
+algemene. Toegepast op voorbeeld 1.1:
+1. Socrates is een mens
+2. Socrates is sterfelijk.
+3. Dus alle mensen zijn sterfelijk.
+Een argument is inductief goed als en slechts als de conclusie meer waarschijnlijk is gegeven de premis-
+sen, dan op zichzelf.
+Page 3
+Definitie 1.5: Abductie
+Een type van wetenschappelijk redeneren waarin er een mogelijke verklaring als de juiste wordt geno-
+men. Toegepast op voorbeeld 1.1:
+1. Socrates is sterfelijk.
+2. Alle mensen zijn sterfelijk.
+3. Dus Socrates is mens.
+Een argument is abductief goed als en slechts als de conclusie de beste verklaring biedt voor (sommige)
+premissen (gegeven de andere premissen).
+Definitie 1.6: Correctheid
+Een argument is correct als en slechts als het argument geldig is en de premissen waar zijn.
+1.2 Theorie¨en
+Definitie 1.7: Theorie
+Een theorie T is een verzameling van zinnen ϕ die voldoet aan de volgende voorwaarde:
+∀ϕ : T |= ϕ ⇔ ϕ ∈ T
+Definitie 1.8: Axioma
+Elke zin die behoort tot de verzameling van zinnen waaruit de rest van een theorie logisch afgeleid
+wordt, is een axioma.
+Definitie 1.9: Axiomatiseerbare theorie
+Stel dat T een theorie is. Dan is T axiomatiseerbaar als en slechts als er een deelverzameling ∆ van T
+is zodanig dat het beslisbaar is of een zin behoort tot ∆ en zodanig dat
+T = {ϕ | ∆ |= ϕ}.
+Definitie 1.10: Model van een theorie
+Een model van een theorie is een structuur waarin elke zin die behoort tot de theorie, waar is.
+Page 4
+1.3 Observaties
+Definitie 1.11: Observatie en detectie
+• Observatie vindt plaats met behulpt van uitsluitend onze zintuigen. Het is een gebeurtenis en
+dus niet een logische zin.
+• Bij detectie worden effecten van dingen en eigenschappen met behulp van instrumenten waar-
+genomen.
+Definitie 1.12: Observatiezinnen
+Een observatiezin is een zin waarmee een mogelijke observatie beschreven kan worden.
+Toepassing 1.1: Theoriegeladenheid van observaties
+• Observaties worden mee gestuurd door theoretische verwachtingen en experimenteel onderzoek
+wordt opgezet om een theorie te testen.
+• Er worden instrumenten gebruikt om dingen en hun eigenschappen te detecteren, waarbij die
+instrumenten ontworpen zijn op basis van theorie¨en.
+• Bij de beschrijving en de interpretatie van de observationele gegevens wordt vaak theorie gebruikt,
+waarbij het die beschrijvingen zijn die gebruikt worden in wetenschappelijke redeneringen.
+Toepassing 1.2: Grenzen
+• De grens tussen wat detecteerbaar is en wat niet detecteerbaar is, is in het verleden opgeschoven
+(bv. door de uitvinding van het nevelvat).
+• De grens tussen wat slechts detecteerbaar is en wat rechtstreeks observeerbaar is, zou in de
+toekomst kunnen opschuiven (bv. door genetische of cybernetische ingrepen).
+• Het onderscheid tussen wat slechts detecteerbaar is en wat rechtstreeks observeerbaar is, is gra-
+dueel (bv. door een raam/bril/vergrootglas/lichtmicroscoop... naar iets kijken).
+Page 5
+2 Deductie, Verificatie en falsificatie
+2.1 Directe verificatie en falsificatie
+Definitie 2.1: Directe verificatie van een hypothese
+Stel dat Γ een niet-lege, eindige, consistente verzameling van observatiezinnen is en dat ϕ geen logische
+waarheid is. Dan wordt ϕ direct geverifieerd door Γ als en slechts als Γ |= ϕ.
+Definitie 2.2: Directe falsificatie van een hypothese
+Stel dat Γ een niet-lege, eindige, consistente verzameling van observatiezinnen is en dat ϕ geen contra-
+dictie is. Dan wordt ϕ direct gefalsifieerd door Γ als en slechts als Γ |= ¬ϕ.
+Toepassing 2.1: Waarheid en onwaarheid
+Een verzameling observatiezinnen is niet per se een verzameling van ware zinnen, want observatie-
+zinnen beschrijven slechts mogelijke observaties. Dus: verifieerbaarheid impliceert niet waarheid en
+falsifieerbaarheid impliceert niet onwaarheid.
+Definitie 2.3: Direct verifieerbare hypotheses
+Stel dat ϕ geen logische waarheid is. Dan is ϕ direct verifieerbaar als en slechts als er een niet-lege,
+eindige, consistente verzameling Γ van observatiezinnen is zodanig dat ϕ direct geverifieerd wordt door
+Γ.
+Definitie 2.4: Direct falsifieerbare hypotheses
+Stel dat ϕ geen contradictie is. Dan is ϕ direct falsifieerbaar als en slechts als er een niet-lege, eindige,
+consistente verzameling Γ van observatiezinnen is zodanig dat ϕ direct gefalsifieerd wordt door Γ.
+Toepassing 2.2: Samenvatting
+Direct verifieerbaar Direct falsifieerbaar
+∀vϕ∗ 0 1
+∃vϕ∗ 1 0
+∀v∃v′ϕ∗ 0 0
+∃v∀v′ϕ∗ 0 0
+Page 6
+2.2 Indirecte verificatie en falsificatie
+Definitie 2.5: Indirecte verificatie van een hypothese
+Stel dat Γ een niet-lege, eindige, consistente verzameling van observatiezinnen is en dat ∆ een consis-
+tente verzameling van hulphypotheses is. Dan wordt ϕ indirect geverifieerd door Γ relatief ten opzichte
+van ∆ als en slechts als Γ ∪ ∆ |= ϕ.
+Definitie 2.6: Indirecte falsificatie van een hypothese
+Stel dat Γ een niet-lege, eindige, consistente verzameling van observatiezinnen is en dat ∆ een consis-
+tente verzameling van hulphypotheses is. Dan wordt ϕ indirect gefalsifieerd door Γ relatief ten opzichte
+van ∆ als en slechts als Γ ∪ ∆ |= ¬ϕ.
+Definitie 2.7: Ad-hoc-hypotheses
+Een hypothese is ad hoc als en slechts als ze enkel en alleen naar voren geschoven wordt om bij de
+indirecte falsificatie van een hoofdhypothese te kunnen concluderen dat minstens ´e´en hulphypothese
+fout is.
+Toepassing 2.3: Quine-Duhem probleem
+Het Quine-Duhem probleem vertelt ons dat uit de indirecte falsificatie van de hoofdhypothese alleen
+volgt dat ofwel de hoofdhypothese onwaar is, ofwel minstens ´e´en hulphypotheses onwaar is, ofwel
+minstens ´e´en observatiezinnen onwaar is. De gedachte gang werkt als volgt:
+1. Zij een niet-lege, eindige, consistente verzameling van observatiezinnen O1, ..., On en een consis-
+tente verzameling van hulphypotheses A1, ..., Am.
+2. Stel dat {O1, ..., On, A1, ..., Am} |= ¬H.
+3. Daaruit volgt dat de verzameling {O1, ..., On, A1, ..., Am, H} inconsistent is.
+4. Daarom |= ¬(O1 ∧ ... ∧ On ∧ A1 ∧ ... ∧ Am ∧ H).
+5. Bijgevolg |= (¬O1 ∨ ... ∨ ¬On ∨ ¬A1 ∨ ... ∨ ¬Am ∨ ¬H).
+De hoofdhypothese kan dus waar zijn desondanks de indirecte falsificatie.
+Page 7
+3 Waarschijnlijkheid
+3.1 Frequentistische interpretatie
+Definitie 3.1: Eindig frequentisme
+Stel dat A een deelverzameling van B, dat er m elementen in A zijn en dat er n elementen in B zijn,
+waarbij m, n ∈ N wn n ≥ 1. Dan is de waarschijnlijkheid van A, p(A), relatief ten opzichte van B,
+gelijk aan m
+n .
+Toepassing 3.1: Waarschijnlijkheid van zinnen in het eindig frequentisme
+Stel we hebben een zin ϕ(x) (met dus geen vrije variabelen) en stel dat A een deelverzameling van B
+is met A
+{x | x ∈ B ∧ ϕ(x)}
+m.a.w. een object x zit in A indien x ∈ B en ϕ(x) waar is. Hierdoor zal A ofwel B ofwel ∅ zijn, waaruit
+volgt dat p(A) ofwel 1 ofwel 0 is.
+3.2 Klassieke interpretatie
+Definitie 3.2: Principe van onvoldoende reden
+Stel dar er n > 1 (met n ∈ N) mogelijke ware zinnen zijn en dat
+1. de zinnen niet tegelijkertijd waar kunnen zijn, m.a.w. ze zijn exclusief ;
+2. minstens ´e´en van de zinnen moet waar zijn, m.a.w. ze zijn exhaustief ;
+3. we vooraf geen reden hebben om de waarheid van enige gegegeven zin boven enige andere zin te
+vermoeden.
+Dan is de waarschijnlijkheid van elk van die zinnen 1
+n .
+Definitie 3.3: Veralgemeend principe van onvoldoende reden
+Stel dar er n > 1 (met n ∈ N) mogelijke ware zinnen zijn en dat
+1. de zinnen niet tegelijkertijd waar kunnen zijn, m.a.w. ze zijn exclusief ;
+2. we weten dat de waarschijnlijkheid van de disjunctie van de zinnen gelijk is aan x;
+3. we vooraf geen reden hebben om de waarheid van enige gegegeven zin boven enige andere zin te
+vermoeden.
+Dan is de waarschijnlijkheid van elk van die zinnen x
+n .
+Page 8
+Toepassing 3.2: Epistemistische noties
+Het is belangrijk om in te zien dat de principes van onvoldoende reden de notie van waarschijnlijkheid
+koppelt aan epistemische noties, namelijk redenen om de waarheid van zinnen te vermoeden en
+weten dat een disjunctie een bepaalde waarschijnlijkheid heeft. Het (eindig) frequentisme daarentegen is
+niet epistemisch: het gaat over feitelijke frequenties, niet over kennis, onze redenen of onze vermoedens.
+Toepassing 3.3: Probleem van onvoldoende reden
+Het principe van onvoldoende reden schat de waarschijnlijkheid van zinnen die exclusief en exhaustief
+zijn waarbij we de waarheid van geen enkele zin boven een andere vermoeden. Het probleem hiermee
+is dat situatie op meerdere manieren kunnen beschreven worden, namelijk singulier of algemeen (met
+kwantoren). De algemene beschrijving zal minder zinnen tellen en zal een andere waarschijnlijkheid
+geven dan de singuliere beschrijving, wat natuurlijk niet zou mogen.
+3.3 Subjectieve interpretatie
+Definitie 3.4: Overtuigingsfunctie
+Zij s een persoon of subject, t een tijdstip. Dan is cs,t een functie van s, t en zinnen naar [0, 1].
+Definitie 3.5: Subjectieve interpretatie van waarschijnlijkheid
+Voor elke waarheidsfunctie p is er ten minste ´e´en persoon of subject s, is er ten minste ´e´en tijdstip t
+en is er ten minste ´e´en overtuigingsfunctie cs,t waarvoor geldt dat
+∀ϕ : cs,t(ϕ) = p(ϕ).
+Definitie 3.6: Consistentie van volle overtuigingen
+Zij s een persoon of subject, t een tijdstip en cs,t een overtuigingsfunctie, waarbij het bereik van
+cs,t = {1, 0}. Dan is het rationeel verplicht dat er ten minste ´e´en structuur A bestaat waarvoor geldt
+dat
+∀ϕ : cs,t(ϕ) = |ϕ|A.
+Definitie 3.7: Synchrone probalistische coherentie van parti¨ele overtuigingen
+Zij s een persoon of subject, t een tijdstip en cs,t een overtuigingsfunctie. Dan is het rationeel verplicht
+dat er ten minste ´e´en waarschijnlijkheidsfunctie p bestaat waarvoor geldt dat
+∀ϕ : cs,t(ϕ) = p(ϕ).
+Page 9
+4 Inductie en confirmatie
+4.1 Het probleem van Hume
+Definitie 4.1: Vork van Hume
+Er zijn, volgense Hume, twee soorten goede redeneringen, namelijk:
+• conclusieve bewijzen
+• waarschijnlijke argumenten of empirische bewijzen (waaronder enumeratieve inductie)
+Toepassing 4.1: Enumeratieve inductie en uniformiteit
+Alle geobserveerde raven zijn zwart. [De natuur is uniform.] Dus alle (geobserveerde en ongeobser-
+veerde) raven zijn zwart.
+Argument 4.1: Hume over inductieve redeneringen
+1. Als iets mogelijk is, is er geen conclusief bewijs voor het tegenovergestelde. [Premisse]
+2. Het is denkbaar dat de natuur niet uniform is. [Premisse]
+3. Als iets denkbaar is, is het mogelijk. [Premisse]
+4. Het is mogelijk dat de natuur niet uniform is. [Uit 2, 3]
+5. Er is geen conclusief bewijs voor de uniformiteit van de natuur. [Uit 1, 4]
+6. Geen (tentatief) bewijs dat haar conclusie veronderstelt, is een (echt) bewijs voor die conclusie.
+[Premisse]
+7. Alle empirische bewijzen veronderstellen de uniformiteit van de natuur. [Premisse]
+8. Een empirisch bewijs voor de uniformiteit van de natuur veronderstelt de uniformiteit van de
+natuur. [Uit 7]
+9. Er is geen empirisch bewijs voor de uniformiteit van de natuur. [Uit 6, 8]
+10. Tenzij er een conclusief bewijs is voor een bewering of er een empirisch bewijs is voor die bewering,
+is er geen bewijs voor die bewering. [Premisse]
+11. Dus er is geen bewijs voor de uniformiteit van de natuur. [Uit 5, 9, 10]
+12. Tenzij er een reden is om aan te nemen dat de natuur uniform is, is er geen reden om geloof te
+hechten aan de conclusies van inductieve redeneringen. [Premisse]
+13. Dus is er geen reden om geloof te hechten aan de conclusies van inductieve redeneringen. [Uit
+11, 12]
+Page 10
+4.2 Inductie en confirmatie
+Definitie 4.2: De hypothetisch-deductieve theorie van (dis-)confirmatie
+Stel dat Γ een niet-lege, eindige, consistente verzameling Γ van observatiezinnen is, ∆ een consistente
+verzameling van hulphypotheses en ϕ een zin. Dan:
+1. wordt ϕ geconfirmeerd door Γ relatief ten opzichte van ∆ als en slechts als
+ψ ∈ Γ : {ϕ} ∪ ∆ |= ψ
+2. wordt ϕ gedisconfirmeerd door Γ relatief ten opzichte van ∆ als en slechts als
+Γ ∪ ∆ |= ¬ϕ.
+Problemen → Oplossing:
+• We zien duidelijk dat de notie van disconfirmatie zich gelijkstelt aan indirecte falsificatie en dus
+ook geplaagd zal worden door het Quine-Duhem probleem (zie toepassing 2.3).
+• Aangezien confirmatie in zekere zin inductie spiegelt, stellen de problemen met inductie zich ook
+voor deze confirmatietheorie → corrobatie.
+• Onvolledigheid (van de theorie) → Bayesiaanse confirmatietheorie:
+– Er is geen mogelijkheid op disconfirmatie van existentieel gekwantificeerde zinnen. Nochtans
+er bestaan existentiele gekwantificeerde hypotheses waarvan wetenschappers denken dat ze
+onwaar zijn.
+– De theorie is niet in staat om confirmatie van probalisitische hypotheses te vatten. Nochtans
+er zijn wetenschappelijke hypotheses die geformuleerd worden met behulp van de notie van
+kans.
+– Het is een kwalitatieve theorie, die stelt wanneer een hypothese geconfirmeerd of gediscon-
+firmeerd is, maar het is geen kwantitatieve theorie die stelt in welke mate een hypothese
+geconfirmeerd of gedisconfirmeerd is.
+Definitie 4.3: Corrobatie
+Popper achtte Humes probleem van inductie onoplosbaar, namelijk het is logisch mogelijk dat zelfs een
+sterk geconfirmeerde theorie onwaar is en dat de voorspellingen die we tot nu toe uit die theorie afgeleid
+hebben en getoetst hebben toch waar zijn. In de plaats van confirmatie plaatste Popper corroboratie,
+die geen reden geeft om in een theorie meer te geloven.
+Page 11
+4.3 Bayesiaanse confirmatietheorie
+Definitie 4.4: Bayesiaans updaten
+Zij p een waarschijnlijkheidsfunctie voor zinnen. Dan is de bayesiaanse update van p met zin ψ gelijk
+aan de waarschijnlijkheidsfunctie p′, waarvoor geldt dat:
+p′(ϕ) = p(ϕ|ψ)
+voor alle zinnen ϕ.
+Definitie 4.5: Diachrone coherentie
+Zij s een persoon of subject, ti een tijdstip en cs,ti een overtuigingsfunctie relatief ten opzichte van s
+en ti. Stel verder dat het subject op tijdstip ti+1, dat onmiddellijk volgt op ti, zijn of haar graad van
+overtuiging in E verandert naar 1. (...) Dan is het rationeel verplicht dat
+cs,ti+1 (H) = cs,ti (H|E) = cs,ti (E|H) · cs,ti (H)
+cs,ti (E)
+voor alle zinnen H.
+Definitie 4.6: Probalistische confirmatie
+Stel dat p(E) > 0. Dan geldt dat:
+1. E confirmeert H op een tijdstip ti ⇔ cs,ti−1 (E|H) · cs,ti−1 (H)
+cs,ti−1 (E) > cs,ti−1 (H)
+2. E disconfirmeert H op een tijdstip ti ⇔ cs,ti−1 (E|H) · cs,ti−1 (H)
+cs,ti−1 (E) < cs,ti−1 (H)
+met volgende verbanden
+• Hoe hoger de initi¨ele geloofwaardigheid van een hypothese, hoe hoger de geloofwaardigheid van
+de hypothese achteraf.
+• Hoe hoger de subjectieve inschatting van hoe goed empirisch bewijsmateriaal E past bij de
+hypothese H, hoe hoger de geloofwaardigheid van de hypothese achteraf.
+• Hoe meer empirisch bewijsmateriaal E subjectief wordt ingeschat als verrassend, hoe hoger de
+geloofwaardigheid van de hypothese achteraf.
+Page 12
+5 Abductie en verklaringen
+5.1 Verklaringen
+5.1.1 Wetten
+Definitie 5.1: Beste-systeem-analyse van wetten
+Een wet is een universeel gekwantificeerde zin die een stelling is in een theorie die aan de volgende
+kenmerken voldoet:
+• alle stellingen van de theorie zijn waar
+• de theorie biedt een optimale combinatie van eenvoud en kracht, waarbij
+– een eenvoudige theorie begrepen wordt als een axiomatiseerbare theorie met een zo klein
+mogelijke axiomaverzameling
+– een krachtige theorie begrepen wordt als een theorie waaruit veel ware empirische uitspraken
+deductief afgeleid kunnen worden
+In een beste systeem zijn accidentele generalisaties geen stellingen. Men kan ook een ceteris paribus
+clausule, die stelt dat de wet geldig is in normale omstandigheden, hieraan toevoegen. Hierdoor is deze
+wet dan niet falsifieerbaar.
+5.1.2 De deductief-nomologische theorie
+Definitie 5.2: De deductief-nomologische theorie van verklaringen
+Een verklaring is een argument, waarbij de premissen het explanans (d.w.z., dat wat verklaart) vor-
+men en de conclusie het explanandum (d.w.z., dat wat verklaard moet worden), dat aan de volgende
+voorwaarden voldoet:
+• het argument is correct (geldig argument met ware premissen)
+• ten minste ´e´en van de premissen moet een algemene wet zijn en die premisse moet essentieel zijn
+(d.w.z. dat het argument zonder die premisse niet langer geldig is)
+Soorten verklaringen die niet behoren tot de deductief-nomologische theorie:
+• Elliptische verklaring: verklaringen waarin geen of niet alle relevante wetten aangehaald worden
+of bepaalde pariculiere feiten weggelaten worden, waardoor de verklaring niet nomologisch of niet
+deductief is.
+• Parti¨ele verklaring: verklaringen van een breder fenomeen, waaronder het explanandum. Het is
+dus geen deductief argument voor het explanadum.
+Problemen → Verschilmakers:
+• Probleem van irrelevantie: de theorie laat toe dat er irrelevante empirische generalisaties ge-
+bruikt worden in verklaringen → probabilistische relevantie en causale afhankelijkheid
+• Probleem van symmetrie: de theorie laat een soort van symmetrie in verklaringen toe → regu-
+lariteitsanalyse van causaliteit en causale afhankelijkheid
+Page 13
+5.1.3 Verschilmakers
+Definitie 5.3: Probabilistische relevantie
+Zin θ is probabilistisch relevant voor zin ϕ relatief ten opzichte van zin ψ ⇔ p(ϕ|(ψ ∧ θ))̸ = p(ϕ|ψ).
+Stelling 5.1: Symmetrie van probabilistische relevantie
+p(ϕ|(ψ ∧ θ))̸ = p(ϕ|ψ) ⇒ p(θ|(ψ ∧ ϕ))̸ = p(θ|ψ)
+Definitie 5.4: Indicatieve en tegenfeitelijke voorwaardelijke zinnen
+• Indicatieve voorwaardelijke zin: als ϕ het geval is, dan is ψ het geval.
+• Tegenfeitelijke voorwaardelijke zin: als ϕ het geval geweest was, dan zou ψ het geval geweest
+zijn.
+Toepassing 5.1: De regulariteitsanalyse van causaliteit
+Gebeurtenis x is een oorzaak van gebeurtenis y als en slechts als:
+• gebeurtenis x voorafgaat in de tijd aan gebeurtenis y (temporele prioriteit)
+• alle gebeurtenissen van hetzelfde type als x gevolgd worden door gebeurtenissen van hetzelfde
+type als y (regulariteit)
+Dit principe steunt op indicatieve voorwaardelijke zinnen.
+Hempel: Stel V de verzameling van verklaringen
+∀v ∈ V : causaal(v) ⇒ deductief-nomologisch(v)
+Toepassing 5.2: De tegenfeitelijke analyse van causaliteit: causale afhankelijkheid
+Wanneer C en E twee verschillende gebeurtenissen zijn, dan is E causaal afhankelijk van C als en
+slechts als
+• als C voorgevallen was, dan zou E ook voorgevallen zijn
+• als C niet voorgevallen was, dan zou ook E niet zijn voorgevallen
+Dit principe steunt op non-backtracking tegenfeitelijke voorwaardelijke zinnen. Met non-backtracking
+wordt bedoeld: we moeten ons voorstellen dat het verleden tot aan de tegenfeitelijke gebeurtenis
+ongewijzigd is.
+Page 14
+5.2 Beste verklaringen
+5.2.1 Selectiecriteria voor beste verklaringen: theoretische deugden
+Criteria 5.1: Empirische adequaatheid en accuraatheid
+• Stel dat T een theorie is en dat Γ de verzameling van observatiezinnen is waarvoor geldt dat
+T |= ϕ, voor elke ϕ ∈ Γ. Dan is T empirisch adequaat als en slechts als voor elke ϕ ∈ Γ geldt dat
+ϕ waar is
+• Accuraatheid gaat over hoe nauw de overeenstemming tussen de voorspellingen en de observaties
+is.
+Criteria 5.2: Reikwijdte en empirische kracht
+• De reikwijdte van een theorie heeft betrekking op de hoeveelheid van (algemene of particuliere)
+feiten die met behulp van die theorie verklaard kunnen worden. Men hoopt dus dat de theorie
+(direct) falsifieerbaar is, maar niet dat ze (direct) verifieerbaar is.
+• Empirische kracht gaat over reikwijdte op empirisch vlak.
+Criteria 5.3: Vruchtbaarheid
+De vruchtbaarheid van een theorie wordt gemeten in termen van de hoeveelheid nieuwe (algemene of
+particuliere) feiten die de theorie voorspelt.
+Criteria 5.4: Interne en externe consistentie
+• De interne consistentie van een theorie gaat om de logische consistentie van de theorie.
+• De externe consistentie van een theorie gaat om de vraag of die theorie logisch consistent is met
+andere theorie¨en.
+Criteria 5.5: Eenvoud
+• ... in de vertrekpunten, minder premissen > meer premissen
+• ... in de ontologie, scheermes van Ockham: men moet het aantal gepostuleerde entiteiten niet
+zonder noodzaak vermenigvuldigen, d.w.z. ze moeten onontbeerlijk zijn voor een goede verklaring
+van (algemene of particuliere) feiten.
+Page 15
+5.2.2 Incommensurabiliteit: problemen met de theoretische deugden
+Definitie 5.5: Incommensurabiliteit
+Onvergelijkbaarheid, theorie¨en zijn moeilijk te vergelijken. Volgens Kuhn:
+• De criteria zijn tot op zekere hoogte vaag, waardoor het soms moeilijk is om te bepalen hoeveel
+een theorie scoort op een criterium.
+• Een theorie kan in vergelijking met een andere theorie beter scoren op ´e´en criterium en slechter
+op een ander, nu volgt de vraag: ”Welke is beter?”. Empirische accuraatheid weegt volgens hem
+het zwaarste door, maar volstaat ook niet altijd om een keuze te forceren.
+5.2.3 Onderdeterminatie
+Definitie 5.6: Onderdeterminatie
+Een hypothese wordt ondergetermineerd door een consistente verzameling van observatiezinnen als en
+slechts als er minstens ´e´en andere hypothese is die logisch inconsistent is met de gegeven hypothese
+maar die net als de gegeven hypothese consistent is met de observatiezinnen.
+Toepassing 5.3: Zwakke en sterke onderdeterminatie
+• Zijn de twee hypotheses consistent met alle observatierapporten tot nu toe? Dan spreekt men
+over zwakke onderdeterminatie. De twee hypotheses zijn dan zwak empirisch equivalent.
+• Zijn ze consistent met alle observatierapporten die we zullen of zelfs kunnen hebben? Dan spreekt
+men over sterke onderdeterminatie. De twee hypotheses zijn dan sterk empirisch equivalent.
+Page 16
+6 Wat is wetenschap?
+6.1 Demarcatie
+Definitie 6.1: Proto- en pseudowetenschap
+• Protowetenschap is iets dat nog geen wetenschap is maar wel de potentie heeft om te transformeren
+tot echte wetenschap.
+• Een theorie is pseudowetenschappelijk als en slechts als
+– het een niet-wetenschappelijke theorie is,
+– die door de voorstanders als een wetenschappelijke theorie gepresenteerd wordt.
+6.2 Enkelvoudige demarcatiecriteria
+Stelling 6.1: Demarcatie op basis van inductie
+Een theorie is wetenschappelijk als en slechts als ze verkregen werd door (enumeratieve) inductie uit
+observaties en experimenten.
+Probleem: inductie is obervatiegedreven, wetenschap is theoriegedreven
+Stelling 6.2: Demarcatie op basis van confirmatie
+Een theorie is wetenschappelijk als en slechts als ze in hoge mate geconfirmeerd wordt door observaties
+en experimenten.
+Probleem: een pseudowetenschappelijke theorie kan gepaard gaan met een hoge confirmatiegraad
+Stelling 6.3: Poppers falsificatiecriterium
+Een theorie is wetenschappelijk als en slechts als ze falsifieerbaar is.
+Problemen → Oplossing:
+• Falsifieerbare pseudo-wetenschappelijke theori¨een
+• Onfalsifieerbare wetenschappelijke theori¨een (Quine-Duhem probleem) → Lakatos
+Page 17
+Stelling 6.4: Lakatos demarcatiecriterium
+Een onderzoeksprogramma (idpv hypothesen of theorie¨en) bestaat uit
+• een harde kern (bv. de wetten van Newton)
+• een beschermende gordel van hulphypotheses
+• heuristieken om problemen, waaronder anomalie¨en, op te lossen.
+en is
+• progressief (theoretische progressie > empirische progressie):
+– ze voorspellen nieuwe feiten (bv. Halley’s voorspelling van de terugkeer van een planeet) en
+– die voorspellingen worden geconfirmeerd.
+• degeneratief: ze proberen alleen reeds bekende feiten te verklaren, zonder
+– nieuwe feiten te voorspellen of
+– zonder dat die voorspellingen geconfirmeerd worden.
+met een nieuwe opvatting voor falsificatie:
+• Een historische vorm van falsificatie, in plaats van een onmiddellijke vorm van falsificatie.
+• Een relationele vorm van falsificatie, in plaats van een op zichzelf staande vorm van falsificatie.
+Probleem:
+• Falsifieerbare pseudo-wetenschappelijke theori¨een
+6.3 Meervoudige demarcatiecriteria
+Stelling 6.5: Ruse’s demarcatiecriteria
+1. Wetenschap zoekt naar wetten (regelmatigheden zonder uitzonderingen).
+2. De wetenschappelijke praktijk bestaat uit het verklaren van empirische gegevens op basis van
+wetten en het voorspellen van empirische fenomenen op basis van wetten.
+3. Wetenschappelijke theorie¨en moeten toetsbaar zijn: men moet er voorspelling uit kunnen afleiden,
+sommige voorspellingen moeten geconfirmeerd worden, terwijl de theorie toch falsifieerbaar is.
+4. Wetenschap is tentatief: wetenschappers moeten uiteindelijk bereid zijn om een theorie te ver-
+werpen op basis van empirische vaststellingen, hoewel men dat niet onmiddellijk moet doen.
+5. Wetenschappers moeten integer of intellectueel eerlijk zijn.
+Page 18
+7 Meerkeuzevragen
+1. Denken dat filosofie niet nuttig is, is een vorm van:
+⃝ Wetenschappelijk denken
+⃝ Eerste-ordedenken
+⃝ Tweede-ordedenken
+√ Derde-ordedenken
+⃝ Ik weet het niet
+Uitleg: Denken over filosofie (tweede-ordedenken) = derde-ordedenken
+2. De uitvinding van het nevelvat leidde ertoe dat
+⃝ de grens tussen het observeerbare en het niet-observeerbare opschoof richting het tweede.
+√ de grens tussen het detecteerbare en het niet-detecteerbare opschoof richting het
+tweede.
+⃝ de grens tussen het observeerbare en het slechts detecteerbare opschoof richting het tweede.
+⃝ de grens tussen het slechts detecteerbare en het observeerbare opschoof richting het tweede.
+⃝ Ik weet het niet
+Uitleg: Observatie vindt plaats met behulp van uitsluitend onze zintuigen. Bij detectie worden er
+effecten van dingen en hun eigenschappen met behulp van instrumenten waargenomen. Het nevelvat is
+een instrument dat toelaat om door middel van abductieve inferenties af te leiden uit de observatie van
+een condensatiespoor en de afbuiging daarvan dat er een positron door de ”nevel”trok. Het positron
+werd nu detecteerbaar, terwijl het daarvoor niet gedetecteerd kon worden.
+3. Je moet hoesten, je hebt koorts, je bent kortademig en je bent tijdens de krokusvakantie gaan ski¨en in
+de Italiaanse Alpen. De huisarts vermoedt dat je besmet bent met het SARS-CoV-2 virus, dat de ziekte
+COVID-19 bij jou veroorzaakt heeft. Dit type van inferentie is:
+⃝ Deductief
+⃝ Inductief
+√ Abductief
+⃝ Intelligent
+Uitleg: Abductie of afleiding naar de beste verklaring: er zijn symptomen, die kenmerkend zijn voor de
+COVID-19 ziekte, die veroorzaakt wordt door het SARS-CoV-2 virus. Dokters proberen in hun diagnose
+alternatieve verklaringen uit te sluiten.
+Page 19
+4. ”Er is een onzichtbaar, onhoorbaar, geurloos, onaanraakbaar wezen dat jeuk veroorzaakt bij alle stu-
+denten die filosofieles krijgen.” Deze uitspraak is
+⃝ verifieerbaar en falsifieerbaar.
+⃝ verififieerbaar, maar niet-falsifieerbaar.
+√ niet-verifieerbaar, maar wel falsifieerbaar.
+⃝ niet-verifieerbaar en niet-falsifieerbaar.
+Uitleg: ”Er is een onzichtbaar, onhoorbaar, geurloos, onaanraakbaar wezen”: welke observatie zou je
+kunnen doen om vervolgens uit de beschrijving van die observatie logisch af te leiden dat dit wezen
+bestaat, als je het wezen niet kan waarnemen? Verificatie is niet mogelijk in dit geval. ”... dat jeuk
+veroorzaakt bij alle studenten die filosofieles krijgen”: geef een filosofieles. Als er ten minste ´e´en student
+tijdens de les geen jeuk heeft, is er een empirisch tegenvoorbeeld.
+5. Hypothese: ”Ten minste ´e´en man op de Vliegende Hollander heeft een baard.”
+Observatiezinnen:
+• Jan heeft geen baard
+• Pieter heeft geen baard
+• Corneel heeft geen baard
+Hulphypothese: alleen Jan, Pieter en Corneel zijn mannen op de Vliegende Hollander
+Wat zou een voorbeeld van een ad-hoc-hypothese kunnen zijn?
+⃝ Geen enkele man op de Vliegende Hollander heeft een baard.
+⃝ Jan, Pieter of Corneel hebben toch een baard.
+⃝ Anne is een vrouw op de Vliegende Hollander.
+√ Er is nog een andere man aan boord.
+⃝ Ik weet het niet.
+Uitleg: Een ad-hoc-hypothese wordt gebruikt om te concluderen dat een hulphypothese onwaar is, zodat
+de hoofdhypothese afgeschermd wordt van falsificatie. Antwoord D is inconsistent met de hulphypothese
+maar niet met de hoofdhypothese.
+6. Er zijn afgerond 17 miljoen Nederlanders, waarvan ongeveer 8,5 miljoen mannen en ongeveer 60 000
+mannen langer dan twee meter. Volgens het eindig frequentisme is de waarschijnlijkheid van ’Er zijn
+Nederlandse mannen langer dan twee meter’ relatief ten opzichte van de referentieklasse van Nederlandse
+mannen (ongeveer) gelijk aan:
+√ 1
+⃝ 3/425
+⃝ 0
+⃝ onbepaald
+⃝ Ik weet het niet.
+Uitleg: Een uitspraak van de vorm ’er zijn ...’ kan volgens het eindig frequentisme alleen extreme
+waarschijnlijkheden hebben: 1 als het waar is en 0 als het onwaar is. Aangezien de uitspraak waar is, is
+de waarschijnlijkheid 1.
+Page 20
+7. Wat is de juiste conclusie uit het gedachtenexperiment met de kubusfabriek?
+√ Het principe van onvoldoende reden is inconsistent, tenzij je een keuze maakt uit
+de verschillende manieren om de mogelijkheden te beschrijven.
+⃝ Het principe van onvoldoende reden is inconsistent, als je een keuze maakt uit de verschillende
+manieren om de mogelijkheden te beschrijven.
+⃝ De waarschijnlijkheid dat een kubus met een zijlengte tussen 0m en 1/2m van de band rolt, is
+gelijk aan 1/2 en is verschillend van 1/2.
+⃝ Singuliere beschrijvingen van mogelijkheden leiden in combinatie met het principe van onvol-
+doende reden tot inconsistentie.
+⃝ Ik weet het niet.
+Uitleg: Als je het principe van onvoldoende reden toepast op de verzameling van L-zinnen, de verzame-
+ling van A-zinnen en de verzameling van V-zinnen, dan leidt dit tot inconsistentie. Om dit te vermijden,
+moet je kiezen tussen de drie verzamelingen van zinnen, die elk de mogelijkheden beschrijven.
+8. Het probleem van statistische hypotheses voor de hypothetisch-deductieve theorie van confirmatie toe-
+gepast op:
+• ”Hondeigenaren hebben een hogere kans op allergie voor kattenharen.”
+• ”In ons onderzoek hadden meer hondeigenaren dan mensen zonder hond een allergie voor katten-
+haren
+Het probleem is dat
+⃝ de eerste uitspraak consistent is met de tweede.
+√ de eerste uitspraak consistent is met de negatie van de tweede.
+⃝ de eerste uitspraak inconsistent is met de tweede.
+⃝ de eerste uitspraak inconsistent is met de negatie van de tweede.
+⃝ Ik weet het niet.
+Uitleg: De eerste uitspraak consistent is met de negatie van de tweede uitspraak: dat klopt. Ook als
+relatief meer hondeneigenaren dan mensen zonder hond een allergie voor kattenharen zouden hebben,
+dan nog kan het zijn dat in het onderzoek, waarin slechts een deel van de hondeneigenaren en een deel
+van de mensen zonder hond onderzocht worden, de hondeneigenaren niet relatief meer (maar even vaak
+of minder) dan de mensen zonder hond een allergie voor kattenharen hebben. Als de eerste uitspraak
+consistent is met de negatie van de tweede uitspraak, dan volgt de tweede uitspraak niet logisch uit de
+eerste uitspraak. De tweede uitspraak leidt dan niet tot confirmatie van de eerste uitspraak. Nochtans
+zouden we dat wel verwachten.
+Page 21
+9. Welke uitspraak is geen premisse in het argument van Hume?
+⃝ Als iets mogelijk is, is er geen conclusief bewijs voor het tegenovergestelde.
+⃝ Geen (tentatief) bewijs dat haar conclusie veronderstelt, is een (echt) bewijs voor die conclusie.
+⃝ Tenzij er een conclusief bewijs is voor een bewering of er een empirisch bewijs is voor die
+bewering, is er geen bewijs voor die bewering.
+√ Tenzij er een conclusief bewijs is voor de uniformiteit van de natuur, is er geen
+reden om geloof te hechten aan de conclusies van inductieve redeneringen.
+⃝ Ik weet het niet.
+Uitleg: Tenzij er een conclusief bewijs is voor de uniformiteit van de natuur, is er geen reden om geloof
+te hechten aan de conclusies van inductieve redeneringen.
+10. Over welke theoretische deugd beschikt de theorie van Ptolemaeus in hogere mate dan de theorie van
+Copernicus?
+⃝ Empirische adequaatheid
+⃝ Reikwijdte
+√ Externe coherentie
+⃝ Eenvoud
+⃝ Ik weet het niet.
+Uitleg: De theorie van Copernicus was strijdig met de fysica van Aristoteles, terwijl de theorie van
+Ptolemaeus paste bij de natuurfilosofie van Aristoteles.
+11. Het probleem van symmetrie wordt opgelost door ...
+⃝ de deductief-nomologische theorie.
+⃝ probabilistische relevantie.
+√ causale afhankelijkheid.
+⃝ backtracking tegenfeitelijk voorwaardelijke zinnen.
+⃝ Ik weet het niet.
+Uitleg: Klopt. Zie figuur A.3.
+Page 22
+12. Halley en anderen berekenden voor het eerst op basis van de theorie van Newton en de aanname dat
+een bepaalde komeet rond de zon draait en eerdere verschijningen van die komeet dat diezelfde komeet
+in 1759 opnieuw zou verschijnen. In 1758 is dit
+⃝ theoretische vooruitgang en empirische vooruitgang.
+√ theoretische vooruitgang, maar geen empirische vooruitgang.
+⃝ empirische vooruitgang, maar geen theoretische vooruitgang.
+⃝ noch theoretische vooruitgang, noch empirische vooruitgang.
+⃝ Ik weet het niet.
+Uitleg: Theoretische vooruitgang: er worden vanuit het onderzoeksprogramma nieuwe voorspellingen
+gedaan. De voorspelling van Halley was nieuw. Empirische vooruitgang: in 1758 kon men nog niet
+waarnemen of de komeet daadwerkelijk in 1759 opnieuw zou verschijnen.
+13. Wat was volgens Popper het probleem met de theorie van Marx?
+⃝ Er volgde geen voorspellingen uit die misschien niet zouden uitkomen.
+⃝ De socialistische revoluties vonden plaats in landen die nog niet of weinig ge¨ındustrialiseerd
+waren.
+⃝ De theorie werd gefalsifieerd.
+√ De marxisten probeerden met ad-hoc-hypotheses hun theorie van falsificatie af te
+schermen.
+⃝ Ik weet het niet.
+Uitleg: Klopt.
+14. De toepassing van het biologische soortconcept leidt in vergelijking met de toepassing van het fylogene-
+tische soortconcept vaak tot een erkenning van
+√ Minder soorten
+⃝ Even veel soorten
+⃝ Meer soorten
+⃝ Taxonomische wanorde
+⃝ Ik weet het niet.
+Uitleg: De toepassing van het biologische soortconcept leidt vaak tot een erkenning van minder soorten,
+terwijl de toepassing van het fylogenetische soortconcept dan weer leidt tot de erkenning van meer
+soorten. De reden is dat het vaak mogelijk is voor individuen van groepen met dezelfde afstamming maar
+verschillende eigenschappen om zich met elkaar voort te planten en daarbij vruchtbare nakomelingen te
+hebben. Daardoor zijn er gevallen waarin een toepassing van het biologische soortconcept ertoe leidt
+dat een groep organismes niet als soort (maar eventueel wel als een ondersoort) erkend wordt, terwijl
+een toepassing van het fylogenetische soortconcept ertoe leidt dat ze wel als soort erkend wordt.
+Page 23
+15. Sceptici ten overstaan van de hypothese van antropogene klimaatopwarming stellen dat deze
+⃝ probabilistisch gefalsifieerd werd.
+⃝ gefalsifieerd werd.
+⃝ niet probabilistisch falsifieerbaar is
+√ niet falsifieerbaar is.
+⃝ Ik weet het niet.
+Uitleg: Sceptici ten overstaan van de hypothese van antropogene klimaatopwarming stellen dat die
+vanwege de vaagheid van de notie van lange termijn niet falsifieerbaar is.
+Page 24
+8 Openvragen
+1. ’Daar is een zwarte zwaan.’ Leg uit op welke manier deze zin theoriegeladen kan zijn.
+De zin ’Daar is een zwarte zwaan’ is een vorm van een observatiezin. Hier wordt een dier een ’zwaan’
+genoemd. Hoe komt men tot de conclusie dat het een zwaan is? Dit is omdat bij de beschrijving van
+observationele gegevens vaak theorie wordt gebruikt, waarbij het die beschrijvingen zijn die gebruikt
+worden in wetenschappelijke redeneringen. Deze zin is dus theoriegeladen.
+2. Wat is het probleem met het principe van onvoldoende reden? Leg dit bondig uit.
+Er zijn twee soorten beschrijvingen dat men kan gebruiken om mogelijkheden te beschrijven, namelijk
+singuliere of algemene. Het probleem is dus dat deze beide bij het principe van onvoldoende reden leiden
+tot andere kansen. Er moet dus een keuze gemaakt worden, maar deze is niet vanzelfsprekend.
+3. Geef ´e´en criterium voor theoriekeuze (theoretische deugd), beschrijf het bondig en leg uit welk filosofisch
+probleem er zich voor dit criterium stelt. (Kies geen criterium waarvoor we niet expliciet een filosofisch
+probleem voor hebben aangegeven.)
+De empirische adequaatheid en accuraatheid van een theorie wordt geconfontreerd door het probleem
+van onderdeterminatie, namelijk de observatiezinnen kunnen consistent zijn met een andere theorie die
+inconsistent is met deze theorie.
+4. Geef op basis van de deductief-nomologische theorie van verklaringen een argument voor de stelling dat
+wetenschap niet alles kan verklaren.
+Neem een wetenschappelijke verklaring. Deze verklaring bevat volgens de deductief-nomologische theorie
+ten minste ´e´en algemene wet. Als de wetenschap alles kan verklaren, dan moet deze wet op haar
+beurt verklaard worden door een verklaring gebruikmakend van een andere algemene wet (zodat er
+geen circulaire redeneringen ontstaan). We krijgen nu een oneindige lange keten van wetenschappelijke
+verklaringen, wat niet toegelaten is en dus volgt de pessimistische conclusie dat de wetenschap niet alles
+kan verklaren.
+5. Welk probleem met het falsificationisme van Popper als demarcatiecriterium helpt het falsificationisme
+van Lakatos op te lossen? Leg bondig uit.
+Het falsificationisme van Lakatos staat wetenschap toe om met anomali¨en te leven tot dat er een betere
+theorie is die aanvaard wordt in de plaats van de theorie direct te falsifieren zoals bij Popper. Het
+probleem dat opgelost is is het onterecht falsifieren van protowetenschap.
+Page 25
+6. Geef ´e´en enkelvoudig criterium voor demarcatie, beschrijf het bondig en leg kort uit welke twee problemen
+er zich voor dit criterium stellen. (Kies geen criterium waarvoor we niet expliciet twee filosofische
+problemen voor hebben aangegeven.)
+Het demarcatiecriterium van Popper: een theorie is wetenschappelijk als die falsifieerbaar is
+• Er zijn pseudowetenschappelijke thoerie¨en die wel falsifieerbaar zijn.
+• Sommige wetenschappelijke theorie¨en zijn het (volgens Lakatos) waard om af te schermen van
+falsifieerbaarheid, Popper staat theorie¨en niet toe om te leven met anomali¨en.
+Page 26
