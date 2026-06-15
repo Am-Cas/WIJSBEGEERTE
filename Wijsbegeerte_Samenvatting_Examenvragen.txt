@@ -1,0 +1,217 @@
+WIJSBEGEERTE
+Universele Samenvatting & Moeilijke Examenvragen
+Gebaseerd op hoofdstukken 5–12
+DEEL 1: UNIVERSELE SAMENVATTING
+H5 — Aristoteles & Griekse Natuurfilosofie
+Syllogistiek
+Aristoteles ontwikkelde de eerste formele logica via syllogismen: geldige deductieve redeneringen met twee premissen en een conclusie. Een syllogisme is geldig als de conclusie noodzakelijk volgt uit de premissen.
+Vier soorten categorische uitspraken:
+    • Universeel bevestigend (Aba): 'alle B zijn A'
+    • Particulier bevestigend (Iba): 'sommige B zijn A'
+    • Universeel ontkennend (Eba): 'geen B is A'
+    • Particulier ontkennend (Oba): 'sommige B zijn niet A'
+
+Beperkingen syllogistiek: geen zinslogica, geen logica van relaties, geen lege klassen.
+Aristotelisch Wereldbeeld & Bewegingsleer
+Geocentrisme	Aarde staat stil in het centrum; zon, maan en planeten draaien errond.
+
+Vier elementen: aarde (koud/droog), water (koud/vochtig), lucht (warm/vochtig), vuur (warm/droog). Beweging is teleologisch: elk element streeft naar zijn 'natuurlijke plaats'.
+Snelheid evenredig aan kracht en omgekeerd evenredig aan weerstand van het medium.
+Ptolemeïsche Astronomie
+Ptolemaeus gebruikte wiskundige constructies om planetenbewegingen te verklaren zonder het geocentrisch model los te laten:
+    • Deferent/excenter: hoofdcirkel waarop planeet beweegt, middelpunt valt niet samen met aarde
+    • Epicykel: planeet beweegt op kleinere cirkel op de deferent
+    • Equant: punt vanwaar hoeksnelheid van epicykelcentrum constant lijkt
+
+H6 — De Wetenschappelijke Revolutie (1500–1750)
+Copernicus
+Heliocentrisme	Zon staat in het middelpunt; aarde roteert om haar as én beweegt rond de zon.
+
+Probleem: geen sterrenparallax waarneembaar (sterren te ver), onverenigbaar met Aristotelische fysica (vallende lichamen zouden verschuiven) en bijbelteksten.
+Osiander's instrumentalisme: het systeem hoeft niet letterlijk waar te zijn, alleen de voorspellingen moeten kloppen — zo vermijdt men conflict met de Kerk.
+Kepler
+Op basis van Tycho Brahe's nauwkeurige observaties formuleerde Kepler drie planetaire wetten:
+    • Planeten bewegen in ellipsen rond de zon (in één focus)
+    • De verbindingslijn planeet-zon bestrijkt in gelijke tijden gelijke oppervlakken
+    • Het kwadraat van de omlooptijd is evenredig met de derde macht van de halve lange as
+
+Kepler nam een realistische positie in: hij wou dat de theorie letterlijk waar was, niet enkel instrumentalistisch bruikbaar.
+Galilei
+Verdedigde het copernicaans model met telescopische observaties (zonnevlekken, manen van Jupiter). Ontdekte de valwet via experimenten op het hellend vlak. Hij toonde aan dat wiskunde toepasbaar is op aardse objecten — een fundamentele methodologische innovatie.
+Bacon
+Verwierp de deductieve methode van Aristoteles en stelde de inductieve methode centraal. Identificeerde vier 'idols' (gevaren voor het wetenschappelijk denken):
+    • Idols of the Tribe: vooroordelen inherent aan alle mensen
+    • Idols of the Cave: individuele vooroordelen
+    • Idols of the Marketplace: misleiding door taal
+    • Idols of the Theatre: dogmatische filosofische systemen
+
+Newton
+Synthese van alle voorgaande werk. Ontwikkelde differentiaal- en integraalrekening, drie bewegingswetten en de gravitatiewet. Zijn 'experimental philosophy' combineerde inductie en abductie. Prioriteitsstrijd met Leibniz over de calculus.
+Substantivisme vs. Relationisme	Newton: absolute ruimte bestaat onafhankelijk van materie. Leibniz: ruimte is enkel de relatie tussen objecten.
+
+H7 — Inferenties, Theorieën & Observaties
+De Drie Inferentievormen
+Deductie	Van het algemene naar het bijzondere. Geldig als er geen structuur bestaat waarin premissen waar en conclusie onwaar zijn. Conclusie is zeker als premissen waar zijn.
+
+Inductie	Van het bijzondere naar het algemene (enumeratieve inductie). Niet logisch geldig. Een argument is inductief goed als de conclusie meer waarschijnlijk is gegeven de premissen dan op zichzelf.
+
+Abductie	Afleiden naar de beste verklaring. Niet logisch geldig. Een argument is abductief goed als de conclusie de beste verklaring biedt voor de premissen.
+
+Correctheid = geldigheid + ware premissen. Inductieve en abductieve argumenten zijn nooit deductief geldig.
+Theorieën
+Een theorie T is een verzameling zinnen die gesloten is onder logisch gevolg. Elke zin afleidbaar uit T behoort tot T. Axiomatiseerbare theorieën hebben een beslisbare deelverzameling (axioma's) waaruit de rest logisch volgt.
+Observaties & Theoriegeladenheid
+Observatie = directe waarneming via zintuigen. Detectie = waarneming via instrumenten. Observatiezin = zin die een mogelijke observatie beschrijft (kan premisse zijn van een argument).
+Drie manieren waarop observaties theoriegeladen zijn:
+    • Theoretische verwachtingen sturen wat we observeren (Popper: zoeklicht, geen emmer)
+    • Instrumenten zijn ontworpen op basis van theorieën
+    • Beschrijving en interpretatie van data gebruikt theoretische termen
+
+De grens tussen observeerbaar en detecteerbaar is gradueel en historisch verschuifbaar (vb. nevelvat maakte positronen detecteerbaar).
+H8 — Verificatie & Falsificatie
+Directe Verificatie & Falsificatie
+Directe verificatie	Γ |= φ: een eindige consistente verzameling observatiezinnen Γ impliceert logisch φ. Existentieel gekwantificeerde zinnen (∃) zijn direct verifieerbaar.
+
+Directe falsificatie	Γ |= ¬φ: Γ impliceert de negatie van φ. Universeel gekwantificeerde zinnen (∀) zijn direct falsifieerbaar.
+
+Samenvatting verifieer/falsifieerbaarheid:
+    • ∀vφ: niet direct verifieerbaar, WEL direct falsifieerbaar
+    • ∃vφ: WEL direct verifieerbaar, niet direct falsifieerbaar
+    • ∀v∃v'φ en ∃v∀v'φ: noch verifieerbaar, noch falsifieerbaar
+
+Verifieerbaarheid ≠ waarheid; falsifieerbaarheid ≠ onwaarheid.
+Indirecte Verificatie & Falsificatie
+Hulphypothesen (∆) zijn nodig om een hoofdhypothese (H) in verband te brengen met observatiezinnen. Γ ∪ ∆ |= ¬H betekent indirecte falsificatie.
+Ad-hoc-hypothese	Een hulphypothese die enkel naar voren wordt geschoven om de hoofdhypothese af te schermen van falsificatie, zonder verdere empirische inhoud of steun.
+
+Het Quine-Duhem Probleem
+Wanneer {O₁,...,Oₙ, A₁,...,Aₘ} |= ¬H, volgt alleen dat minstens één element van de conjunctie {O₁,...,Oₙ, A₁,...,Aₘ, H} onwaar is. Men kan niet logisch afleiden dat H zelf onwaar is. Strikte falsificatie is dus onmogelijk.
+H9 — Waarschijnlijkheid
+Drie Interpretaties
+Eindig Frequentisme (Venn)	p(A) = m/n, waarbij m het aantal A-elementen in referentieklasse B van n elementen. Zinnen krijgen waarschijnlijkheid 0 of 1 (niet gradueel).
+
+Klassieke interpretatie (Laplace/Keynes)	Principe van onvoldoende reden: als n exclusieve en exhaustieve mogelijkheden even waarschijnlijk zijn, heeft elk p = 1/n. Probleem: inconsistent bij andere beschrijvingswijzen (kubusparadox).
+
+Subjectieve interpretatie	Waarschijnlijkheid = graad van overtuiging van een persoon. Rationeel vereist: synchrone probabilistische coherentie (voldoen aan Kolmogorov-axioma's).
+
+H10 — Inductie & Confirmatie
+Hume's Probleem
+Hume onderscheidt: (1) conclusieve bewijzen en (2) empirische/waarschijnlijke bewijzen. Enumeratieve inductie steunt op de uniformiteit van de natuur. Hume's argument:
+    • Het is denkbaar dat de natuur niet uniform is → er is geen conclusief bewijs voor de uniformiteit
+    • Elk empirisch bewijs voor de uniformiteit veronderstelt de uniformiteit → circulair
+    • Conclusie: er is geen reden om geloof te hechten aan conclusies van inductieve redeneringen
+
+Goodman's Nieuw Raadsel
+Goodman introduceert het predicaat 'grouw' (grue): een object is grouw als het vóór tijdstip T groen is OF ná T blauw. Twee vormen van inductie met dezelfde structuur leiden tot contradictoire conclusies. Probleem: men kan 'groen' ook herdefiniëren via 'grouw'. Dit toont dat de inhoud van predicaten — niet enkel de argumentvorm — bepalend is voor de geldigheid van inductieve redeneringen.
+HD-Confirmatietheorie
+Een hypothese H wordt geconfirmeerd door observatiezin ψ (relatief t.o.v. hulphypothesen ∆) als: {H} ∪ ∆ |= ψ. Verschil met verificatie: de richting van de deductie is omgekeerd. Problemen:
+    • Quine-Duhem probleem ook van toepassing op disconfirmatie
+    • Niet kwantitatief: in welke mate wordt iets geconfirmeerd?
+    • Probabilistische hypothesen kunnen niet worden gevat
+
+Popper's alternatief: corroboratie — een hypothese weerstaat pogingen tot falsificatie, maar dit geeft geen reden om er méér in te geloven.
+Bayesiaanse Confirmatietheorie
+Rationele overtuigingsupdate via de stelling van Bayes: na het waarnemen van E past men de graden van overtuiging aan zodat c(H) = c_oud(H|E). Probabilistische confirmatie: E confirmeert H als c(H|E) > c(H).
+Drie factoren die confirmatie versterken:
+    • Hoge initiële geloofwaardigheid van H
+    • Hoge 'likelihood': hoe goed past E bij H?
+    • Hoe verassender E, hoe sterker de confirmatie
+
+H11 — Abductie & Verklaringen
+De Deductief-Nomologische (DN) Theorie
+Een verklaring is een correct argument (geldige redenering met ware premissen) waarbij minstens één premisse een algemene wet is die essentieel is. De conclusie = het explanandum, de premissen = het explanans.
+Twee problemen:
+Irrelevantieprobleem	De DN-theorie laat irrelevante factoren toe in verklaringen (vb. iemand die nooit zwanger wordt, neemt anticonceptiepillen → zwanger-zijn wordt voorkomen, maar de pillen zijn causaal irrelevant).
+
+Symmetrieprobleem	Sommige DN-verklaringen zijn symmetrisch: men kan vlag verklaren uit slagschaduw, maar niet omgekeerd causaal. DN-theorie maakt geen onderscheid.
+
+Wetten
+Beste-systeem-analyse (Lewis): een wet is een universeel gekwantificeerde zin die stelling is van de theorie met de optimale combinatie van eenvoud (kleinste axiomaverzameling) en kracht (meeste ware empirische uitspraken afleidbaar).
+Ceteris paribus-wetten: 'onder gelijke omstandigheden' — laten uitzonderingen toe, maar zijn daardoor moeilijk falsifieerbaar en verzoenen slecht met de DN-theorie.
+Causaliteit
+Regulariteitsanalyse (Hume)	X veroorzaakt Y als (1) X temporeel voorafgaat aan Y en (2) alle X-type gebeurtenissen gevolgd worden door Y-type (indicatieve conditionals). Probleem: asymmetrie.
+
+Causale afhankelijkheid (Lewis)	E is causaal afhankelijk van C als: 'als C was voorgevallen zou E voorgevallen zijn' EN 'als C niet was voorgevallen zou E ook niet zijn voorgevallen' (non-backtracking tegenfeitelijke conditionals). Lost symmetrieprobleem op.
+
+Theoretische Deugden (Kuhn)
+Criteria om theorieën te beoordelen en te vergelijken:
+    • Empirische adequaatheid & accuraatheid: voorspellingen kloppen met observaties
+    • Reikwijdte (empirische kracht): hoeveel feiten kan de theorie verklaren?
+    • Vruchtbaarheid: hoeveel nieuwe feiten voorspelt de theorie?
+    • Interne consistentie: logisch zelfconsistent
+    • Externe consistentie: verenigbaar met andere aanvaarde theorieën
+    • Eenvoud: zo weinig mogelijk axioma's / entiteiten (Occam's scheermes)
+
+Incommensurabiliteit (Kuhn): criteria zijn vaag en wetenschappers kunnen ze anders wegen → geen volledig objectieve theoriekeuze. Empirische accuraatheid weegt het zwaarste, maar volstaat niet altijd.
+Van Fraassen: onderscheid epistemische deugden (adequaatheid, kracht) vs. pragmatische deugden (eenvoud, werkbaarheid). Alleen epistemische deugden zijn relevant voor waarheidsclaims.
+Onderdeterminatie
+Zwakke onderdeterminatie	Twee inconsistente hypothesen zijn beiden consistent met alle huidige observatierapporten.
+
+Sterke onderdeterminatie	Twee inconsistente hypothesen zijn beiden consistent met alle observatierapporten die we ooit zullen of kunnen hebben.
+
+H12 — Wat is Wetenschap? Demarcatie
+Het Demarcatieprobleem
+Wetenschap onderscheiden van niet-wetenschap en pseudowetenschap (niet-wetenschap die zich voordoet als wetenschap). Demarcatiecriteria kunnen voldoende, noodzakelijke of gezamenlijk voldoende/individueel noodzakelijke voorwaarden zijn.
+Popper's Falsificatiecriterium
+Een theorie is wetenschappelijk als en slechts als ze falsifieerbaar is. Popper verwierp zowel inductie (observatiegedreven) als HD-confirmatie (te permissief).
+Problemen:
+    • Sommige pseudowetenschappelijke theorieën zijn wel falsifieerbaar (astrologische voorspellingen)
+    • Sommige wetenschappelijke theorieën zijn (tijdelijk) onfalsifieerbaar door het Quine-Duhem probleem
+    • Ad-hoc-hypothesen kunnen altijd een theorie redden
+
+Lakatos' Onderzoeksprogramma's
+Een onderzoeksprogramma bestaat uit een harde kern (bv. Newtons wetten) omgeven door een beschermende gordel van hulphypothesen, plus heuristieken.
+Progressief	Theoretische groei > empirische groei: nieuwe feiten worden voorspeld én bevestigd. Wetenschappelijk en aantrekkelijk.
+
+Degeneratief / Regressief	Alleen post-hoc verklaringen van reeds bekende feiten, geen nieuwe voorspellingen die uitkomen.
+
+Lakatos' falsificatie is historisch (niet onmiddellijk) en relationeel (tegenover alternatieve programma's). Ad-hoc-hypothesen zijn soms aanvaardbaar.
+Ruse's Meervoudige Demarcatiecriteria
+Ruse stelde vijf criteria voor (gebruikt in rechtszaak over creation science):
+    • Wetenschap zoekt naar wetten (regelmatigheden zonder uitzonderingen)
+    • Verklaren en voorspellen op basis van wetten
+    • Theorieën moeten toetsbaar zijn: voorspellingen afleidbaar, sommige bevestigd, toch falsifieerbaar
+    • Wetenschap is tentatief: bereid een theorie te verwerpen op basis van empirie
+    • Wetenschappers moeten intellectueel eerlijk zijn
+
+Laudan's kritiek: creation science is wél falsifieerbaar (en zelfs gefalsifieerd). Meervoudige criteria zijn dus ook niet zaligmakend.
+Wittgenstein & Pigliucci
+Wittgensteins 'familiegelijkenissen': er is geen enkele scherpe definitie van wetenschap, maar een netwerk van overlappende kenmerken. Pigliucci: wetenschappelijkheid heeft twee dimensies: empirische kennis en theoretisch begrip.
+Klimaatopwarming als Casestudy
+Sceptici: de theorie is onfalsifieerbaar door de vaagheid van 'lange termijn'. Ontkenners: de temperatuurstilstand 1998–2013 is een anomalie die de theorie falsifieert.
+Antwoord: de waarschijnlijkheid van zo'n tijdelijke stilstand is niet nul gegeven klimaatopwarming. Hulphypothesen (oceaanabsorptie) verklaren de anomalie. De theorie scoort hoog op reikwijdte, eenvoud, externe coherentie en confirmatiegraad.
+
+
+DEEL 2: MOEILIJKE EXAMENVRAGEN
+De volgende vragen gaan verder dan louter reproductie van definities. Ze vereisen diep inzicht, verbanden leggen en kritisch redeneren.
+
+Vraag 1: Leg uit waarom het Quine-Duhem probleem zowel een probleem is voor Popper's falsificatiecriterium als voor de HD-confirmatietheorie. Welke fundamenteel verschillende conclusie trekt elk van beide uit dit probleem?
+▶ Modelantwoord:
+Het Quine-Duhem probleem stelt dat bij indirecte falsificatie (Γ ∪ ∆ |= ¬H) men logisch niet kan concluderen dat H zelf onwaar is: de onwaarheid kan bij de observatiezinnen of hulphypothesen liggen. Voor Popper is dit problematisch omdat zijn demarcatiecriterium (falsifieerbaarheid) veronderstelt dat een gefalsifieerde theorie verworpen moet worden — maar dit is nooit logisch dwingend. Popper's reactie: wetenschappers mogen geen ad-hoc-hypothesen gebruiken om hun theorie te 'immuniseren'. Voor de HD-confirmatietheorie stelt het probleem zich bij disconfirmatie: net zoals bij falsificatie weet men niet welk onderdeel van {H, ∆, observaties} de schuld draagt. Popper verwerpt de HD-confirmatietheorie volledig en stelt corroboratie in de plaats; de HD-theorie probeert het probleem te omzeilen door de focus te leggen op het bevestigen, niet het weerleggen. Echter: de fundamentele logische zwakheid blijft dezelfde voor beide benaderingen.
+
+Vraag 2: Goodman's 'nieuw raadsel' wordt soms gezien als ernstiger dan Hume's probleem van inductie. Leg uit waarom. Wat impliceert dit voor het onderscheid tussen 'goede' en 'slechte' inductie?
+▶ Modelantwoord:
+Hume's probleem toont aan dat inductie nooit logisch geldig kan worden gemaakt: we hebben geen niet-circulair bewijs voor de uniformiteit van de natuur. Maar Hume erkent dat inductie 'werkt' in de praktijk — we hebben alleen geen rationele rechtvaardiging. Goodman's raadsel gaat verder: zelfs als we de uniformiteit van de natuur als gegeven aanvaarden, kunnen we nog steeds niet bepalen wélke inductieve redeneringen geldig zijn. Twee formeel identieke inductieve argumenten (alle geobserveerde smaragden zijn groen / alle geobserveerde smaragden zijn grouw) leiden tot contradictoire conclusies. Dit toont aan dat de inhoud (de predikaten) en niet enkel de vorm van het argument bepaalt of inductie geldig is. Goodman's 'entrenchment'-oplossing: predicaten die historisch meer gebruikt zijn (zoals 'groen') zijn 'geëntrencht' en geven aanleiding tot betere inductieve projecties. Dit is echter ook niet volledig bevredigend.
+
+Vraag 3: Vergelijk de regulariteitsanalyse van causaliteit met de tegenfeitelijke analyse. Welk probleem lost de tweede op, en welk nieuw probleem introduceert ze?
+▶ Modelantwoord:
+De regulariteitsanalyse (Hume): X veroorzaakt Y als X temporeel voorafgaat aan Y en alle X-type gebeurtenissen gevolgd worden door Y-type. Probleem: causaliteit is asymmetrisch (de slagschaduw van een vlag verklaart de lengte van de vlag niet), maar de regulariteitsrelatie is symmetrisch. De tegenfeitelijke analyse (Lewis): E is causaal afhankelijk van C als 'als C niet was voorgevallen, zou E ook niet zijn voorgevallen' (non-backtracking). Dit lost het symmetrieprobleem op: 'als de mast langer was geweest, zou de slagschaduw langer zijn' is waar, maar 'als de slagschaduw langer was geweest, zou de mast langer zijn' is onwaar in non-backtracking lezing. Nieuw probleem: de evaluatie van tegenfeitelijke conditionals is notoir moeilijk en vereist een mogelijke-werelden-semantiek die zelf controversieel is. Bovendien: wat bepaalt welke mogelijke wereld 'het dichtst' bij de actuele wereld ligt?
+
+Vraag 4: Een wetenschapper beweert dat haar theorie T wetenschappelijk superieur is omdat ze meer theoretische deugden heeft dan de concurrerende theorie T'. Leg uit waarom dit argument problematisch is volgens zowel Kuhn (incommensurabiliteit) als van Fraassen (epistemisch vs. pragmatisch).
+▶ Modelantwoord:
+Kuhn's incommensurabiliteitsargument: de theoretische deugden zijn tot op zekere hoogte vaag (wat telt als 'eenvoudig'?). Bovendien kunnen T en T' op verschillende criteria verschillend scoren — T is eenvoudiger maar T' is vruchtbaarder. Er is geen objectieve weging. Individuele wetenschappers of tradities kunnen verschillende criteria zwaarder laten doorwegen, zonder dat er een overkoepelend rationeel criterium bestaat om te arbitreren. Dit leidt tot gedeeltelijke onvergelijkbaarheid. Van Fraassen's argument: niet alle 'theoretische deugden' zijn epistemisch relevant voor de waarheidswaarde van een theorie. Eenvoud en werkbaarheid zijn pragmatisch: ze maken een theorie gebruiksgemakkelijker, maar ze maken haar niet waarschijnlijker waar. Enkel empirische adequaatheid, accuraatheid en kracht zijn echte epistemische deugden. De wetenschapper vermengt dus epistemische en pragmatische overwegingen.
+
+Vraag 5: Stel: een theorie H wordt indirect gefalsifieerd door observatiezinnen O₁,...,Oₙ relatief t.o.v. hulphypothesen A₁,...,Aₘ. Een onderzoeker voert nu een ad-hoc-hypothese B in om H te redden. Wanneer is B, volgens Lakatos, toch rationeel verdedigbaar? Geef ook een historisch voorbeeld.
+▶ Modelantwoord:
+Lakatos stelt dat een ad-hoc-hypothese B rationeel verdedigbaar is als ze deel uitmaakt van een progressief onderzoeksprogramma: B moet zelf nieuwe, onafhankelijk toetsbare empirische voorspellingen genereren die vervolgens bevestigd worden. Met andere woorden: B mag H niet enkel 'immuniseren' maar moet de empirische reikwijdte van het programma uitbreiden. Historisch voorbeeld: de anomalie in de baan van Uranus leidde tot de ad-hoc-hypothese dat er een nog onbekende planeet bestond (Neptunus). Deze hypothese was niet ad-hoc in de pejoratieve zin: ze genereerde een onafhankelijk toetsbare voorspelling (de positie van Neptunus) die later werd bevestigd. Contrast: de voorspellingen van Marxisten die steeds post-hoc worden aangepast maar nooit nieuwe fenomenen voorspellen, zijn wel onterecht ad-hoc.
+
+Vraag 6: Leg uit hoe de theoriegeladenheid van observaties en het Quine-Duhem probleem samen de demarcatievraag van Popper ondermijnen. Is er een uitweg?
+▶ Modelantwoord:
+Theoriegeladenheid: observaties zijn niet neutraal — ze worden geselecteerd, beschreven en geïnterpreteerd op basis van theoretische aannames. Dit impliceert dat de 'ware observatiezinnen' O₁,...,Oₙ zelf theorie-beladen zijn. Als de achterliggende theorie van de observatie-instrumenten fout is, zijn de observatiezinnen mogelijk onbetrouwbaar. Quine-Duhem: zelfs als we de observatiezinnen als betrouwbaar beschouwen, volgt uit Γ ∪ ∆ |= ¬H niet dat H onwaar is. Men kan altijd een hulphypothese aanpassen. Samen ondermijnen ze Popper's criterium: er bestaat geen zuiver observationele basis om theorieën te falsifiëren, en zelfs als die basis bestond, kunnen theorieën nooit logisch dwingend worden verworpen. Mogelijke uitweg: Lakatos' historische en relationele falsificatie — een theorie wordt verlaten wanneer een progressiever alternatief beschikbaar is. Dit verschuift het criterium van logische falsificatie naar rationele theoriekeuze binnen een wetenschappelijke gemeenschap.
+
+Vraag 7: Bespreek de spanning tussen de subjectieve interpretatie van waarschijnlijkheid en het Bayesiaanse updateproces als fundament voor wetenschappelijke rationaliteit. Welke bezwaren zijn er?
+▶ Modelantwoord:
+De subjectieve interpretatie: p(H) reflecteert de subjectieve geloofwaardigheid van een wetenschapper. Bayesiaans updaten: na observatie van E wordt c(H) = c_oud(H|E). Dit lijkt rationaliteit te formaliseren: wetenschappers passen hun overtuigingen coherent aan op basis van bewijs. Bezwaren: (1) Initieel subjectivisme: als twee wetenschappers sterk verschillende priors c(H) hebben, kan hetzelfde bewijs E hen naar totaal verschillende posteriors leiden. Bij voldoende bewijs convergeren ze (Cromwell's rule), maar dit kan zeer lang duren. (2) De choice of likelihood c(E|H) is ook subjectief: hoe weet men hoe goed het bewijs past bij de hypothese? (3) Bayesiaans updaten veronderstelt dat men een exhaustieve ruimte van hypothesen heeft; maar wetenschappelijke creativiteit introduceert nieuwe hypothesen die men vooraf niet in beschouwing nam. (4) Computationele onhaalbaarheid: in de praktijk is exacte Bayesiaanse inferentie voor complexe theorieën onmogelijk.
+
+
+— Succes met het examen! —
